@@ -31,6 +31,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 
 ## Exchanges
 
+## Services
 
 
 ## Digital Art
