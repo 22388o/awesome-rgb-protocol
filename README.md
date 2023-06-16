@@ -34,6 +34,15 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 
 - [RGB Telegram](https://t.me/rgbtelegram)
 
+## Articles
+
+- [Understanding the RGB protocol](https://medium.com/@FedericoTenga/understanding-rgb-protocol-7dc7819d3059)
+- [A Brief Introduction To RGB Protocols](https://bitcoinmagazine.com/guides/a-brief-introduction-to-rgb-protocols)
+- [With RGB, The Bitcoin Lightning Network Can Now Transfer Altcoin Assets](https://bitcoinmagazine.com/technical/how-rgb-enables-altcoins-on-bitcoin)
+- [RGB Magic: Client-Side Contracts On Bitcoin](https://bitcoinmagazine.com/technical/rgb-magic-client-contracts-on-bitcoin)
+- [Video Interview: Giacomo Zucco and RGB Tokens Built on Bitcoin](https://bitcoinmagazine.com/culture/video-interview-giacomo-zucco-rgb-tokens-built-bitcoin)
+- [RGB And Taro, Both Putting Tokens On Bitcoin, Take Two Different Approaches To Development](https://bitcoinmagazine.com/technical/rgb-taro-putting-tokens-on-bitcoin)
+
 ## Wallets
 
 - [MyCitadel](https://mycitadel.io/) 
@@ -46,16 +55,24 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [Portico Exchange](https://github.com/PorticoExchange)
 - [Bitswap](https://github.com/BitSwap-BiFi)
 - Colorshift
-- Bitfy
 - Bitifinex
 - Hodl Hodl
+
+## Registries
+
+- [RGB schemata registry](https://github.com/RGB-WG/schemata-registry)
+
+- [Storm](https://github.com/Storm-WG)
+
+- [RGBDex.io](https://rgb.tech/software/registries/rgbex.io)
+
 
 ## Services
 
 - [RGB Minting Service](https://github.com/LukasBahrenberg/rgb-minting-service)
 - [RGB Lightning Sample](https://github.com/RGB-Tools/rgb-lightning-sample)
 
-## Digital Art
+## Digital Art & NFTs
 
 - [DIBA](https://diba.io/) 
 
