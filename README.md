@@ -27,6 +27,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 
 - [RGB FAQ](https://www.rgbfaq.com/) 
 - [RGB Tech](https://rgb.tech/) 
+- [RGB Info](https://rgb.info/)
 - [RGB Blackpaper](https://blackpaper.rgb.tech/)
 - [RGB Spec](https://spec.rgb.tech/)
 - [AluVM](https://www.aluvm.org/)
@@ -34,7 +35,6 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [Strict types](https://www.strict-types.org/)
 - [List of specifications](https://standards.lnp-bp.org/)
 - [RGB Code](https://github.com/RGB-WG/rgb-core)
-- [BP: Bitcoin protocol](https://github.com/BP-WG)
 
 ## Community
 
