@@ -33,6 +33,8 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [Contractum](https://www.contractum.org/)
 - [Strict types](https://www.strict-types.org/)
 - [List of specifications](https://standards.lnp-bp.org/)
+- [RGB Code](https://github.com/RGB-WG/rgb-core)
+- [BP: Bitcoin protocol](https://github.com/BP-WG)
 
 ## Community
 
@@ -74,6 +76,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 
 - [RGB-lib](https://github.com/RGB-Tools/rgb-lib)
 - [RGB Lib Python bindings](https://github.com/RGB-Tools/rgb-lib-python)
+- [RGB Core Library](https://github.com/RGB-WG/rgb-core)
 
 ## Wallets
 
@@ -101,6 +104,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 
 - [RGB Minting Service](https://github.com/LukasBahrenberg/rgb-minting-service)
 - [RGB Lightning Sample](https://github.com/RGB-Tools/rgb-lightning-sample)
+- [https://github.com/LNP-WG](https://github.com/LNP-WG)
 
 ## Digital Art & NFTs
 
