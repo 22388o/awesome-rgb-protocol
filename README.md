@@ -45,7 +45,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 
 - [Portico Exchange](https://github.com/PorticoExchange)
 - [Bitswap](https://github.com/BitSwap-BiFi)
-- Coloshift
+- Colorshift
 - Bitfy
 - Bitifinex
 - Hodl Hodl
