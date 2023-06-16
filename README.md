@@ -59,7 +59,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [BH2022: Smart Contracts, Bitcoin in El Salvador, Economic Empowerment and Civil Resistance ](https://www.youtube.com/watch?v=43sqrqfrD9Y)
 - [RGB protocol: Asset issuance on Bitcoin and Lightning Network | Plan ₿ Forum 2022 | Lugano](https://www.youtube.com/watch?v=WBnMiHQCt6g)
 
-# Podcast
+## Podcast
 
 - [SLP439 Federico Tenga – What is RGB for Bitcoin? Iris wallet](https://stephanlivera.com/episode/439/)
 - [Maxim Orlovsky on Building RGB, Standards for BTC & LN, and Smart Contracts on Bitcoin | E108](https://www.youtube.com/watch?v=mLrKainZgAw)
