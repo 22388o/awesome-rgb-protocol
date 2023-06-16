@@ -17,6 +17,8 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 
 - [LNP/BP Standards Association](https://github.com/LNP-BP)
 - [RGB Working Group repository](https://github.com/RGB-WG) 
+- [LNP/BP Association (website)](https://www.lnp-bp.org/)
+
 ## Resources
 
 - [RGB FAQ](https://www.rgbfaq.com/) 
