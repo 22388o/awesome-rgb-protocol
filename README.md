@@ -35,6 +35,9 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 ## Community
 
 - [RGB Telegram](https://t.me/rgbtelegram)
+- [RGB Developers](https://t.me/RGBDevelopers)
+- [RGB Twitter List](https://twitter.com/i/lists/1582840508933582849/members)
+- [RGB Community (Twitter)](
 
 ## Articles
 
@@ -47,6 +50,28 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [BTC-Backed Stablecoins Will be An Integral Part Of The Bitcoin Economy](https://bitcoinmagazine.com/technical/world-needs-bitcoin-backed-stablecoins)
 - [The Path To A Bitcoin Economy: Decentralized Bitcoin-Backed Credit](https://bitcoinmagazine.com/culture/decentralized-bitcoin-backed-credit)
 - [Ordinals Have Proven Demand On Bitcoin, But Fees Will Push Users To Layer 2](https://bitcoinmagazine.com/culture/bitcoin-ordinal-problems-solved-by-layer-2)
+- [Emergence of Token Layers on Bitcoin: Overview of Client-Side Validation, RGB and Taro](https://docsend.com/view/he8x9erkjmphphvn)
+
+## Videos
+
+- [BH2022: Smart Contracts, Bitcoin in El Salvador, Economic Empowerment and Civil Resistance ](https://www.youtube.com/watch?v=43sqrqfrD9Y)
+- [RGB protocol: Asset issuance on Bitcoin and Lightning Network | Plan ₿ Forum 2022 | Lugano](https://www.youtube.com/watch?v=WBnMiHQCt6g)
+
+# Podcast
+
+- [SLP439 Federico Tenga – What is RGB for Bitcoin? Iris wallet](https://stephanlivera.com/episode/439/)
+- [Maxim Orlovsky on Building RGB, Standards for BTC & LN, and Smart Contracts on Bitcoin | E108](https://www.youtube.com/watch?v=mLrKainZgAw)
+
+## Guides
+
+- [Scriptless Atomic Swaps](https://github.com/crisdut/lnpbp-regtest/blob/master/usecases/2_scriptless_atomic_swaps.md)
+- [RGB Sandbox](https://github.com/RGB-Tools/rgb-sandbox)
+
+
+## Libraries
+
+- [RGB-lib](https://github.com/RGB-Tools/rgb-lib)
+- [RGB Lib Python bindings](https://github.com/RGB-Tools/rgb-lib-python)
 
 ## Wallets
 
