@@ -37,7 +37,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [RGB Telegram](https://t.me/rgbtelegram)
 - [RGB Developers](https://t.me/RGBDevelopers)
 - [RGB Twitter List](https://twitter.com/i/lists/1582840508933582849/members)
-- [RGB Community (Twitter)](
+- [RGB Community (Twitter)](https://twitter.com/i/communities/1585365616743022595)
 
 ## Articles
 
