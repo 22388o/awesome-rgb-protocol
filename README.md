@@ -30,6 +30,10 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [Strict types](https://www.strict-types.org/)
 - [List of specifications](https://standards.lnp-bp.org/)
 
+## Community
+
+- [RGB Telegram](https://t.me/rgbtelegram)
+
 ## Wallets
 
 - [MyCitadel](https://mycitadel.io/) 
