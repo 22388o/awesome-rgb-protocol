@@ -76,7 +76,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [RGB-lib](https://github.com/RGB-Tools/rgb-lib)
 - [RGB Lib Python bindings](https://github.com/RGB-Tools/rgb-lib-python)
 - [RGB Core Library](https://github.com/RGB-WG/rgb-core)
-- [RGB Lib Javascript bindings](https://github.com/PorticoExchange/rgb-lib-javascript)
+- [RGB Lib Javascript blindings](https://github.com/PorticoExchange/rgb-lib-javascript)
 - [RGB Lib Swift bindings](https://github.com/RGB-Tools/rgb-lib-swift)
 - [RGB Sandbox](https://github.com/RGB-Tools/rgb-sandbox)
 - [RGB Lib Kotlin bindings](https://github.com/RGB-Tools/rgb-lib-kotlin)
