@@ -3,7 +3,9 @@
  A curated list of RGB projects and resources 
  
  [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
- 
+
+ ![image](https://github.com/22388o/awesome-rgb-protocol/assets/83122757/764c7d5c-835c-4243-97f3-7d449a83ae00)
+
  ## What is RGB protocol?
  
  RGB is a scalable & confidential smart contracts system for Bitcoin & lightning network. They embrace concepts of private & mutual ownership, abstraction and separation of concerns and represent "post-blockchain", Turing-complete form of trustless distributed computing which does not require introduction of "tokens".
