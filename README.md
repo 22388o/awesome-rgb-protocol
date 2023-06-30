@@ -111,6 +111,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 ## Services
 
 - [RGB Minting Service](https://github.com/LukasBahrenberg/rgb-minting-service)
+- [RGB NFT Minting Service CLI](https://github.com/V0nMis3s/rgb-nft-minting-service)
 - [RGB Lightning Sample](https://github.com/RGB-Tools/rgb-lightning-sample)
 - [LNP Node](https://github.com/LNP-WG)
 
