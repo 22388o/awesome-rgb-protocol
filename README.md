@@ -37,6 +37,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [Contractum](https://www.contractum.org/)
 - [Strict types](https://www.strict-types.org/)
 - [List of specifications](https://standards.lnp-bp.org/)
+- [UBIDECO Institute](https://github.com/UBIDECO)
 
 ## Community
 
