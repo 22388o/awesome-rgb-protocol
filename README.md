@@ -133,6 +133,8 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [Bitcoin Protocol](https://github.com/BP-WG)
 - [Prometheus: trustless & scalable machine learning](https://github.com/Prometheus-WG)
 - [LNP Node](https://github.com/LNP-WG)
+- [reNostr](https://github.com/renostr)
+- [Cyphernet](https://github.com/cyphernet-dao)
 
 ## Companies working of form independent on RGB Protocol
 
