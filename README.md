@@ -115,6 +115,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 
 - [RGB schemata registry](https://github.com/RGB-WG/schemata-registry)
 - [Storm](https://github.com/Storm-WG)
+- [Carbonado](https://github.com/diba-io/carbonado) - Compatible with RGB
 - [RGBDex.io](https://rgb.tech/software/registries/rgbex.io)
 
 
