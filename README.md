@@ -123,11 +123,16 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [RGB Minting Service](https://github.com/LukasBahrenberg/rgb-minting-service)
 - [RGB NFT Minting Service CLI](https://github.com/V0nMis3s/rgb-nft-minting-service)
 - [RGB Lightning Sample](https://github.com/RGB-Tools/rgb-lightning-sample)
-- [LNP Node](https://github.com/LNP-WG)
 
 ## NFTs
 
-- [DIBA](https://diba.io/) 
+- [DIBA](https://diba.io/)
+
+## Others things
+
+- [Bitcoin Protocol](https://github.com/BP-WG)
+- [Prometheus: trustless & scalable machine learning](https://github.com/Prometheus-WG)
+- [LNP Node](https://github.com/LNP-WG)
 
 ## Companies working of form independent on RGB Protocol
 
