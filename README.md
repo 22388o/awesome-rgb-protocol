@@ -18,6 +18,14 @@ RGB separates concept of smart contract issuer, state owners and state evolution
 RGB keeps the smart contract code and data off-chain
 RGB uses blockchain as a state commitment layer and Bitcoin script as an ownership control system; while smart contract evolution is defined by off-chain schema
 
+## Potential Use Case
+
+- Tokenized Securities
+- Exchanges Decentralized
+- NFTs and Art
+- Decentralized identities
+- Storage
+
 ## Protocol 
 
 - [LNP/BP Standards Association](https://github.com/LNP-BP)
