@@ -128,6 +128,10 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 
 - [DIBA](https://diba.io/)
 
+## Companies working of form independent on RGB Protocol
+
+- [RGB Tools](https://github.com/RGB-Tools)
+
 ## Others things
 
 - [Bitcoin Protocol](https://github.com/BP-WG)
@@ -135,7 +139,3 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [LNP Node](https://github.com/LNP-WG)
 - [reNostr](https://github.com/renostr)
 - [Cyphernet](https://github.com/cyphernet-dao)
-
-## Companies working of form independent on RGB Protocol
-
-- [RGB Tools](https://github.com/RGB-Tools)
