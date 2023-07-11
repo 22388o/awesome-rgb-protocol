@@ -104,7 +104,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [BitMask](https://bitmask.app/) 
 - [Iris](https://github.com/RGB-Tools/iris-wallet-android) 
 - [Shiro](https://github.com/diamondhands-dev/shiro-backend)
-- [Wallby](https://wallby.app/): TBD
+- [Wallby](https://wallby.app/)
 
 ## Exchanges
 
@@ -118,7 +118,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 
 - [RGB schemata registry](https://github.com/RGB-WG/schemata-registry)
 - [Storm](https://github.com/Storm-WG)
-- [Carbonado](https://github.com/diba-io/carbonado) - Compatible with RGB
+- [Carbonado](https://github.com/diba-io/carbonado)
 - [RGBDex.io](https://rgb.tech/software/registries/rgbex.io)
 
 
