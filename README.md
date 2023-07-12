@@ -135,6 +135,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 ## Companies working of form independent on RGB Protocol
 
 - [RGB Tools](https://github.com/RGB-Tools)
+- Portico Labs
 
 ## Others things
 
