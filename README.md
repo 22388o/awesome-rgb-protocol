@@ -29,7 +29,8 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - Lending
 - Atomic Swap
 - Submarine Swap
-- Lending 
+- Wallets
+  
 ## Protocol 
 
 - [LNP/BP Standards Association](https://github.com/LNP-BP)
