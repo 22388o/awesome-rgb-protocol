@@ -72,6 +72,9 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [Emergence of Token Layers on Bitcoin: Overview of Client-Side Validation, RGB and Taro](https://docsend.com/view/he8x9erkjmphphvn)
 - [Understanding RGB Protocol: Everything You Need to Know](https://diba.io/blog/understanding-rgb-protocol)
 - [What is the RGB Protocol on Bitcoin?](https://trustmachines.co/learn/what-is-the-rgb-protocol-on-bitcoin)
+- [RGB as a Computing Platform](https://rgb.tech/blog/rgb-computing/)
+- [RGB release v0.10](https://rgb.tech/blog/release-v0-10/)
+- [RGB release v0.7](https://rgb.tech/blog/release-v0-7/)
 
 ## Videos
 
