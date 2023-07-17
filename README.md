@@ -118,12 +118,15 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [Bitifinex](https://www.bitfinex.com/)
 - [Hodl Hodl](https://hodlhodl.com/)
 
+## Explorer
+
+- [RGBex](https://rgbex.io/)
+
 ## Registries
 
 - [RGB schemata registry](https://github.com/RGB-WG/schemata-registry)
 - [Storm](https://github.com/Storm-WG)
 - [Carbonado](https://github.com/diba-io/carbonado)
-- [RGBDex.io](https://rgb.tech/software/registries/rgbex.io)
 
 
 ## Services
