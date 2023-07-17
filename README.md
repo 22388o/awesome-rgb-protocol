@@ -30,6 +30,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - Atomic Swap
 - Submarine Swap
 - Wallets
+- Explorers
   
 ## Protocol 
 
