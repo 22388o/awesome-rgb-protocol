@@ -55,6 +55,8 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 ## Community
 
 - [RGB Telegram](https://t.me/rgbtelegram)
+- [RGBaguette](https://t.me/rgbaguette) 
+- [RGB Italia](https://t.me/rgbitalia) 
 - [RGB Developers](https://t.me/RGBDevelopers)
 - [RGB Twitter List](https://twitter.com/i/lists/1582840508933582849/members)
 - [RGB Community (Twitter)](https://twitter.com/i/communities/1585365616743022595)
@@ -134,6 +136,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [RGB Minting Service](https://github.com/LukasBahrenberg/rgb-minting-service)
 - [RGB NFT Minting Service CLI](https://github.com/V0nMis3s/rgb-nft-minting-service)
 - [RGB Lightning Sample](https://github.com/RGB-Tools/rgb-lightning-sample)
+- [Bitcoin Pro](https://github.com/pandora-prime/bitcoin-pro)
 
 ## NFTs
 
@@ -147,7 +150,16 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 ## Others things
 
 - [Bitcoin Protocol](https://github.com/BP-WG)
+- [Pandora Prime](https://github.com/pandora-prime)
+- [Pandora Network](https://github.com/pandora-network)
+- 
 - [Prometheus: trustless & scalable machine learning](https://github.com/Prometheus-WG)
 - [LNP Node](https://github.com/LNP-WG)
 - [reNostr](https://github.com/renostr)
 - [Cyphernet](https://github.com/cyphernet-dao)
+
+# Extra lists
+
+- [Awesome RGB](https://github.com/louneskmt/awesome-rgb)
+- [RGB Resources](https://github.com/fedsten/rgb-resources)
+
