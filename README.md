@@ -157,7 +157,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [reNostr](https://github.com/renostr)
 - [Cyphernet](https://github.com/cyphernet-dao)
 
-# Extra lists
+## Extra lists
 
 - [Awesome RGB](https://github.com/louneskmt/awesome-rgb)
 - [RGB Resources](https://github.com/fedsten/rgb-resources)
