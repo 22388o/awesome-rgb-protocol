@@ -152,7 +152,6 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [Bitcoin Protocol](https://github.com/BP-WG)
 - [Pandora Prime](https://github.com/pandora-prime)
 - [Pandora Network](https://github.com/pandora-network)
-- 
 - [Prometheus: trustless & scalable machine learning](https://github.com/Prometheus-WG)
 - [LNP Node](https://github.com/LNP-WG)
 - [reNostr](https://github.com/renostr)
