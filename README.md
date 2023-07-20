@@ -149,13 +149,13 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [RGB Tools](https://github.com/RGB-Tools)
 - Portico Labs
 
-## Comapanies support RGB Protocol
+## Comapanies support RGB Protocol 
 
 - Portico Labs
 - Bitifinex
 - HodlHodl
 - DIBA
-- Pandora Prime
+- [Pandora Prime](https://pandoraprime.ch/)
 - Fulgur Ventures
 - Hojo Foundation
 
