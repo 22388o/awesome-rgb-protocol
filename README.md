@@ -116,11 +116,11 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 
 ## Exchanges
 
-- [Portico Exchange](https://github.com/PorticoExchange)
-- [Bitswap](https://github.com/BitSwap-BiFi)
-- Colorshift
-- [Bitifinex](https://www.bitfinex.com/)
-- [Hodl Hodl](https://hodlhodl.com/)
+- [Portico Exchange](https://github.com/PorticoExchange) - DEX with Atomic transactions on Lightning Network
+- [Bitswap](https://github.com/BitSwap-BiFi) - DEX AMM on RGB Protocol
+- Colorshift - Exchange RGB Assets under Swiss Law
+- [Bitifinex](https://www.bitfinex.com/) - Major and Old in the Bitcoin industry
+- [Hodl Hodl](https://hodlhodl.com/) - P2P Lending and exhcange
 
 ## Explorer
 
