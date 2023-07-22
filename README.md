@@ -145,6 +145,8 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 
 - [DIBA](https://diba.io/)
 - [NFT Swap](https://github.com/PorticoExchange/NFT-Swap)
+- [RGB Minting Service](https://github.com/LukasBahrenberg/rgb-minting-service)
+- [RGB NFT Minting Service CLI](https://github.com/V0nMis3s/rgb-nft-minting-service)
 
 ## Companies working of form independent on RGB Protocol
 
