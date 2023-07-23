@@ -106,6 +106,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [RGB Lib Swift bindings](https://github.com/RGB-Tools/rgb-lib-swift)
 - [RGB Lib Kotlin bindings](https://github.com/RGB-Tools/rgb-lib-kotlin)
 - [RGB Lib Javascript binding](https://github.com/PorticoExchange/rgb-lib-javascript)
+- [BPro Library](https://github.com/pandora-prime/bpro)
 
 ## Wallets
 
