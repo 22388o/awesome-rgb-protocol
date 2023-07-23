@@ -80,7 +80,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [RGB as a Computing Platform](https://rgb.tech/blog/rgb-computing/)
 - [RGB release v0.10](https://rgb.tech/blog/release-v0-10/)
 - [RGB release v0.7](https://rgb.tech/blog/release-v0-7/)
-- [Is Lightning Scaling Bitcoin in a Way Nobody Predicted?]
+- [Is Lightning Scaling Bitcoin in a Way Nobody Predicted?](https://blog.bitfinex.com/education/is-lightning-scaling-bitcoin-in-a-way-nobody-predicted/)
 
 ## Videos
 
