@@ -83,6 +83,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - [Is Lightning Scaling Bitcoin in a Way Nobody Predicted?](https://blog.bitfinex.com/education/is-lightning-scaling-bitcoin-in-a-way-nobody-predicted/)
 - [How Can RGB Improve Bitcoin?](https://blog.bitfinex.com/education/how-can-rgb-improve-bitcoin/)
 - [What Does the Bitcoin DeFi Ecosystem Look Like?](https://blog.bitfinex.com/education/what-does-the-bitcoin-defi-ecosystem-look-like/)
+- [Is Bitcoin Undervalued](https://blog.bitfinex.com/education/is_bitcoin_undervalued/)
   
 ## Videos
 
