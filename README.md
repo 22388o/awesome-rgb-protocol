@@ -32,7 +32,15 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - Wallets
 - Explorers
 - Machine Learning
-  
+
+## Tech Overview
+
+Little overview aroud RGB 
+
+### Core
+
+### Design
+
 ## Protocol 
 
 - [LNP/BP Standards Association](https://github.com/LNP-BP)
