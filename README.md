@@ -142,6 +142,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [RGB Lib Javascript binding](https://github.com/PorticoExchange/rgb-lib-javascript)
 - [BPro Library](https://github.com/pandora-prime/bpro)
 - [RGB TS](https://github.com/chernyal/rgb)
+- [RGB Lib Sample](https://github.com/diamondhands-rgb/rgb-lib-sample)
 
 ## Wallets
 
