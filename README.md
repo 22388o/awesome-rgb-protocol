@@ -177,7 +177,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [RGB NFT Minting Service CLI](https://github.com/V0nMis3s/rgb-nft-minting-service)
 - [RGB Lightning Sample](https://github.com/RGB-Tools/rgb-lightning-sample)
 - [Bitcoin Pro](https://github.com/pandora-prime/bitcoin-pro)
-
+- [RGB Proxy Server](https://github.com/grunch/rgb-proxy-server)
+  
 ## NFTs
 
 - [DIBA](https://diba.io/)
