@@ -77,6 +77,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Strict types](https://www.strict-types.org/)
 - [List of specifications](https://standards.lnp-bp.org/)
 - [UBIDECO Institute](https://github.com/UBIDECO)
+- [Archive of legacy RGB development](https://github.com/rgb-archive)
+- [RGB Blueprint Old](https://rgb-org.github.io/)
 
 ## Community
 
