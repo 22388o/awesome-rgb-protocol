@@ -161,6 +161,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - Colorshift - Exchange RGB Assets under Swiss Law
 - [Bitifinex](https://www.bitfinex.com/) - Major and Old Exchange in the Bitcoin industry
 - [Hodl Hodl](https://hodlhodl.com/) - P2P Lending and Exhcange
+- Kaleidoscope - Decentralized exchange protocols (DEX) for Lightning with RGB and other assets
 
 ## Explorer
 
@@ -212,6 +213,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [LNP Node](https://github.com/LNP-WG)
 - [reNostr](https://github.com/renostr)
 - [Cyphernet](https://github.com/cyphernet-dao)
+- Bitfrost
 
 ## Extra lists
 
