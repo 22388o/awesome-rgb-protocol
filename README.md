@@ -34,6 +34,10 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - Wallets
 - Explorers
 - Machine Learning
+- Mint Services
+- Social media (accepting payments via Stablecoins or tokens)
+- DAOs
+- Muti-layer network
 
 ## Tech Overview
 
