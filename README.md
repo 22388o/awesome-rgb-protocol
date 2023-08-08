@@ -177,6 +177,16 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Storm](https://github.com/Storm-WG)
 - [Carbonado](https://github.com/diba-io/carbonado)
 
+## Nodes
+
+- [RGB Lightning Node](https://github.com/RGB-Tools/rgb-lightning-node)
+- [RGB Lightning Sample](https://github.com/RGB-Tools/rgb-lightning-sample)
+- [RGB Node](https://github.com/RGB-WG/rgb-node)
+- [BP Node](https://github.com/BP-WG/bp-node)
+- [LNP Node](https://github.com/LNP-WG/lnp-node)
+- [Storm Node](https://github.com/Storm-WG/storm-node)
+
+
 
 ## Services
 
@@ -185,6 +195,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [RGB Lightning Sample](https://github.com/RGB-Tools/rgb-lightning-sample)
 - [Bitcoin Pro](https://github.com/pandora-prime/bitcoin-pro)
 - [RGB Proxy Server](https://github.com/grunch/rgb-proxy-server)
+- [RGB Lightning Node](https://github.com/RGB-Tools/rgb-lightning-node)
   
 ## NFTs
 
