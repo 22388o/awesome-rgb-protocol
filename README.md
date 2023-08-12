@@ -208,17 +208,17 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 ## Companies working of form independent on RGB Protocol
 
 - [RGB Tools](https://github.com/RGB-Tools)
-- Portico Labs
+- [Portico Labs](https://porticoexchange.github.io/porticoexchangev2.github.io/)
 
 ## Comapanies support RGB Protocol 
 
-- Portico Labs
-- Bitifinex
-- HodlHodl
-- DIBA
+- [Portico Labs](https://porticoexchange.github.io/porticoexchangev2.github.io/)
+- [Bitifinex](https://www.bitfinex.com/)
+- [HodlHodl](https://hodlhodl.com/)
+- [DIBA](https://diba.io/)
 - [Pandora Prime](https://pandoraprime.ch/)
-- Fulgur Ventures
-- Hojo Foundation
+- [Fulgur Ventures](https://fulgur.ventures/)
+- [Hojo Foundation](https://twitter.com/hojofoundation)
 
 ## Others things
 
