@@ -167,7 +167,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Bitifinex](https://www.bitfinex.com/) - Major and Old Exchange in the Bitcoin industry
 - [Hodl Hodl](https://hodlhodl.com/) - P2P Lending and Exhcange
 - Kaleidoscope - Decentralized exchange protocols (DEX) for Lightning with RGB and other assets
-- [COSMINMART](http://www.cosminmart.com/)
+- [COSMINMART](http://www.cosminmart.com/) - Marketplace, Exchange for RGB and Ordinals
 
 ## Explorer
 
