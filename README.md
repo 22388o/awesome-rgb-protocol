@@ -133,6 +133,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
  
 - [Maxim Orlovsky on Building RGB, Standards for BTC & LN, and Smart Contracts on Bitcoin | E108](https://www.youtube.com/watch?v=mLrKainZgAw)
 
+- [SLP501 RGB Walkthrough with Maxim Orlovsky](https://stephanlivera.com/episode/501/)
+
 ## Guides
 
 - [Scriptless Atomic Swaps](https://github.com/crisdut/lnpbp-regtest/blob/master/usecases/2_scriptless_atomic_swaps.md)
