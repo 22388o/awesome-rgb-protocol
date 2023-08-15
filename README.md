@@ -206,7 +206,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [NFT Swap](https://github.com/PorticoExchange/NFT-Swap)
 - [RGB Minting Service](https://github.com/LukasBahrenberg/rgb-minting-service)
 - [RGB NFT Minting Service CLI](https://github.com/V0nMis3s/rgb-nft-minting-service)
-- [COSMINMART](http://www.cosminmart.com/)
+- [Cosminmart](http://www.cosminmart.com/)
 
 ## Companies working of form independent on RGB Protocol
 
@@ -222,6 +222,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Pandora Prime](https://pandoraprime.ch/)
 - [Fulgur Ventures](https://fulgur.ventures/)
 - [Hojo Foundation](https://twitter.com/hojofoundation)
+- [Cosminmart]*http://www.cosminmart.com/#/)
 
 ## Others things
 
