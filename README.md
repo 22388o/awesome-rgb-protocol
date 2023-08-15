@@ -114,6 +114,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [How Can RGB Improve Bitcoin?](https://blog.bitfinex.com/education/how-can-rgb-improve-bitcoin/)
 - [What Does the Bitcoin DeFi Ecosystem Look Like?](https://blog.bitfinex.com/education/what-does-the-bitcoin-defi-ecosystem-look-like/)
 - [Is Bitcoin Undervalued?](https://blog.bitfinex.com/education/is_bitcoin_undervalued/)
+- [CoinEx Institution｜A Brief Analysis of RGB: A Scalable, Confidential Smart Contract Protocol Built on Bitcoin](https://coinex.medium.com/coinex-institution-a-brief-analysis-of-rgb-a-scalable-confidential-smart-contract-protocol-built-bc883829af51)
   
 ## Videos
 
@@ -166,6 +167,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Bitifinex](https://www.bitfinex.com/) - Major and Old Exchange in the Bitcoin industry
 - [Hodl Hodl](https://hodlhodl.com/) - P2P Lending and Exhcange
 - Kaleidoscope - Decentralized exchange protocols (DEX) for Lightning with RGB and other assets
+- [COSMINMART](http://www.cosminmart.com/)
 
 ## Explorer
 
@@ -204,6 +206,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [NFT Swap](https://github.com/PorticoExchange/NFT-Swap)
 - [RGB Minting Service](https://github.com/LukasBahrenberg/rgb-minting-service)
 - [RGB NFT Minting Service CLI](https://github.com/V0nMis3s/rgb-nft-minting-service)
+- [COSMINMART](http://www.cosminmart.com/)
 
 ## Companies working of form independent on RGB Protocol
 
