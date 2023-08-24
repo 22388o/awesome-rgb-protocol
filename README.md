@@ -233,6 +233,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Fulgur Ventures](https://fulgur.ventures/)
 - [Hojo Foundation](https://twitter.com/hojofoundation)
 - [Cosminmart](http://www.cosminmart.com/#/)
+- [Bitswap](https://github.com/BitSwap-BiFi)
+- [Infinitas](https://www.iftas.tech/)
 
 ## Others things
 
