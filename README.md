@@ -188,6 +188,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [RGB schemata registry](https://github.com/RGB-WG/schemata-registry)
 - [Storm](https://github.com/Storm-WG)
 - [Carbonado](https://github.com/diba-io/carbonado)
+-  Fatline Protocol
+
 
 ## Nodes
 
@@ -209,6 +211,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [RGB Proxy Server](https://github.com/grunch/rgb-proxy-server)
 - [RGB Lightning Node](https://github.com/RGB-Tools/rgb-lightning-node)
 - [RGB Lightning Node API](https://rgb-tools.github.io/rgb-lightning-node/)
+- SLR (Security Lightning RGB)
+- Fatline Protocol
   
 ## NFTs
 
