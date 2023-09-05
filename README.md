@@ -1,4 +1,4 @@
-# Awesome RGB Protocol
+# Awesome RGB Protocol 🟢🔵🔴⚡
 
  A curated list of RGB projects and resources 
  
@@ -251,6 +251,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [reNostr](https://github.com/renostr)
 - [Cyphernet](https://github.com/cyphernet-dao)
 - Bitfrost
+- [Prime](https://github.com/LNP-BP/layer1)
 
 ## Extra lists
 
