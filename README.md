@@ -144,6 +144,11 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 - [SLP501 RGB Walkthrough with Maxim Orlovsky](https://stephanlivera.com/episode/501/)
 
+## Education
+
+- [RGB Journey](https://github.com/BitcoinOS-Labs/rgb-journey)
+- [LN/BP Education](https://geyser.fund/project/lnpbpeducation)
+  
 ## Guides
 
 - [Scriptless Atomic Swaps](https://github.com/crisdut/lnpbp-regtest/blob/master/usecases/2_scriptless_atomic_swaps.md)
@@ -183,7 +188,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 ## Explorer
 
-- [RGBex](https://rgbex.io/)
+- [RGBex](https://rgbex.io/) 
 
 ## Registries
 
@@ -241,6 +246,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Cosminmart](http://www.cosminmart.com/#/)
 - [Bitswap](https://github.com/BitSwap-BiFi)
 - [Infinitas](https://www.iftas.tech/)
+- [BitcoinOS Labs](https://github.com/BitcoinOS-Labs)
 
 ## Others things
 
@@ -257,5 +263,6 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 ## Extra lists
 
 - [Awesome RGB](https://github.com/louneskmt/awesome-rgb)
+- [Awesome RGB (chinese list by BitcoinOS Labs)[https://github.com/BitcoinOS-Labs/awesome-rgb]
 - [RGB Resources](https://github.com/fedsten/rgb-resources)
 
