@@ -70,6 +70,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [LNP/BP Association (website)](https://www.lnp-bp.org/)
 - [LNP/BP Association (YouTube)](https://www.youtube.com/channel/UCK_Q3xcQ-H3ERwArGaMKsxg)
 - [LNP/BP Association (Twitter)](https://twitter.com/lnp_bp)
+- [LN/BP Association (Telegram channel)](https://t.me/lnp_bp)
 
 ## Resources
 
@@ -85,6 +86,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [UBIDECO Institute](https://github.com/UBIDECO)
 - [Archive of legacy RGB development](https://github.com/rgb-archive)
 - [RGB Blueprint Old](https://rgb-org.github.io/)
+- [RGB Blueprint](https://blackpaper.rgb.tech/design/design-principles)
 
 ## Community
 
@@ -94,6 +96,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [RGB Developers](https://t.me/RGBDevelopers)
 - [RGB Twitter List](https://twitter.com/i/lists/1582840508933582849/members)
 - [RGB Community (Twitter)](https://twitter.com/i/communities/1585365616743022595)
+- [RGB Reddit](https://www.reddit.com/r/RGB_protocol/)
 
 ## Articles
 
@@ -112,6 +115,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [RGB as a Computing Platform](https://rgb.tech/blog/rgb-computing/)
 - [RGB release v0.10](https://rgb.tech/blog/release-v0-10/)
 - [RGB release v0.7](https://rgb.tech/blog/release-v0-7/)
+- [RGB v0.10 becomes stable](https://rgb.tech/blog/release-v0-10-stable/)
 - [Is Lightning Scaling Bitcoin in a Way Nobody Predicted?](https://blog.bitfinex.com/education/is-lightning-scaling-bitcoin-in-a-way-nobody-predicted/)
 - [How Can RGB Improve Bitcoin?](https://blog.bitfinex.com/education/how-can-rgb-improve-bitcoin/)
 - [What Does the Bitcoin DeFi Ecosystem Look Like?](https://blog.bitfinex.com/education/what-does-the-bitcoin-defi-ecosystem-look-like/)
