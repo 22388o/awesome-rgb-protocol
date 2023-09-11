@@ -87,6 +87,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Archive of legacy RGB development](https://github.com/rgb-archive)
 - [RGB Blueprint Old](https://rgb-org.github.io/)
 - [RGB Blueprint](https://blackpaper.rgb.tech/design/design-principles)
+- [bitcoin-dev Trustless 2-way-peg without softfork](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021948.html)
+- [bitcoin-dev New BIP to align descriptors, xpub derivation and miniscript](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021946.html)
 
 ## Community
 
@@ -142,7 +144,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Bitfinex Talks: RGB Protocol and tokenization on top of Bitcoin with Federico Tenga](https://www.youtube.com/watch?v=3tO0I-db4l4)
 - [RGB Protocol: Bitcoin Lightning Smart Contracts | BitDevsLA](https://www.youtube.com/watch?v=Mkidb0wjua0)
 - [What is the potential of RGB? - Olga Ukolova](https://www.youtube.com/watch?v=6vXu5xYy7I8)
-- [Prime](https://www.youtube.com/watch?v=V3vvybsc1A4&t) - Minute 6:43:19
+- [Prime](https://www.youtube.com/live/V3vvybsc1A4?feature=shared&t=23631)
 
 ## Podcast
 
