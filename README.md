@@ -243,7 +243,6 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 ## Companies working of form independent on RGB Protocol
 
 - [RGB Tools](https://github.com/RGB-Tools)
-- [Portico Labs](https://porticoexchange.github.io/porticoexchangev2.github.io/)
 
 ## Comapanies support RGB Protocol 
 
