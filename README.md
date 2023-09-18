@@ -189,7 +189,6 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 ## Exchanges
 
-- [Portico Exchange](https://github.com/PorticoExchange) - DEX with Atomic transactions on Lightning Network
 - [Bitswap](https://github.com/BitSwap-BiFi) - DEX AMM on RGB Protocol
 - Colorshift - Exchange RGB Assets under Swiss Law
 - [Bitifinex](https://www.bitfinex.com/) - Major and Old Exchange in the Bitcoin industry
