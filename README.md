@@ -134,6 +134,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Driving Mass Adoption of Crypto: How the RGB Protocol is Illuminating the Future of Bitcoin](https://www.cointime.com/news/driving-mass-adoption-of-crypto-81155)
 - [Preseting: Bitswap](https://medium.com/@porticoexchange/presenting-bitswap-a3b59d8082a1)
 - [RGB20 and RGB21 on Bitcoin mainnet with BitMask](https://dibaglobal.medium.com/rgb20-and-rgb21-on-bitcoin-mainnet-with-bitmask-35c520bd4e6d)
+- [Bitcoin RGB Protocol Ten Thousand Words Research Report: Can Lightning Network and smart contracts lead a new round of technological changes? Panoramic dismantling of its development history, technical principles, ecological status and five major risks and challenges in Chinese](https://research.web3caff.com/zh/archives/11414?ref=0)
 
   
 ## Videos
