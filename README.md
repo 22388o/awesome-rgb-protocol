@@ -270,6 +270,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - Bitfrost
 - [Prime](https://github.com/LNP-BP/layer1)
 - [Flossverse](https://github.com/flossverse)
+- Handron
 
 ## Extra lists
 
