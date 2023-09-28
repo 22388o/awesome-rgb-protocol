@@ -237,7 +237,6 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 ## NFTs
 
 - [DIBA](https://diba.io/)
-- [NFT Swap](https://github.com/PorticoExchange/NFT-Swap)
 - [RGB Minting Service](https://github.com/LukasBahrenberg/rgb-minting-service)
 - [RGB NFT Minting Service CLI](https://github.com/V0nMis3s/rgb-nft-minting-service)
 - [Cosminmart](http://www.cosminmart.com/)
