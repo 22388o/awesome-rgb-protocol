@@ -188,6 +188,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Shiro](https://github.com/diamondhands-dev/shiro-backend)
 - [Wallby](https://wallby.app/)
 - [COSM](http://www.cosminmart.com/#/Wallet)
+- [Bitcoin Tribe](https://bitcointribe.app/)
 
 ## Exchanges
 
@@ -258,6 +259,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Bitswap](https://github.com/BitSwap-BiFi)
 - [Infinitas](https://www.iftas.tech/)
 - [BitcoinOS Labs](https://github.com/BitcoinOS-Labs)
+- [Bithyve](https://github.com/bithyve)
 
 ## Others things
 
