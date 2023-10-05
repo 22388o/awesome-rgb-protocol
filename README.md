@@ -274,7 +274,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Prime](https://github.com/LNP-BP/layer1)
 - [Flossverse](https://github.com/flossverse)
 - Handron
--  Kaleidoscope
+- Kaleidoscope
+- [The 9th Proof of Folding - A new proposal for Prime](https://github.com/adambor/The9thProofOfFolding)
 
 ## Extra lists
 
