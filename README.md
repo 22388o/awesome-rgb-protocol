@@ -42,6 +42,12 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - Muti-layer network
 - Multisig complex with Miniscript and more
 
+## Status software
+
+Since was released RGB v0.10 anyone can build applications on protocolo without breaking consensus or other problems
+
+Developers, companies and users can release products on mainnet (knowing risks involved)
+
 ## Tech Overview
 
 Little overview around RGB 
