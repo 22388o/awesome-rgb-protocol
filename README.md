@@ -156,6 +156,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Prime](https://www.youtube.com/live/V3vvybsc1A4?feature=shared&t=23631)
 - [Ṕrime presentation at PoW Summit](https://www.youtube.com/watch?v=uq01tDKvxOg) - starting from 7:25:21
 - [E125: RGB Deep-Dive & Scaling Bitcoin with Hunter Beast - Director of Engineering at DIBA](https://www.youtube.com/watch?v=iZJQ2J-uNtE)
+- [Ordinals and Layer 2 - Bitcoin Amsterdam 2023](https://youtu.be/YM_b6q7l0H4?t=12829)
 
 ## Podcast
 
