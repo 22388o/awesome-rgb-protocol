@@ -186,6 +186,10 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [RGB TS](https://github.com/chernyal/rgb)
 - [RGB Lib Sample](https://github.com/diamondhands-rgb/rgb-lib-sample)
 
+## Tokens Example
+
+- [USDT example](https://github.com/oneforalone/rgb20-usdt)
+
 ## Wallets
 
 - [MyCitadel](https://mycitadel.io/) 
