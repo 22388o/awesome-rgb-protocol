@@ -270,6 +270,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Infinitas](https://www.iftas.tech/)
 - [BitcoinOS Labs](https://github.com/BitcoinOS-Labs)
 - [Bithyve](https://github.com/bithyve)
+- Invebit
 
 ## Others things
 
