@@ -44,7 +44,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 
 ## Status software
 
-Since was released RGB v0.10 anyone can build applications on protocol without breaking consensus or other problems
+Since was released [RGB v0.10](https://rgb.tech/blog/release-v0-10/) anyone can build applications on protocol without breaking consensus or other problems
 
 Developers, companies and users can release products on mainnet (knowing risks involved)
 
