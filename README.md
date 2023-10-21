@@ -192,6 +192,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 ## Tokens Example
 
 - [USDT example](https://github.com/oneforalone/rgb20-usdt)
+- [Pepe RGB](https://pepe-rgb.wtf/)
 
 ## Wallets
 
