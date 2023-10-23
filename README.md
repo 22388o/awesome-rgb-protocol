@@ -41,6 +41,8 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - DAOs
 - Muti-layer network
 - Multisig complex with Miniscript and more
+- Scale Layer 1 with Prime
+- Compatible with sidechains
 
 ## Status software
 
