@@ -43,7 +43,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - Multisig complex with Miniscript and more
 - Scale Layer 1 with Prime
 - Compatible with sidechains
-- Lightning Service Provier for RGB Assets
+- Lightning Service Provider for RGB Assets
 
 ## Status software
 
