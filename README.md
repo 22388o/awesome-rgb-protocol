@@ -48,6 +48,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - Lightning Nodes
 - Virtual Machine (AluVM)
 - OTC Exchange
+- Cloud Service
 
 ## Status software
 
