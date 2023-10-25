@@ -27,6 +27,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - Bitcoin as Collateral
 - Decentralized Exchanges (AMM, liquidity pool)
 - NFTs
+- NFT Marketplace 
 - Stablecoins
 - Decentralized identities
 - Storage
@@ -46,6 +47,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - Lightning Service Provider for RGB Assets
 - Lightning Nodes
 - Virtual Machine (AluVM)
+- OTC Exchange
 
 ## Status software
 
