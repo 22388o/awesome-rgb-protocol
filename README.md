@@ -25,7 +25,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - Tokenized Securities
 - Tokenized Real State
 - Bitcoin as Collateral
-- Decentralized Exchanges
+- Decentralized Exchanges (AMM, liquidity pool)
 - NFTs
 - Stablecoins
 - Decentralized identities
