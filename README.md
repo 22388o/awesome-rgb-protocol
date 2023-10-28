@@ -290,7 +290,6 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 ## Others things
 
 - [Bitcoin Protocol](https://github.com/BP-WG)
-- [Pandora Prime](https://github.com/pandora-prime)
 - [Pandora Network](https://github.com/pandora-network)
 - [Prometheus: trustless & scalable machine learning](https://github.com/Prometheus-WG)
 - [LNP Node](https://github.com/LNP-WG)
