@@ -152,6 +152,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [RGB protocol by UTXO Management](https://www.utxo.management/content/files/2023/10/UTXO_Management_RGB_Report.pdf)
 - [REPORT: UTXO Management X BM Pro Present RGB Research Report](https://bmpro.substack.com/p/report-utxo-management-x-bm-pro-present)
 - [RGB: An In-Depth Analysis of the RGB Bitcoin Layer 2 Approach](https://www.utxo.management/rgb-an-in-depth-analysis/)
+- [Taking stock of BTC ecological protocols, which protocols can win the last prize?](https://www.binance.com/en-IN/feed/post/1516603?ref=48152048)
 
   
 ## Videos
