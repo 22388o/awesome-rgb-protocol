@@ -27,8 +27,12 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - Bitcoin as Collateral
 - Decentralized Exchanges (AMM, liquidity pool)
 - NFTs
-- NFT Marketplace 
-- Stablecoins
+- NFT Marketplace
+- NFT auction
+- Crowdfunding
+- Stablecoins (aka. Centralized like USDC and USDT)
+- Stablecoins algorithm
+- Sythentic stablecoins
 - Decentralized identities
 - Storage
 - Lending
