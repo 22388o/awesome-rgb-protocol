@@ -158,6 +158,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [REPORT: UTXO Management X BM Pro Present RGB Research Report](https://bmpro.substack.com/p/report-utxo-management-x-bm-pro-present)
 - [RGB: An In-Depth Analysis of the RGB Bitcoin Layer 2 Approach](https://www.utxo.management/rgb-an-in-depth-analysis/)
 - [Taking stock of BTC ecological protocols, which protocols can win the last prize?](https://followin.io/en/feed/6456797)
+- [Understanding The "Bitcoin L2 Trilemma"](https://bitcoinmagazine.com/technical/understanding-the-bitcoin-l2-trilemma)
 
   
 ## Videos
@@ -183,6 +184,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Maxim Orlovsky on Building RGB, Standards for BTC & LN, and Smart Contracts on Bitcoin | E108](https://www.youtube.com/watch?v=mLrKainZgAw)
 
 - [SLP501 RGB Walkthrough with Maxim Orlovsky](https://stephanlivera.com/episode/501/)
+
+- [RGB & Art with Diba team](https://twitter.com/i/spaces/1eaJbgkZZzaxX?s=20)
 
 ## Education
 
