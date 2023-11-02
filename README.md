@@ -197,6 +197,11 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 - [Scriptless Atomic Swaps](https://github.com/crisdut/lnpbp-regtest/blob/master/usecases/2_scriptless_atomic_swaps.md)
 - [RGB Sandbox](https://github.com/RGB-Tools/rgb-sandbox)
+- [RGB21 Assets workflow](https://gist.github.com/rkedez/fef785f4c12a2be1253659a7ef28b3b8)
+- [RGB Install](https://rgb.tech/install/)
+- [RGB in Rust](https://rgb.tech/program/rust/)
+- [Zero-code contracts](https://rgb.tech/power-user/#issue)
+- [Programming with Contractum](https://rgb.tech/program/contractum/)
 
 
 ## Libraries
@@ -210,10 +215,11 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [RGB TS](https://github.com/chernyal/rgb)
 - [RGB Lib Sample](https://github.com/diamondhands-rgb/rgb-lib-sample)
 
-## Tokens Example
+## Token and NFTs Example
 
 - [USDT example](https://github.com/oneforalone/rgb20-usdt)
 - [Pepe RGB](https://pepe-rgb.wtf/)
+- [RGB21 Assets workflow](https://gist.github.com/rkedez/fef785f4c12a2be1253659a7ef28b3b8)
 
 ## Wallets
 
