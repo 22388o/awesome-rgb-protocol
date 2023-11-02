@@ -53,6 +53,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - Virtual Machine (AluVM)
 - OTC Exchange
 - Cloud Service
+- APIs
 
 ## Status software
 
@@ -295,6 +296,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [BitcoinOS Labs](https://github.com/BitcoinOS-Labs)
 - [Bithyve](https://github.com/bithyve)
 - [Invebit](https://github.com/Invebit)
+- [CivKit](https://github.com/civkit)
 
 ## Others things
 
