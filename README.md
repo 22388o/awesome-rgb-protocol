@@ -54,6 +54,9 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - OTC Exchange
 - Cloud Service
 - APIs
+- Domains names
+- LN derivations
+- Multipeer channels
 
 ## Status software
 
