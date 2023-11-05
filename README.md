@@ -57,6 +57,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - Domains names
 - LN derivations
 - Multipeer channels
+- Trustless pegin/pegout by Radiant
 
 ## Status software
 
@@ -181,7 +182,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [E125: RGB Deep-Dive & Scaling Bitcoin with Hunter Beast - Director of Engineering at DIBA](https://www.youtube.com/watch?v=iZJQ2J-uNtE)
 - [Ordinals and Layer 2 - Bitcoin Amsterdam 2023](https://youtu.be/YM_b6q7l0H4?t=12829)
 - [Protocols on the top of Bitcoin - Debate](https://www.youtube.com/watch?v=7L-RKqgRr7Y)
-- [Radiant and RGB - Bitcoin Amsterdam 2023](https://www.youtube.com/watch?v=E1yvIOXz8Tg)
+- [Radiant, Prime and RGB - Bitcoin Amsterdam 2023](https://www.youtube.com/watch?v=E1yvIOXz8Tg)
 
 ## Podcast
 
