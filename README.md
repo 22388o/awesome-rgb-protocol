@@ -323,7 +323,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [LNP Node](https://github.com/LNP-WG)
 - [reNostr](https://github.com/renostr)
 - [Cyphernet](https://github.com/cyphernet-dao)
-- Bitfrost
+- [Bifrost](https://www.rgbfaq.com/glossary/bifrost)
 - [Prime](https://github.com/LNP-BP/layer1)
 - [Flossverse](https://github.com/flossverse)
 - Handron
