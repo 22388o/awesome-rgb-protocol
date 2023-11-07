@@ -287,6 +287,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [RGB Lightning Node API](https://rgb-tools.github.io/rgb-lightning-node/)
 - SLR (Security Lightning RGB)
 - Fatline Protocol
+- [Bitcoin Vanilla]
   
 ## NFTs
 
