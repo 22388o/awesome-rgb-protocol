@@ -46,7 +46,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - DAOs
 - Muti-layer network
 - Multisig complex with Miniscript and more
-- Scale Layer 1 with Prime
+- Scale Layer 1 with Prime, Abraxas
 - Compatible with sidechains
 - Lightning Service Provider for RGB Assets
 - Lightning Nodes
@@ -329,6 +329,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Bifrost](https://www.rgbfaq.com/glossary/bifrost)
 - [Prime](https://github.com/LNP-BP/layer1)
 - [Flossverse](https://github.com/flossverse)
+- Abraxas
 - Handron
 - Kaleidoscope
 - [The 9th Proof of Folding - A new proposal for Prime](https://github.com/adambor/The9thProofOfFolding)
