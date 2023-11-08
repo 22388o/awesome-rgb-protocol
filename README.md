@@ -185,6 +185,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Ordinals and Layer 2 - Bitcoin Amsterdam 2023](https://youtu.be/YM_b6q7l0H4?t=12829)
 - [Protocols on the top of Bitcoin - Debate](https://www.youtube.com/watch?v=7L-RKqgRr7Y)
 - [Radiant, Prime and RGB - Bitcoin Amsterdam 2023](https://www.youtube.com/watch?v=E1yvIOXz8Tg)
+- [ RGB Protocol Explained - Hunter Beast | Denver BitDevs 11/2/2023](https://www.youtube.com/watch?v=oeoBSYB0H7U)
 
 ## Podcast
 
