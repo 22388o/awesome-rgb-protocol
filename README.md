@@ -289,13 +289,15 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - SLR (Security Lightning RGB)
 - Fatline Protocol
 - [Bitcoin Waila](https://github.com/MutinyWallet/bitcoin-waila)
+- [NFT on RGB](https://github.com/palutz/nft_on_rgb)
   
 ## NFTs
 
 - [DIBA](https://diba.io/)
 - [RGB Minting Service](https://github.com/LukasBahrenberg/rgb-minting-service)
 - [RGB NFT Minting Service CLI](https://github.com/V0nMis3s/rgb-nft-minting-service)
-- [Cosminmart](http://www.cosminmart.com/)
+- [Cosminmart(Bitlight Labs)](http://www.cosminmart.com/)
+- [NFT on RGB](https://github.com/palutz/nft_on_rgb)
 
 ## Companies working of form independent on RGB Protocol
 
@@ -309,7 +311,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Pandora Prime](https://pandoraprime.ch/)
 - [Fulgur Ventures](https://fulgur.ventures/)
 - [Hojo Foundation](https://twitter.com/hojofoundation)
-- [Cosminmart](http://www.cosminmart.com/#/)
+- [Cosminmart (Bitlight Labs)](http://www.cosminmart.com/#/)
 - [Bitswap](https://github.com/BitSwap-BiFi)
 - [Infinitas](https://www.iftas.tech/)
 - [BitcoinOS Labs](https://github.com/BitcoinOS-Labs)
