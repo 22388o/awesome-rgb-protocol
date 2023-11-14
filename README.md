@@ -58,6 +58,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - LN derivations
 - Multipeer channels
 - Trustless pegin/pegout by Radiant
+- Multichain
 
 ## Status software
 
