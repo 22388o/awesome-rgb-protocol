@@ -135,6 +135,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [MyCitadel](https://t.me/mycitadel)
 - [DIBA, BitMask & Carbonado](https://t.me/tryDIBA)
 - [Iris Wallet](https://t.me/IrisWallet)
+- [Peper Friends](https://t.me/pepperfriends)
     
 
 ## Articles
