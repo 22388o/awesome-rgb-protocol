@@ -333,8 +333,9 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Invebit](https://github.com/Invebit)
 - [CivKit](https://github.com/civkit)
 - [Mutiny Wallet](https://github.com/MutinyWallet/bitcoin-waila)
-- Pepe RGB
-- Single Use Seals
+- Pepe RGB (project)
+- Single Use Seals (project)
+- Peper Friends (project)
 
 ## Others things
 
