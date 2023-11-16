@@ -169,6 +169,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [A Brief Overview on RGB — Can RGB Replicate The Ordinals Hype](https://www.bitget.com/news/detail/12560603830569)
 - [Off-chain transfers: The evolution of the Bitcoin Asset Protocol](https://mirror.xyz/0x5CCF44ACd0D19a97ad5aF0da492AC0388469DfE9/_k3vtpI7a5cQn5iISH7-riECpyudfI4BTeeeBMwNYDQ)
 - [Cosminmart(Bitlight Labs) interview](https://www.panewslab.com/zh/articledetails/f50h5ynw.html)
+- [RGB learning resources collection](https://mirror.xyz/dapangdun.eth/9F5ef9YCwbVSvopEeRxIKsARCsQvOsQYOvS7GAYokqI)
 
   
 ## Videos
@@ -236,6 +237,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [USDT example](https://github.com/oneforalone/rgb20-usdt)
 - [Pepe RGB](https://pepe-rgb.wtf/)
 - [RGB21 Assets workflow](https://gist.github.com/rkedez/fef785f4c12a2be1253659a7ef28b3b8)
+- [Single Use Seals](https://t.me/SingleUseSeal)
 
 ## Wallets
 
