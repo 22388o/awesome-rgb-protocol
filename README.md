@@ -254,7 +254,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 - [MyCitadel](https://mycitadel.io/) 
 - [BitMask](https://bitmask.app/) 
-- [Iris](https://github.com/RGB-Tools/iris-wallet-android) 
+- [Iris Wallet](https://github.com/RGB-Tools/iris-wallet-android) 
 - [Shiro](https://github.com/diamondhands-dev/shiro-backend)
 - [Wallby](https://wallby.app/)
 - [COSM(Bitlight Wallet)](http://www.cosminmart.com/#/Wallet)
@@ -335,6 +335,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Invebit](https://github.com/Invebit)
 - [CivKit](https://github.com/civkit)
 - [Mutiny Wallet](https://github.com/MutinyWallet/bitcoin-waila)
+- [Iris Wallet](https://github.com/RGB-Tools/iris-wallet-android)
+- [RGB Tools](https://github.com/RGB-Tools)
 - Pepe RGB (project)
 - Single Use Seals (project)
 - Peper Friends (project)
