@@ -352,7 +352,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 ## Extra lists
 
-- [Awesome RGB](https://github.com/louneskmt/awesome-rgb)
+- [Awesome RGB by Lounès Ksouri](https://github.com/louneskmt/awesome-rgb) 
 - [Awesome RGB by BitcoinOS Labs](https://github.com/BitcoinOS-Labs/awesome-rgb)
-- [RGB Resources](https://github.com/fedsten/rgb-resources)
+- [RGB Resources by Federico Tenga](https://github.com/fedsten/rgb-resources)
 
