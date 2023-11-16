@@ -127,6 +127,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [RGB Community (Twitter)](https://twitter.com/i/communities/1585365616743022595)
 - [RGB Reddit](https://www.reddit.com/r/RGB_protocol/)
 - [RGB OGs](https://t.me/RGB_Asset_Registry)
+- [RGB Chinese group](https://t.me/+sawAp0ZBjWQzOWJl)
+- [Single Use Seals](https://t.me/SingleUseSeal)
     
 
 ## Articles
