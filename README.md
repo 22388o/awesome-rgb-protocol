@@ -340,10 +340,11 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Mutiny Wallet](https://github.com/MutinyWallet/bitcoin-waila)
 - [Iris Wallet](https://github.com/RGB-Tools/iris-wallet-android)
 - [RGB Tools](https://github.com/RGB-Tools)
-- Pepe RGB (project)
-- Single Use Seals (project)
-- Peper Friends (project)
-- Doge RGB (project)
+- [Pepe RGB](https://pepe-rgb.wtf/) (project)
+- [Single Use Seals](https://t.me/SingleUseSeal) (project)
+- [Peper Friends](https://t.me/pepperfriends)
+ (project)
+- [Doge RGB](https://www.rgbdoge.xyz) (project)
 
 ## Others things
 
