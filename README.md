@@ -116,6 +116,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [bitcoin-dev New BIP to align descriptors, xpub derivation and miniscript](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021946.html)
 - [Writing simple contract](https://rgb.tech/program/rust/#basics)
 - [Prime resources by LNP/BP Association](https://x.com/lnp_bp/status/1721193382838501866?s=20)
+- [RGB Blueprint (technical documentation)](https://github.com/RGB-WG/blueprint)
 
 ## Community
 
