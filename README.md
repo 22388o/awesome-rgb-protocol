@@ -185,8 +185,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Paolo Ardoino, CEO of Tether: “In the future, data centers will be used as weapons”](https://atlas21.com/it/ardoino-i-data-center-saranno-usati-come-armi)
 - [Paolo Ardoino sees RGB as 'best opportunity' to issue stablecoins on Bitcoin](https://www.theblock.co/post/258350/bitfinex-rgb-bitcoin-stablecoins)
 - [Evolution and challenge of BTC expansion from asset issuance](https://medium.com/@ACCapital1/evolution-and-challenge-of-btc-expansion-from-asset-issuance-d8caba8aeb07)
+- [BitMask & RGB w/ Hunter Beast](https://cryptoquick.com/files/BitMask-RGB-v2.pdf)
 
-  
 ## Videos
 
 - [BH2022: Smart Contracts, Bitcoin in El Salvador, Economic Empowerment and Civil Resistance ](https://www.youtube.com/watch?v=43sqrqfrD9Y)
