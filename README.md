@@ -184,7 +184,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [About RGB: OP Crypto Weekly X (Twitter) thread and it got longer](https://opcryptovc.medium.com/about-rgb-protocol-op-crypto-weekly-x-twitter-thread-and-it-got-longer-7031fe39439b)
 - [Paolo Ardoino, CEO of Tether: “In the future, data centers will be used as weapons”](https://atlas21.com/it/ardoino-i-data-center-saranno-usati-come-armi)
 - [Paolo Ardoino sees RGB as 'best opportunity' to issue stablecoins on Bitcoin](https://www.theblock.co/post/258350/bitfinex-rgb-bitcoin-stablecoins)
-- [Looking at the evolution and challenges of BTC expansion from the perspective of asset issuance](https://web3caff.com/zh_tc/archives/76817)
+- [Evolution and challenge of BTC expansion from asset issuance](https://medium.com/@ACCapital1/evolution-and-challenge-of-btc-expansion-from-asset-issuance-d8caba8aeb07)
 
   
 ## Videos
@@ -207,6 +207,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Modernizing RGB with Taproot at 2022-04-02](https://www.youtube.com/watch?v=7sBAtv88mSE&ab_channel=LNPBPStandardsAssociation)
 - [Asset Issuance On Bitcoin: Discovering The RGB Protocol - Federico Tenga (Part.1)](https://www.youtube.com/watch?v=23_IKrIonQk)
 - [Asset Issuance On Bitcoin: Discovering The RGB Protocol - Federico Tega (Part.2)](https://www.youtube.com/watch?v=t3U8XsRndvc)
+- [和PEPE-RGB创始人 一起聊聊赚RGB生态，可能彩蛋哦｜In talk with Pepe-RGB, one of the first project for RGB ecosystem](https://www.youtube.com/watch?v=m3U0h7qWj5k)
+- [中文区第一次！和DIBA/Bitmask团队Gideon一起聊聊RGB生态 ｜ In talk of RGB/Bitcoin with Gideon from DIBA/Bitmask team ](https://www.youtube.com/watch?v=lNjeKGJKAHQ)
 
 ## Podcast
 
