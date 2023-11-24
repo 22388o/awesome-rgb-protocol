@@ -324,6 +324,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [RGB NFT Minting Service CLI](https://github.com/V0nMis3s/rgb-nft-minting-service)
 - [Cosminmart(Bitlight Labs)](http://www.cosminmart.com/)
 - [NFT on RGB](https://github.com/palutz/nft_on_rgb)
+- [Scarce City](https://scarce.city/)
 
 ## Companies working of form independent on RGB Protocol
 
@@ -349,6 +350,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [RGB Tools](https://github.com/RGB-Tools)
 - [Hercle](https://www.hercle.financial/)
 - [Diamond Hands](https://www.diamondhands.community/)
+- [Scarce City](https://scarce.city/)
 - [Pepe RGB](https://pepe-rgb.wtf/) (project)
 - [Single Use Seals](https://t.me/SingleUseSeal) (project)
 - [Peper Friends](https://t.me/pepperfriends)
