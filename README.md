@@ -354,7 +354,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Hercle](https://www.hercle.financial/)
 - [Diamond Hands](https://www.diamondhands.community/)
 - [Scarce City](https://scarce.city/)
-- [Spank Exchange](https://spank.exchange/login
+- [Spank Exchange](https://spank.exchange/login)
 - [Pepe RGB](https://pepe-rgb.wtf/) (project)
 - [Single Use Seals](https://t.me/SingleUseSeal) (project)
 - [Peper Friends](https://t.me/pepperfriends)
