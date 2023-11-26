@@ -280,6 +280,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Hodl Hodl](https://hodlhodl.com/) - P2P Lending and Exhcange
 - [Cosminmart(Bitlight Labs)](http://www.cosminmart.com/) - Marketplace, Exchange for RGB and Ordinals
 - [AMM DEX Demo by Melvin Carvalho](https://play-grounds.github.io/nosdav/swapstr.html) - Demo AMM for swap RGB assets
+- [Spank Exchange](https://spank.exchange/login) - Exchange with Order book 
 
 ## Explorer
 
@@ -353,6 +354,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Hercle](https://www.hercle.financial/)
 - [Diamond Hands](https://www.diamondhands.community/)
 - [Scarce City](https://scarce.city/)
+- [Spank Exchange](https://spank.exchange/login
 - [Pepe RGB](https://pepe-rgb.wtf/) (project)
 - [Single Use Seals](https://t.me/SingleUseSeal) (project)
 - [Peper Friends](https://t.me/pepperfriends)
