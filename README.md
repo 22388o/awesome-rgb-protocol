@@ -271,7 +271,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Iris Wallet](https://github.com/RGB-Tools/iris-wallet-android) 
 - [Shiro](https://github.com/diamondhands-dev/shiro-backend)
 - [Wallby](https://wallby.app/)
-- [COSM(Bitlight Wallet)](http://www.cosminmart.com/#/Wallet)
+- Bitlight Wallet
 - [Bitcoin Tribe](https://bitcointribe.app/)
 
 ## Exchanges
@@ -321,6 +321,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - Fatline Protocol
 - [Bitcoin Waila](https://github.com/MutinyWallet/bitcoin-waila)
 - [NFT on RGB](https://github.com/palutz/nft_on_rgb)
+- [Faucet RGB](https://github.com/RGB-Tools/faucet-rgb)
   
 ## NFTs
 
@@ -343,7 +344,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Pandora Prime](https://pandoraprime.ch/)
 - [Fulgur Ventures](https://fulgur.ventures/)
 - [Hojo Foundation](https://twitter.com/hojofoundation)
-- [Cosminmart (Bitlight Labs)](http://www.cosminmart.com/#/)
+- Bitlight Labs
 - [Bitswap](https://github.com/BitSwap-BiFi)
 - [Infinitas](https://www.iftas.tech/)
 - [BitcoinOS Labs](https://github.com/BitcoinOS-Labs)
