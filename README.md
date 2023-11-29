@@ -61,6 +61,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - Multichain
 - GameFi
 - Metaverse
+- RWAs
 
 ## Status software
 
