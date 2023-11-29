@@ -227,6 +227,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 - [Anatomy of RGB21](https://x.com/trydiba/status/1720527686706032694?s=20)
 
+- [Exploring the Future Potential of RGB Ecosystem with Bitlight Labs, Bitmask & Diba, Spank Exchange, Pepper and DaPangGun](https://x.com/ACCapital1/status/1729815369798344808?s=20)
+
 ## Education
 
 - [RGB Journey](https://github.com/BitcoinOS-Labs/rgb-journey)
