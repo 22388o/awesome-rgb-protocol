@@ -355,6 +355,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Bithyve](https://github.com/bithyve)
 - [Invebit](https://www.invebit.com/)
 - [CivKit](https://github.com/civkit)
+- [Bacademy](https://bcademy.it/en/)
 - [Mutiny Wallet](https://github.com/MutinyWallet/bitcoin-waila)
 - [Iris Wallet](https://github.com/RGB-Tools/iris-wallet-android)
 - [RGB Tools](https://github.com/RGB-Tools)
