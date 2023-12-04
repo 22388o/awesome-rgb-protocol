@@ -191,6 +191,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [BitMask & RGB w/ Hunter Beast](https://cryptoquick.com/files/BitMask-RGB-v2.pdf)
 - [Bitcoin Upper Layers Explained: Types, Origins, & Future](https://blog.rootstock.io/noticia/bitcoin-layers/)
 - [The next hot spot in the BTC ecosystem? Noteworthy projects on the RGB protocol](https://www.blocktempo.com/take-stock-of-noteworthy-projects-on-the-rgb-protocol/)
+- [Understanding the RGB Protocol: Bridging Bitcoin and Smart Contract](https://beosin.com/resources/understanding-the-rgb-protocol-bridging-bitcoin-and-smart-contract?lang=en-US)
 
 ## Videos
 
