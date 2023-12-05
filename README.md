@@ -328,6 +328,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Bitcoin Waila](https://github.com/MutinyWallet/bitcoin-waila)
 - [NFT on RGB](https://github.com/palutz/nft_on_rgb)
 - [Faucet RGB](https://github.com/RGB-Tools/faucet-rgb)
+- [RGB CLI Assistant by OpenAI](https://chat.openai.com/g/g-Vo6HpNQSK-rgb-cli-assistant)
   
 ## NFTs
 
