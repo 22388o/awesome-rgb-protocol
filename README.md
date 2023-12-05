@@ -369,6 +369,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Peper Friends](https://t.me/pepperfriends)
  (project)
 - [Doge RGB](https://www.rgbdoge.xyz) (project)
+- [DaPangDunCrypto](https://twitter.com/DaPangDunCrypto) (chinese influencers)
 
 ## Others things
 
