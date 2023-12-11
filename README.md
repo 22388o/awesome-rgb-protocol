@@ -56,7 +56,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - APIs
 - Domains names
 - LN derivations
-- Multipeer channels
+- Multipeer channels with Bifrost
 - Trustless pegin/pegout by Radiant
 - Multichain
 - GameFi
