@@ -197,6 +197,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [What Is the RGB Protocol? A Beginner's Guide](https://www.samara-ag.com/market-insights/rgb-protocol)
 - [This Protocol Can Make Bitcoin More Scalable and Private](https://bitpinas.com/pr/rgb-protocol-bitcoin-private/)
 - [Bitcoin's RGB Protocol: Issuing Assets and Tokens on the Lightning Network](https://www.daijiworld.com/news/newsDisplay?newsID=1142106)
+- [The RGB protocol in the BTC ecosystem is about to explode. Let’s take a look at the projects worth paying attention to in the RGB ecosystem.](https://www.odaily.news/en/post/5191287)
 
 ## Videos
 
