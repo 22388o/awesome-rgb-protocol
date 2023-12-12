@@ -376,6 +376,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Waterdrip Capital](https://waterdrip.io/)
 - [Satoshi Lab](https://twitter.com/SatoshiLab_)
 - [Web3Labs.club](https://twitter.com/Web3LabsClub)
+- [LightningNetwork+](https://lightningnetwork.plus/)
 - [Pepe RGB](https://pepe-rgb.wtf/) (project)
 - [Single Use Seals](https://t.me/SingleUseSeal) (project)
 - [Peper Friends](https://t.me/pepperfriends)
