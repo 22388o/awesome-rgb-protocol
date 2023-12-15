@@ -240,6 +240,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 - [Exploring the Future Potential of RGB Ecosystem with Bitlight Labs, Bitmask & Diba, Spank Exchange, Pepper and DaPangGun](https://x.com/ACCapital1/status/1729815369798344808?s=20)
 
+- [e17 The Bitcoin Contracting Layer - RGB with Maxim](vhttps://anchor.fm/dtrhole/episodes/e17-The-Bitcoin-Contracting-Layer---RGB-with-Maxim-Orlovsky-eqdfh6)
+
 ## Education
 
 - [RGB Journey](https://github.com/BitcoinOS-Labs/rgb-journey)
@@ -270,7 +272,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 ## Token and NFTs Example
 
-- [USDT example](https://github.com/oneforalone/rgb20-usdt)
+- [USDT example by OneForaAlone](https://github.com/oneforalone/rgb20-usdt)
+- [USDT Demo by Bitlight Labs](https://github.com/bitlightlabs/rgb20-usdt)
 - [Pepe RGB](https://pepe-rgb.wtf/)
 - [RGB21 Assets workflow](https://gist.github.com/rkedez/fef785f4c12a2be1253659a7ef28b3b8)
 - [Single Use Seals](https://t.me/SingleUseSeal)
