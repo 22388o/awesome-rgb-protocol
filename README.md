@@ -297,7 +297,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Hodl Hodl](https://hodlhodl.com/) - P2P Lending and Exhcange
 - Bitlight Labs - Marketplace, Exchange for NFTs
 - [AMM DEX Demo by Melvin Carvalho](https://play-grounds.github.io/nosdav/swapstr.html) - Demo AMM for swap RGB assets
-- [UTXO Exchange](https://staging.utxoexchange.xyz/#/marketplace) - Exchange with Marketplace 
+- [UTXO Exchange](https://staging.utxoexchange.xyz/#/marketplace) - Exchange with Marketplace
+- [L2.auction](https://l2.auction/) - Self-Custodial Asset Exchange on Bitcoin Lightning
 
 ## Explorer
 
@@ -379,6 +380,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Satoshi Lab](https://twitter.com/SatoshiLab_)
 - [Web3Labs.club](https://twitter.com/Web3LabsClub)
 - [LightningNetwork+](https://lightningnetwork.plus/)
+- [L2.auction](https://l2.auction/)
 - [Pepe RGB](https://pepe-rgb.wtf/) (project)
 - [Single Use Seals](https://t.me/SingleUseSeal) (project)
 - [Peper Friends](https://t.me/pepperfriends)
