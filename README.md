@@ -62,7 +62,8 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - GameFi
 - Metaverse
 - RWAs
-- Compatible with DLCs 
+- Compatible with DLCs
+- Marketplace for RGB20 assets
 
 ## Status software
 
