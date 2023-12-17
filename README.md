@@ -275,6 +275,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 - [USDT example by OneForaAlone](https://github.com/oneforalone/rgb20-usdt)
 - [USDT Demo by Bitlight Labs](https://github.com/bitlightlabs/rgb20-usdt)
+- [UTXO token by UTXO Labs](https://github.com/UTXOLabs/UTXO-RGB20)
 - [Pepe RGB](https://pepe-rgb.wtf/)
 - [RGB21 Assets workflow](https://gist.github.com/rkedez/fef785f4c12a2be1253659a7ef28b3b8)
 - [Single Use Seals](https://t.me/SingleUseSeal)
@@ -303,6 +304,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [AMM DEX Demo by Melvin Carvalho](https://play-grounds.github.io/nosdav/swapstr.html) - Demo AMM for swap RGB assets
 - [UTXO Exchange](https://staging.utxoexchange.xyz/#/marketplace) - Exchange with Marketplace
 - [L2.auction](https://l2.auction/) - Self-Custodial Asset Exchange on Bitcoin Lightning
+- [Ordi Finance](https://doc.ordifinance.xyz/) - Bridge beteween RGB, LN, ETH and DEX AMM
 
 ## Explorer
 
@@ -385,6 +387,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Web3Labs.club](https://twitter.com/Web3LabsClub)
 - [LightningNetwork+](https://lightningnetwork.plus/)
 - [L2.auction](https://l2.auction/)
+- [Ordi Finance](https://doc.ordifinance.xyz/)
 - [Pepe RGB](https://pepe-rgb.wtf/) (project)
 - [Single Use Seals](https://t.me/SingleUseSeal) (project)
 - [Peper Friends](https://t.me/pepperfriends)
