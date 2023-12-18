@@ -333,7 +333,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Storm Node](https://github.com/Storm-WG/storm-node)
 
 
-## Assset Management and Tokenization
+## Asset Management and Tokenization
 
 - [BitRGB](https://bitrgb.network/)
 - [Hercle](https://www.hercle.financial/)
@@ -353,7 +353,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Bitcoin Waila](https://github.com/MutinyWallet/bitcoin-waila)
 - [NFT on RGB](https://github.com/palutz/nft_on_rgb)
 - [Faucet RGB](https://github.com/RGB-Tools/faucet-rgb)
-- [RGB CLI Assistant by OpenAI](https://chat.openai.com/g/g-Vo6HpNQSK-rgb-cli-assistant
+- [RGB CLI Assistant by OpenAI](https://chat.openai.com/g/g-Vo6HpNQSK-rgb-cli-assistant)
   
 ## NFTs
 
