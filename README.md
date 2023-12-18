@@ -302,7 +302,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - Colorshift - Swap RGB Assets under Swiss Law
 - [Bitifinex](https://www.bitfinex.com/) - Major and Old Exchange in the Bitcoin industry
 - [Hodl Hodl](https://hodlhodl.com/) - P2P Lending and Exhcange
-- Bitlight Labs - Marketplace, Exchange for NFTs
+- Bitlight Labs - Marketplace for tokens and NFTs
 - [AMM DEX Demo by Melvin Carvalho](https://play-grounds.github.io/nosdav/swapstr.html) - Demo AMM for swap RGB assets
 - [UTXO Exchange](https://staging.utxoexchange.xyz/#/marketplace) - Exchange with Marketplace for RGB20 tokens
 - [L2.auction](https://l2.auction/) - Self-Custodial Asset Exchange on Bitcoin Lightning
