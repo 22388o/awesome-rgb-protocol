@@ -307,6 +307,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [UTXO Exchange](https://staging.utxoexchange.xyz/#/marketplace) - Exchange with Marketplace for RGB20 tokens
 - [L2.auction](https://l2.auction/) - Self-Custodial Asset Exchange on Bitcoin Lightning
 - [Ordi Finance](https://doc.ordifinance.xyz/) - Bridge beteween RGB, LN, ETH and DEX AMM
+- [BitRGB](https://bitrgb.network/) - Achieving Infinite Scalability for web3 Asset Issuance and Trading
 
 ## Explorer
 
@@ -390,6 +391,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [LightningNetwork+](https://lightningnetwork.plus/)
 - [L2.auction](https://l2.auction/)
 - [Ordi Finance](https://doc.ordifinance.xyz/)
+- [BitRGB](https://bitrgb.network/)
 - [Pepe RGB](https://pepe-rgb.wtf/) (project)
 - [Single Use Seals](https://t.me/SingleUseSeal) (project)
 - [Peper Friends](https://t.me/pepperfriends)
