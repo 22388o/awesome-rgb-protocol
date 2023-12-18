@@ -302,7 +302,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - Colorshift - Swap RGB Assets under Swiss Law
 - [Bitifinex](https://www.bitfinex.com/) - Major and Old Exchange in the Bitcoin industry
 - [Hodl Hodl](https://hodlhodl.com/) - P2P Lending and Exhcange
-- Bitlight Labs - Marketplace for tokens and NFTs
+- [Bitlight Labs](https://bitlightlabs.com/) - Marketplace for tokens and NFTs
 - [Diba](https://diba.io/) - Marketplace for UDAs
 - [AMM DEX Demo by Melvin Carvalho](https://play-grounds.github.io/nosdav/swapstr.html) - Demo AMM for swap RGB assets
 - [UTXO Exchange](https://staging.utxoexchange.xyz/#/marketplace) - Exchange with Marketplace for RGB20 tokens
@@ -333,6 +333,11 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Storm Node](https://github.com/Storm-WG/storm-node)
 
 
+## Assset Management and Tokenization
+
+- [BitRGB](https://bitrgb.network/)
+- [Hercle](https://www.hercle.financial/)
+- [Invebit](https://www.invebit.com/)
 
 ## Services
 
@@ -348,14 +353,14 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Bitcoin Waila](https://github.com/MutinyWallet/bitcoin-waila)
 - [NFT on RGB](https://github.com/palutz/nft_on_rgb)
 - [Faucet RGB](https://github.com/RGB-Tools/faucet-rgb)
-- [RGB CLI Assistant by OpenAI](https://chat.openai.com/g/g-Vo6HpNQSK-rgb-cli-assistant)
+- [RGB CLI Assistant by OpenAI](https://chat.openai.com/g/g-Vo6HpNQSK-rgb-cli-assistant
   
 ## NFTs
 
 - [DIBA](https://diba.io/)
 - [RGB Minting Service](https://github.com/LukasBahrenberg/rgb-minting-service)
 - [RGB NFT Minting Service CLI](https://github.com/V0nMis3s/rgb-nft-minting-service)
-- Bitlight Labs
+- [Bitlight Labs](https://bitlightlabs.com/)
 - [NFT on RGB](https://github.com/palutz/nft_on_rgb)
 - [Scarce City](https://scarce.city/)
 
