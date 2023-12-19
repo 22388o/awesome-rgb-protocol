@@ -203,7 +203,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Apart from $Ordi, how can we invest in BTC ecosystem?](https://medium.com/@infinitas.contact/apart-from-ordi-how-can-we-invest-in-btc-ecosystem-8370931a50bd)
 - [The New Narrative of Inscription — Under the Support of Different Ecosystems](https://tokeninsight.com/en/research/market-analysis/the-new-narrative-of-inscription-under-the-support-of-different-ecosystems)
 - [Why is Bitcoin RGB protocol the ultimate form of smart contracts?](https://medium.com/@infinitas.contact/why-is-bitcoin-rgb-protocol-the-ultimate-form-of-smart-contracts-0d2f8c57a36c)
-
+- [Decoding the Complex Landscape of Bitcoin Layer 2: Navigating Challenges and Building Narratives](https://wublock.substack.com/p/decoding-the-complex-landscape-of)
 ## Videos
 
 - [BH2022: Smart Contracts, Bitcoin in El Salvador, Economic Empowerment and Civil Resistance ](https://www.youtube.com/watch?v=43sqrqfrD9Y)
