@@ -262,7 +262,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Programming with Contractum](https://rgb.tech/program/contractum/)
 
 
-## Libraries
+## Libraries and CLIs
 
 - [RGB-lib](https://github.com/RGB-Tools/rgb-lib)
 - [RGB Lib Python bindings](https://github.com/RGB-Tools/rgb-lib-python)
