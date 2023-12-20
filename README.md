@@ -305,6 +305,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Shiro](https://github.com/diamondhands-dev/shiro-backend)
 - [Wallby](https://wallby.app/)
 - Bitlight Wallet
+- UTXO Wallet
 - [Bitcoin Tribe](https://bitcointribe.app/)
 
 ## Exchanges
