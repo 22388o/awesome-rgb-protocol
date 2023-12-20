@@ -312,10 +312,11 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Iris Wallet](https://github.com/RGB-Tools/iris-wallet-android) 
 - [Shiro](https://github.com/diamondhands-dev/shiro-backend)
 - [Wallby](https://wallby.app/)
+- [Bitcoin Tribe](https://bitcointribe.app/)
 - Bitlight Wallet
 - UTXO Wallet
-- [Bitcoin Tribe](https://bitcointribe.app/)
-
+- Invebit Wallet
+  
 ## Exchanges
 
 - [Bitswap](https://github.com/BitSwap-BiFi) - DEX AMM on RGB Protocol
