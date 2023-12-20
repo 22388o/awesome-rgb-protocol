@@ -96,7 +96,11 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 ## Protocol 
 
 - [LNP/BP Standards Association](https://github.com/LNP-BP)
-- [RGB Working Group repository](https://github.com/RGB-WG) 
+- [RGB Working Group repository](https://github.com/RGB-WG)
+- [BP Working Group repository](https://github.com/BP-WG)
+- [LNP Working Group repository](https://github.com/LNP-WG)
+- [Storm Working Group repository](https://github.com/Storm-WG)
+- [Prometheus Working Group repository](https://github.com/Prometheus-WG)
 - [LNP/BP Association (website)](https://www.lnp-bp.org/)
 - [LNP/BP Association (YouTube)](https://www.youtube.com/channel/UCK_Q3xcQ-H3ERwArGaMKsxg)
 - [LNP/BP Association (Twitter)](https://twitter.com/lnp_bp)
@@ -278,6 +282,10 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [BP Wallet](https://github.com/BP-WG/bp-wallet)
 - [Storm Core](https://github.com/Storm-WG/storm-core)
 - [Storm Stored](https://github.com/Storm-WG/storm-stored)
+- [Descriptor Wallet](https://github.com/BP-WG/descriptor-wallet)
+- [Clien Side Validation](https://github.com/LNP-BP/client_side_validation)
+- [Rust LNPBP](https://github.com/LNP-BP/rust-lnpbp)
+- [Invoices](https://github.com/LNP-BP/invoices)
 - [RGB Lib Swift bindings](https://github.com/RGB-Tools/rgb-lib-swift)
 - [RGB Lib Kotlin bindings](https://github.com/RGB-Tools/rgb-lib-kotlin)
 - [BPro Library](https://github.com/pandora-prime/bpro)
