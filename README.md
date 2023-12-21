@@ -399,7 +399,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Hojo Foundation](https://twitter.com/hojofoundation)
 - [Bitlight Labs](https://bitlightlabs.com/)
 - [Bitswap](https://github.com/BitSwap-BiFi)
-- [Infinitas](https://www.iftas.tech/)
+- [Bihelix](https://linktr.ee/bihelix)
 - [BitcoinOS Labs](https://github.com/BitcoinOS-Labs)
 - [Bithyve](https://github.com/bithyve)
 - [Invebit](https://www.invebit.com/)
