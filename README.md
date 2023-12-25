@@ -209,6 +209,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Why is Bitcoin RGB protocol the ultimate form of smart contracts?](https://medium.com/@infinitas.contact/why-is-bitcoin-rgb-protocol-the-ultimate-form-of-smart-contracts-0d2f8c57a36c)
 - [Decoding the Complex Landscape of Bitcoin Layer 2: Navigating Challenges and Building Narratives](https://wublock.substack.com/p/decoding-the-complex-landscape-of)
 - [CGV Research | From Colored Coins, Mastercoin/Omni to Ordinals/BRC20, a Comprehensive Analysis of Technological Evolution in the Bitcoin Ecosystem](https://wublock.substack.com/p/cgv-research-from-colored-coins-mastercoinomni)
+- [From Asset Issuance to BTC Scalability: Evolution and Challenges](https://www.gate.io/learn/articles/from-asset-issuance-to-btc-scalability/1030)
 
 ## Videos
 
