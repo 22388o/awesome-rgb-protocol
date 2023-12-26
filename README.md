@@ -94,7 +94,7 @@ In RGB smart contract developer defines a scheme specifying rules how the contra
 
 A smart contract in RGB is a directed acyclic graph (DAG) of state changes, where only a portion of the graph is always known and there is no access to the rest. The RGB scheme is a core set of rules for the evolution of this graph the smart contract starts with. Each contract participant may add to those rules (if this is allowed by the schema) and the resulting graph is built from the iterative application of those rules.
 
-## Understading LNP/BP Libraries
+### Understanding LNP/BP Libraries
 
 -  BP (Bitcoin Protocol): TBD
  
