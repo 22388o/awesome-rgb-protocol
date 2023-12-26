@@ -97,11 +97,17 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 ## Understading LNP/BP Libraries
 
 -  BP (Bitcoin Protocol): TBD
+ 
 -  [RGB](https://github.com/RGB-WG): Section having:
-*RGB Core (consenus & validation),
-*RGB std (WASM & low-level integrations),
+  
+*RGB Core (consenus & validation)
+
+*RGB std (WASM & low-level integrations)
+
 *RGB Schemata (Standard RGB schemata and schema compiler)
+
 *RGB (command-line tool & wallet runtime library for desktop and mobile integration)
+
 -  LNP (Lightning Network Protocol): TBD
 -  Prometheus: TBD
 -  Storm: TBD
