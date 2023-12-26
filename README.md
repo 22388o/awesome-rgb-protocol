@@ -94,6 +94,18 @@ In RGB smart contract developer defines a scheme specifying rules how the contra
 
 A smart contract in RGB is a directed acyclic graph (DAG) of state changes, where only a portion of the graph is always known and there is no access to the rest. The RGB scheme is a core set of rules for the evolution of this graph the smart contract starts with. Each contract participant may add to those rules (if this is allowed by the schema) and the resulting graph is built from the iterative application of those rules.
 
+## Understading LNP/BP Libraries
+
+-  BP (Bitcoin Protocol): TBD
+-  [RGB](https://github.com/RGB-WG): Section having:
+*RGB Core (consenus & validation),
+*RGB std (WASM & low-level integrations),
+*RGB Schemata (Standard RGB schemata and schema compiler)
+*RGB (command-line tool & wallet runtime library for desktop and mobile integration)
+-  LNP (Lightning Network Protocol): TBD
+-  Prometheus: TBD
+-  Storm: TBD
+-  LNP/BP: TBD
 
 ## Protocol 
 
@@ -212,6 +224,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Decoding the Complex Landscape of Bitcoin Layer 2: Navigating Challenges and Building Narratives](https://wublock.substack.com/p/decoding-the-complex-landscape-of)
 - [CGV Research | From Colored Coins, Mastercoin/Omni to Ordinals/BRC20, a Comprehensive Analysis of Technological Evolution in the Bitcoin Ecosystem](https://wublock.substack.com/p/cgv-research-from-colored-coins-mastercoinomni)
 - [From Asset Issuance to BTC Scalability: Evolution and Challenges](https://www.gate.io/learn/articles/from-asset-issuance-to-btc-scalability/1030)
+- [Bitcoin Ecosystem — The Engine for the Next Bull Market](https://www.bitget.com/blog/articles/bitcoin-ecosystem-the-engine-for-the-next-bull-market)
 
 ## Videos
 
