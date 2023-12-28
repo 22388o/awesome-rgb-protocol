@@ -260,6 +260,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [The first RGB trading platfrom | RGB生态的第一个交易平台？我们有什么可以期待的](https://youtu.be/2L3_RWLhVTM?si=vu8CWXf_wGvYdJ1l)
 - [A Talk with Alex the founder of Cororo | The first BTC phone with RGB node ｜第一个BTC手机？挖矿/depin/RGB节点？](https://www.youtube.com/watch?v=5MXx7iu9Iy4&t=2149s)
 - [RGB HMP with Diba & Bitmask team](https://www.youtube.com/watch?v=WZN36y8UWGc)
+- [(How will the RGB Protocol Benefit the Bitcoin Ecosystem?](https://www.youtube.com/watch?v=ntHJ_S1PKCg)
 
 ## Podcast
 
