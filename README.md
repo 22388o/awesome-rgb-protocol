@@ -234,6 +234,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [RGB Protocol, Poised for Takeoff](https://www.gate.io/learn/articles/rgb-protocol-poised-for-takeoff/1090)
 - [BiHelix: An essential compilation of RGB ecological projects](https://medium.com/@bihelix.contact/bihelix-an-essential-compilation-of-rgb-ecological-projects-25e0fe049469)
 - [Quais novas tecnologias devem surgir nos próximos anos no Bitcoin?](https://portaldobitcoin.uol.com.br/quais-novas-tecnologias-devem-surgir-nos-proximos-anos-no-bitcoin/)
+- [2024 Crypto Market Outlook](https://coinbase.bynder.com/m/c8c6fdc663f44b5/original/2024-Crypto-Market-Outlook-V3.pdf)
 
 ## Videos
 
