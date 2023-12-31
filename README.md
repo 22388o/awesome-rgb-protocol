@@ -64,7 +64,9 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - RWAs
 - Compatible with DLCs
 - Marketplace for RGB20 assets
-- Centralized Exchanges 
+- Centralized Exchanges
+- Asset Management
+ 
 ## Status software
 
 Since was released [RGB v0.10](https://rgb.tech/blog/release-v0-10/) anyone can build applications on protocol without breaking consensus or other problems
