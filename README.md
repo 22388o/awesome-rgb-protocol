@@ -338,6 +338,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Assets: BTN & USDN by Pandora Prime](https://github.com/pandora-prime/assets)
 - [Assets DEX: Amazon, Apple, Real State by Bitswap](https://github.com/BitSwap-BiFi/assets-dex)
 - [PandaPo](https://pandapo.xyz/)
+- [BitMan](https://bitman.city/)
 
 ## Wallets
 
@@ -454,6 +455,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [BitRGB](https://bitrgb.network/)
 - Cororo
 - [Lorenzo](https://www.lorenzo-protocol.xyz/home)
+- [BitMan](https://bitman.city/)
 - [Pepe RGB](https://pepe-rgb.wtf/) (project)
 - [Single Use Seals](https://t.me/SingleUseSeal) (project)
 - [Peper Friends](https://t.me/pepperfriends)
