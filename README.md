@@ -364,7 +364,6 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Diba](https://diba.io/) - Marketplace for UDAs
 - [AMM DEX Demo by Melvin Carvalho](https://play-grounds.github.io/nosdav/swapstr.html) - Demo AMM for swap RGB assets
 - [UTXO Exchange](https://beta.utxoexchange.xyz/) - Exchange with Marketplace for RGB20 and RGB21 tokens
-- [L2.auction](https://l2.auction/) - Self-Custodial Asset Exchange on Bitcoin Lightning
 - [Ordi Finance](https://doc.ordifinance.xyz/) - Bridge beteween RGB, LN, ETH and DEX AMM
 - [BitRGB](https://bitrgb.network/) - Achieving Infinite Scalability for web3 Asset Issuance and Trading
 
@@ -454,7 +453,6 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Satoshi Lab](https://twitter.com/SatoshiLab_)
 - [Web3Labs.club](https://twitter.com/Web3LabsClub)
 - [LightningNetwork+](https://lightningnetwork.plus/)
-- [L2.auction](https://l2.auction/)
 - [Ordi Finance](https://doc.ordifinance.xyz/)
 - [BitRGB](https://bitrgb.network/)
 - Cororo
