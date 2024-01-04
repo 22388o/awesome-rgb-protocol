@@ -362,7 +362,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Bitlight Labs](https://bitlightlabs.com/) - Marketplace for tokens and NFTs
 - [Diba](https://diba.io/) - Marketplace for UDAs
 - [AMM DEX Demo by Melvin Carvalho](https://play-grounds.github.io/nosdav/swapstr.html) - Demo AMM for swap RGB assets
-- [UTXO Exchange](https://staging.utxoexchange.xyz/#/marketplace) - Exchange with Marketplace for RGB20 tokens
+- [UTXO Exchange](https://beta.utxoexchange.xyz/) - Exchange with Marketplace for RGB20 and RGB21 tokens
 - [L2.auction](https://l2.auction/) - Self-Custodial Asset Exchange on Bitcoin Lightning
 - [Ordi Finance](https://doc.ordifinance.xyz/) - Bridge beteween RGB, LN, ETH and DEX AMM
 - [BitRGB](https://bitrgb.network/) - Achieving Infinite Scalability for web3 Asset Issuance and Trading
@@ -419,6 +419,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Bitlight Labs](https://bitlightlabs.com/)
 - [NFT on RGB](https://github.com/palutz/nft_on_rgb)
 - [Scarce City](https://scarce.city/)
+- [UTXO Exchange](https://beta.utxoexchange.xyz/)
+
 
 ## Companies working of form independent on RGB Protocol
 
@@ -446,7 +448,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Hercle](https://www.hercle.financial/)
 - [Diamond Hands](https://www.diamondhands.community/)
 - [Scarce City](https://scarce.city/)
-- [UTXO Exchange](https://staging.utxoexchange.xyz/#/marketplace)
+- [UTXO Exchange](https://beta.utxoexchange.xyz/)
 - [Waterdrip Capital](https://waterdrip.io/)
 - [Satoshi Lab](https://twitter.com/SatoshiLab_)
 - [Web3Labs.club](https://twitter.com/Web3LabsClub)
