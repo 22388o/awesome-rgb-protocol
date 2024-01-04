@@ -66,6 +66,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - Marketplace for RGB20 assets
 - Centralized Exchanges
 - Asset Management
+- Custodial services
  
 ## Status software
 
