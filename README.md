@@ -240,7 +240,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [2024 Crypto Market Outlook by Coinsbase Institutiona](https://coinbase.bynder.com/m/c8c6fdc663f44b5/original/2024-Crypto-Market-Outlook-V3.pdf)
 - [RGB Bolsters Bitcoin and Lightning Network’s Scalability and Privacy Capabilities](https://mpost.io/rgb-bolsters-bitcoin-and-lightning-networks-scalability-and-privacy-capabilities/)
 - [Renaissance of Bitcoin Scaling IV — RGB](https://lbanklabs.medium.com/renaissance-of-bitcoin-scaling-iv-rgb-0ce0a3c8a656)
-
+- [RGB Protocol: A Revolutionary Smart Contract System in the Bitcoin Ecosystem](https://medium.com/@sicily0913/rgb-protocol-a-revolutionary-smart-contract-system-in-the-bitcoin-ecosystem-5a9777ee124c)
+  
   ## Videos
 
 - [BH2022: Smart Contracts, Bitcoin in El Salvador, Economic Empowerment and Civil Resistance ](https://www.youtube.com/watch?v=43sqrqfrD9Y)
@@ -268,7 +269,6 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [RGB HMP with Diba & Bitmask team](https://www.youtube.com/watch?v=WZN36y8UWGc)
 - [How will the RGB Protocol Benefit the Bitcoin Ecosystem?](https://www.youtube.com/watch?v=ntHJ_S1PKCg)
 - [Meet Kilian from Boltz.exchange | 和Boltz创始人聊聊闪电网络，Liquid和RGB ](https://www.youtube.com/watch?v=h0Dm-RtKAL4)
-- [RGB Protocol: A Revolutionary Smart Contract System in the Bitcoin Ecosystem](https://medium.com/@sicily0913/rgb-protocol-a-revolutionary-smart-contract-system-in-the-bitcoin-ecosystem-5a9777ee124c)
 
 ## Podcast
 
