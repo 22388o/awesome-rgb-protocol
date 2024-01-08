@@ -459,6 +459,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - Cororo
 - [Lorenzo](https://www.lorenzo-protocol.xyz/home)
 - [BitMan](https://bitman.city/)
+- [Uniport](http://uniport.network/)
 - [Pepe RGB](https://pepe-rgb.wtf/) (project)
 - [Single Use Seals](https://t.me/SingleUseSeal) (project)
 - [Peper Friends](https://t.me/pepperfriends)
