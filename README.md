@@ -74,8 +74,7 @@ Since was released [RGB v0.10](https://rgb.tech/blog/release-v0-10/) anyone can 
 
 Developers, companies and users can release products on mainnet (knowing risks involved)
 
-LNP/BP Association is woking in the next version, RGB v0.11, which v0.10 isn't compatible and will have Liquid and Prime/Abraxas integration
-
+LNP/BP Association is woking in the next version, RGB v0.11, which v0.10 isn't compatible and will have Liquid,  a sidechain created by the Blockstream
 ## Tech Overview
 
 Little overview around RGB 
