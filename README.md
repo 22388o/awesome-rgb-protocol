@@ -462,7 +462,6 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 ## Nodes
 
 - [RGB Lightning Node](https://github.com/RGB-Tools/rgb-lightning-node)
-- [RGB Lightning Sample](https://github.com/RGB-Tools/rgb-lightning-sample)
 - [BP Node](https://github.com/BP-WG/bp-node)
 - [LNP Node](https://github.com/LNP-WG/lnp-node)
 - [Storm Node](https://github.com/Storm-WG/storm-node)
