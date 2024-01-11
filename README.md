@@ -118,7 +118,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 *RGB: Command-line tool and  wallet runtime library for desktop and mobile integration
 
--  LNP (Lightning Network Protocol):
+-  [LNP (Lightning Network Protocol)](https://github.com/LNP-WG):
   
 *LNP Core: Lightning Network Protocol core library
 
@@ -128,11 +128,11 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 *Lightning Encoding:  Rust implementation of lightning network encoding as defined by BOLTs 
 
--  Prometheus:
+-  [Prometheus](https://github.com/Prometheus-WG):
 
 *Prometheus Spec:  Cryptoeconomically-safe trustless high-load computing on top of Bitcoin 
 
--  Storm:
+-  [Storm](https://github.com/Storm-WG):
 
 *Storm Core:  Core components for building storm LNP channels & applications 
 
