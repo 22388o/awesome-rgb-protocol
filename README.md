@@ -110,7 +110,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
  
 -  [RGB](https://github.com/RGB-WG): 
   
-*RGB Core:Ccconsenus  and validation
+*RGB Core: Consenus  and validation
 
 *RGB STD: WASM and low-level integrations
 
