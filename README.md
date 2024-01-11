@@ -182,7 +182,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 - [RGB20: Fungible Assets](https://standards.lnp-bp.org/rgb/lnpbp-0020)
 - [RGB21: NFTs Collectibles](https://standards.lnp-bp.org/rgb/lnpbp-0021)
-- [RB22: Digital Identity](https://standards.lnp-bp.org/rgb/lnpbp-0022)
+- [RGB22: Digital Identity](https://standards.lnp-bp.org/rgb/lnpbp-0022)
 - [RGB23: Audit Logs](https://standards.lnp-bp.org/rgb/lnpbp-0023)
 - [RGB24: Domain Names](https://standards.lnp-bp.org/rgb/lnpbp-0024)
 - [RGB25: Collectible assets interface](https://github.com/LNP-BP/LNPBPs/blob/master/lnpbp-0025.md)
