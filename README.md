@@ -98,7 +98,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 ### Understanding LNP/BP Libraries
 
--  BP (Bitcoin Protocol):
+-  [BP (Bitcoin Protocol)](https://github.com/BP-WG):
 
 *BP STD: Modern & lightweight implementation of bitcoin standards without rust-bitcoin/miniscript dependencies 
 
@@ -118,7 +118,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 *RGB: Command-line tool and  wallet runtime library for desktop and mobile integration
 
--  LNP (Lightning Network Protocol):
+-  [LNP (Lightning Network Protocol)](https://github.com/LNP-WG):
   
 *LNP Core: Lightning Network Protocol core library
 
@@ -128,11 +128,11 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 *Lightning Encoding:  Rust implementation of lightning network encoding as defined by BOLTs 
 
--  Prometheus:
+-  [Prometheus](https://github.com/Prometheus-WG):
 
 *Prometheus Spec:  Cryptoeconomically-safe trustless high-load computing on top of Bitcoin 
 
--  Storm:
+-  [Storm](https://github.com/Storm-WG):
 
 *Storm Core:  Core components for building storm LNP channels & applications 
 
@@ -142,7 +142,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 *Storm Spec:  Specification for Storm: L2/L3 distributed storage and messaging with economic incentivisation leveraging LNP/BP ecosystem 
 
--  LNP/BP:
+-  [LNP/BP](https://github.com/LNP-BP):
 
 *LNPBPs:  LNP/BP standards for bitcoin layer 2 & 3 protocols 
 
@@ -158,7 +158,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 *Layer1:  Paper on new bitcoin layer 1 design 
 
-- Strict Types:
+- [Strict Types](https://github.com/strict-types):
 
 *Strict Types:  Rust implementation of strict encoding schema library 
 
@@ -168,7 +168,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 *Registry:  Registry of strict type libraries 
 
-- AluVM:
+- [AluVM](https://github.com/AluVM):
 
 *Rust Aluvm:  Rust implementation of AluVM (RISC functional machine) 
 
