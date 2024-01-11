@@ -178,6 +178,15 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 *AluVM spec:  Specification of AluVM (algorithmic logic unit VM), its bytecode and assembly language 
 
+### Main RGB Standards
+
+- RGB20: TBD
+- RGB21: TBD
+- RGB23: TBD
+- RGB24: TBD
+- RGB25: TBD
+  
+
 ## Protocol 
 
 - [LNP/BP Standards Association](https://github.com/LNP-BP)
