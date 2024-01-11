@@ -180,11 +180,11 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 ### Main RGB Standards
 
-- RGB20: TBD
-- RGB21: TBD
-- RGB23: TBD
-- RGB24: TBD
-- RGB25: TBD
+- RGB20: Fungible Assets
+- RGB21: NFTs Collectibles
+- RGB23: Audit Logs
+- RGB24: Domain Names
+- RGB25: Collectible assets interface
   
 
 ## Protocol 
