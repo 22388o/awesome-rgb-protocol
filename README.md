@@ -188,6 +188,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Prometheus Working Group repository](https://github.com/Prometheus-WG)
 - [Strict Types Working Group repository](https://github.com/strict-types)
 - [Alu Virtual Machine Working Group repository](https://github.com/AluVM)
+- [reNostr Working Group repository](https://github.com/renostr)
 - [LNP/BP Association (website)](https://www.lnp-bp.org/)
 - [LNP/BP Association (YouTube)](https://www.youtube.com/channel/UCK_Q3xcQ-H3ERwArGaMKsxg)
 - [LNP/BP Association (Twitter)](https://twitter.com/lnp_bp)
