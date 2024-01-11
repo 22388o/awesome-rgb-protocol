@@ -98,22 +98,65 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 ### Understanding LNP/BP Libraries
 
--  BP (Bitcoin Protocol): TBD
+-  BP (Bitcoin Protocol):
+
+*BP STD: Modern & lightweight implementation of bitcoin standards without rust-bitcoin/miniscript dependencies 
+
+*BP Wallet:  Modern, lightweight & standard-compliant bitcoin wallet runtime & cli without rust-bitcoin dependencies 
+
+*BP Node:  Daemons and tools for Bitcoin transaction index 
+
+*BP Core: Consensus data structures and client-side-validation library for bitcoin protocol 
  
--  [RGB](https://github.com/RGB-WG): Section having:
+-  [RGB](https://github.com/RGB-WG): 
   
-*RGB Core (consenus & validation)
+*RGB Core:Ccconsenus  and validation
 
-*RGB std (WASM & low-level integrations)
+*RGB STD: WASM and low-level integrations
 
-*RGB Schemata (Standard RGB schemata and schema compiler)
+*RGB Schemata: Standard RGB schemata and schema compiler
 
-*RGB (command-line tool & wallet runtime library for desktop and mobile integration)
+*RGB: Command-line tool and  wallet runtime library for desktop and mobile integration
 
--  LNP (Lightning Network Protocol): TBD
--  Prometheus: TBD
--  Storm: TBD
--  LNP/BP: TBD
+-  LNP (Lightning Network Protocol):
+  
+*LNP Core: Lightning Network Protocol core library
+
+*LN Types:  Common Rust Lightning Network types 
+
+*LN Node:  Lightning network protocol daemon (suitable for generalized Lightning Network) 
+
+*Lightning Encoding:  Rust implementation of lightning network encoding as defined by BOLTs 
+
+-  Prometheus:
+
+*Prometheus Spec:  Cryptoeconomically-safe trustless high-load computing on top of Bitcoin 
+
+-  Storm:
+
+*Storm Core:  Core components for building storm LNP channels & applications 
+
+*Storm Stored: Storage daemon for Storm and other LNP/BP nodes - an embeddble microservice frontend for different storage backends 
+
+*Storm Node:  Extension daemons for LNP Node implementing Storm protocol 
+
+*Storm Spec:  Specification for Storm: L2/L3 distributed storage and messaging with economic incentivisation leveraging LNP/BP ecosystem 
+
+-  LNP/BP:
+
+*LNPBPs:  LNP/BP standards for bitcoin layer 2 & 3 protocols 
+
+*Presentations:  Slides, visuals and video links that explain Bitcoin L2/L3 technological stack development, curated by LNP/BP Standards Association 
+
+*Client Side Validation:  Standard implementation of client-side-validation APIs 
+
+*Rust LNBP:  Library implementing LNPBP standards related to client-side-validation paradigm 
+
+*Invoices:  Libraries for universal LNP/BP invoices covering Bitcoin, LN & RGB (LNPBP-38 standard)
+
+*Docker:  Docker containers by LNP/BP Standards Association 
+
+*Layer1:  Paper on new bitcoin layer 1 design 
 
 ## Protocol 
 
