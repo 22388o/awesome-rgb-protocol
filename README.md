@@ -552,7 +552,6 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Pandora Network](https://github.com/pandora-network)
 - [Pandora Core](https://github.com/pandoracore/)
 - [Prometheus: trustless & scalable machine learning](https://github.com/Prometheus-WG)
-- [LNP Node](https://github.com/LNP-WG)
 - [reNostr](https://github.com/renostr)
 - [Cyphernet](https://github.com/cyphernet-dao)
 - [Bifrost](https://www.rgbfaq.com/glossary/bifrost)
