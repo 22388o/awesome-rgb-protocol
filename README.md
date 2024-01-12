@@ -79,6 +79,9 @@ LNP/BP Association is woking in the next version, RGB v0.11, which v0.10 isn't c
 
 Little overview around RGB 
 
+![image](https://github.com/22388o/awesome-rgb-protocol/assets/83122757/1fd0399f-58f5-4955-a405-74175d01b609)
+
+
 ### Core
 
 - AluVM
