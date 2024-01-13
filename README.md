@@ -433,6 +433,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [Shiro](https://github.com/diamondhands-dev/shiro-backend)
 - [Wallby](https://wallby.app/)
 - [Bitcoin Tribe](https://bitcointribe.app/)
+- [Tiramisu Wallet](https://mainnet.tiramisuwallet.com/walletapp/)
 - Bitlight Wallet
 - UTXO Wallet
 - Invebit Wallet
@@ -450,6 +451,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [UTXO Exchange](https://beta.utxoexchange.xyz/) - Exchange with Marketplace for RGB20 and RGB21 tokens
 - [Ordi Finance](https://doc.ordifinance.xyz/) - Bridge beteween RGB, LN, ETH and DEX AMM
 - [BitRGB](https://bitrgb.network/) - Achieving Infinite Scalability for web3 Asset Issuance and Trading
+- [Tiramisu Wallet](https://mainnet.tiramisuwallet.com/walletapp/) - Wallet and Exhange integrated
 
 ## Explorer
 
@@ -499,7 +501,6 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 - [DIBA](https://diba.io/)
 - [RGB Minting Service](https://github.com/LukasBahrenberg/rgb-minting-service)
 - [RGB NFT Minting Service CLI](https://github.com/V0nMis3s/rgb-nft-minting-service)
-- [Bitlight Labs](https://bitlightlabs.com/)
 - [NFT on RGB](https://github.com/palutz/nft_on_rgb)
 - [Scarce City](https://scarce.city/)
 - [UTXO Exchange](https://beta.utxoexchange.xyz/)
