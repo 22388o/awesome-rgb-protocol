@@ -1,3 +1,3 @@
 ## Contribution
 
-Open PR for add new information around Taproot Assets.
+Open PR for add new information around RGB Protocol
