@@ -161,8 +161,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 *Layer1:  Paper on new bitcoin layer 1 design 
 
-- [Strict Types](https://github.com/strict-types):
-
+- [Strict Types](https://github.com/strict-types)
 *Strict Types:  Rust implementation of strict encoding schema library 
 
 *Strict Encoding:  Protobufs for functional programming 
@@ -180,6 +179,20 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 *Aluasm:  AluVM assembler 
 
 *AluVM spec:  Specification of AluVM (algorithmic logic unit VM), its bytecode and assembly language 
+
+## External LNP/BP Libraries
+
+Several teams are working indepent libraries
+
+### RGB Tools
+
+- RGB Lib: TBD
+- RGB Sandbox: TBD
+- RGB Lib Phython: TBD
+- RGB Lib Stress Test: TBD
+- RGB Lib Swift: TBD
+- RGB Lib Klottin: TBD
+- Faucet RGB: TBD
 
 ### Main RGB Standards
 
