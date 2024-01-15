@@ -161,7 +161,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 *Layer1:  Paper on new bitcoin layer 1 design 
 
-- [Strict Types](https://github.com/strict-types)
+- [Strict Types](https://github.com/strict-types):
+
 *Strict Types:  Rust implementation of strict encoding schema library 
 
 *Strict Encoding:  Protobufs for functional programming 
