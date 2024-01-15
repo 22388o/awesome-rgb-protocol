@@ -181,19 +181,24 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 *AluVM spec:  Specification of AluVM (algorithmic logic unit VM), its bytecode and assembly language 
 
-## External LNP/BP Libraries
+### External LNP/BP Libraries
 
 Several teams are working indepent libraries
 
 ### RGB Tools
 
-- RGB Lib: TBD
-- RGB Sandbox: TBD
-- RGB Lib Phython: TBD
-- RGB Lib Stress Test: TBD
-- RGB Lib Swift: TBD
-- RGB Lib Klottin: TBD
-- Faucet RGB: TBD
+- RGB Lib: Rust library which provides tools to build cross-platform RGB compatible wallets in a simple fashion, without having to worry about Bitcoin and RGB internals.
+- RGB Sandbox:RGB sandbox and demo based on RGB version 0.10
+  
+- RGB Lib Phython: Python library, rgb-lib, for the rgb-lib Rust library, which is included as a git submodule
+  
+- RGB Lib Stress Test: CLI command to test a few scenarios involving transfers of RGB20 assets between multiple wallets
+  
+- RGB Lib Swift:  Swift library RgbLib, for the rgb-lib Rust library, which is included as a git submodule
+  
+- RGB Lib Klottin:  Android library, rgb-lib-android, for the rgb-lib Rust library, which is included as a git submodule
+  
+- Faucet RGB: Faucets for wallets using RG20 tokens
 
 ### Main RGB Standards
 
