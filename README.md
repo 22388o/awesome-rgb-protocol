@@ -185,7 +185,7 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 Several teams are working indepent libraries
 
-### RGB Tools
+### [RGB Tools](https://github.com/RGB-Tools)
 
 - RGB Lib: Rust library which provides tools to build cross-platform RGB compatible wallets in a simple fashion, without having to worry about Bitcoin and RGB internals.
 - RGB Sandbox:RGB sandbox and demo based on RGB version 0.10
