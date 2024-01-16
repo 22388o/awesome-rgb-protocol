@@ -387,6 +387,8 @@ Several teams are working indepent libraries
 
 - [e17 The Bitcoin Contracting Layer - RGB with Maxim](https://anchor.fm/dtrhole/episodes/e17-The-Bitcoin-Contracting-Layer---RGB-with-Maxim-Orlovsky-eqdfh6)
 
+- [Prime & Abraxas - TWitter Spaces](https://x.com/DesiBitcoinShow/status/1747153575594410378)
+
 ## Education
 
 - [RGB Journey](https://github.com/BitcoinOS-Labs/rgb-journey)
