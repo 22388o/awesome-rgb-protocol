@@ -473,6 +473,7 @@ Several teams are working indepent libraries
 - [Ordi Finance](https://doc.ordifinance.xyz/) - Bridge beteween RGB, LN, ETH and DEX AMM
 - [BitRGB](https://bitrgb.network/) - Achieving Infinite Scalability for web3 Asset Issuance and Trading
 - [Tiramisu Wallet](https://mainnet.tiramisuwallet.com/walletapp/) - Wallet and Exhange integrated
+- [Sax Bridge](http://sax.exchange/) - Exchange and Bridge between RGB20<>EVM
 
 ## Explorer
 
@@ -566,6 +567,7 @@ Several teams are working indepent libraries
 - [BitMan](https://bitman.city/)
 - [Uniport](http://uniport.network/)
 - [RGBFI](https://twitter.com/RGBFIOfficial)
+- [Sax Bridge](http://sax.exchange/)
 - [Pepe RGB](https://pepe-rgb.wtf/) (project)
 - [Single Use Seals](https://t.me/SingleUseSeal) (project)
 - [Peper Friends](https://t.me/pepperfriends)
