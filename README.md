@@ -341,7 +341,7 @@ Several teams are working indepent libraries
 - [10,000 Words Research Report: Bitcoin Ecological RGB Protocol and Development Progress](https://www.laitimes.com/en/article/6bdfb_6rpq5.html)
 - [All You Need to Know About the RGB Protocol](https://www.gate.io/learn/articles/all-you-need-to-know-about-the-rbg-protocol/1196)
 - [Exploring the Landing Paths for Bitcoin Layer 2 Ecosystem ](https://wublock.substack.com/p/exploring-the-landing-paths-for-bitcoin)
-  
+- [A hundred flowers are blooming in Bitcoin Layer 2, a look at the progress of 6 major mainstream protocols](https://blockcast.it/2024/01/17/the-state-of-top-bitcoin-layer2-projects/)
   ## Videos
 
 - [BH2022: Smart Contracts, Bitcoin in El Salvador, Economic Empowerment and Civil Resistance ](https://www.youtube.com/watch?v=43sqrqfrD9Y)
