@@ -455,6 +455,7 @@ Several teams are working indepent libraries
 - [Wallby](https://wallby.app/)
 - [Bitcoin Tribe](https://bitcointribe.app/)
 - [Tiramisu Wallet](https://mainnet.tiramisuwallet.com/walletapp/)
+- [Keeper Wallet](https://bitcoinkeeper.app/)
 - Bitlight Wallet
 - UTXO Wallet
 - Invebit Wallet
@@ -568,6 +569,7 @@ Several teams are working indepent libraries
 - [Uniport](http://uniport.network/)
 - [RGBFI](https://twitter.com/RGBFIOfficial)
 - [Sax Bridge](http://sax.exchange/)
+- [Keeper Wallet](https://bitcoinkeeper.app/)
 - [Pepe RGB](https://pepe-rgb.wtf/) (project)
 - [Single Use Seals](https://t.me/SingleUseSeal) (project)
 - [Peper Friends](https://t.me/pepperfriends)
