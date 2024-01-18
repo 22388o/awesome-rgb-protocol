@@ -543,7 +543,7 @@ Several teams are working indepent libraries
 - [Hojo Foundation](https://twitter.com/hojofoundation)
 - [Bitlight Labs](https://bitlightlabs.com/)
 - [Bitswap](https://github.com/BitSwap-BiFi)
-- [Bihelix](https://linktr.ee/bihelix)
+- [Bihelix](https://www.bihelix.net/)
 - [BitcoinOS Labs](https://github.com/BitcoinOS-Labs)
 - [Bithyve](https://github.com/bithyve)
 - [Invebit](https://www.invebit.com/)
