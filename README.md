@@ -342,6 +342,7 @@ Several teams are working indepent libraries
 - [All You Need to Know About the RGB Protocol](https://www.gate.io/learn/articles/all-you-need-to-know-about-the-rbg-protocol/1196)
 - [Exploring the Landing Paths for Bitcoin Layer 2 Ecosystem ](https://wublock.substack.com/p/exploring-the-landing-paths-for-bitcoin)
 - [A hundred flowers are blooming in Bitcoin Layer 2, a look at the progress of 6 major mainstream protocols](https://blockcast.it/2024/01/17/the-state-of-top-bitcoin-layer2-projects/)
+  
   ## Videos
 
 - [BH2022: Smart Contracts, Bitcoin in El Salvador, Economic Empowerment and Civil Resistance ](https://www.youtube.com/watch?v=43sqrqfrD9Y)
@@ -475,6 +476,7 @@ Several teams are working indepent libraries
 - [BitRGB](https://bitrgb.network/) - Achieving Infinite Scalability for web3 Asset Issuance and Trading
 - [Tiramisu Wallet](https://mainnet.tiramisuwallet.com/walletapp/) - Wallet and Exhange integrated
 - [Sax Bridge](http://sax.exchange/) - Exchange and Bridge between RGB20<>EVM
+- [Yellow](https://yellow.money/) - Cross-chain AMM DEX 
 
 ## Explorer
 
@@ -563,6 +565,7 @@ Several teams are working indepent libraries
 - [LightningNetwork+](https://lightningnetwork.plus/)
 - [Ordi Finance](https://doc.ordifinance.xyz/)
 - [BitRGB](https://bitrgb.network/)
+- [Yellow](https://yellow.money/)
 - Cororo
 - [Lorenzo](https://www.lorenzo-protocol.xyz/home)
 - [BitMan](https://bitman.city/)
