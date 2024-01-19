@@ -67,6 +67,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - Centralized Exchanges
 - Asset Management
 - Custodial services
+- Derivatives
  
 ## Status software
 
@@ -476,7 +477,8 @@ Several teams are working indepent libraries
 - [BitRGB](https://bitrgb.network/) - Achieving Infinite Scalability for web3 Asset Issuance and Trading
 - [Tiramisu Wallet](https://mainnet.tiramisuwallet.com/walletapp/) - Wallet and Exhange integrated
 - [Sax Bridge](http://sax.exchange/) - Exchange and Bridge between RGB20<>EVM
-- [Yellow](https://yellow.money/) - Cross-chain AMM DEX 
+- [Yellow](https://yellow.money/) - Cross-chain AMM DEX
+- [Bitrans](https://www.bitrans.io/) - DEX with spot and derivatives
 
 ## Explorer
 
@@ -573,6 +575,7 @@ Several teams are working indepent libraries
 - [RGBFI](https://twitter.com/RGBFIOfficial)
 - [Sax Bridge](http://sax.exchange/)
 - [Keeper Wallet](https://bitcoinkeeper.app/)
+- [Bitrans](https://www.bitrans.io/)
 - [Pepe RGB](https://pepe-rgb.wtf/) (project)
 - [Single Use Seals](https://t.me/SingleUseSeal) (project)
 - [Peper Friends](https://t.me/pepperfriends)
