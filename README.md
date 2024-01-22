@@ -577,6 +577,7 @@ Several teams are working indepent libraries
 - [Sax Bridge](http://sax.exchange/)
 - [Keeper Wallet](https://bitcoinkeeper.app/)
 - [Bitrans](https://www.bitrans.io/)
+- [Infinite Fleet](https://www.infinitefleet.com/)
 - [Pepe RGB](https://pepe-rgb.wtf/) (project)
 - [Single Use Seals](https://t.me/SingleUseSeal) (project)
 - [Peper Friends](https://t.me/pepperfriends)
