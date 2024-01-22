@@ -189,6 +189,7 @@ Several teams are working indepent libraries
 ### [RGB Tools](https://github.com/RGB-Tools)
 
 - RGB Lib: Rust library which provides tools to build cross-platform RGB compatible wallets in a simple fashion, without having to worry about Bitcoin and RGB internals.
+  
 - RGB Sandbox:RGB sandbox and demo based on RGB version 0.10
   
 - RGB Lib Phython: Python library, rgb-lib, for the rgb-lib Rust library, which is included as a git submodule
