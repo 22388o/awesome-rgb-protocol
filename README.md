@@ -449,6 +449,7 @@ Several teams are working indepent libraries
 - [Assets DEX: Amazon, Apple, Real State by Bitswap](https://github.com/BitSwap-BiFi/assets-dex)
 - [PandaPo](https://pandapo.xyz/)
 - [BitMan](https://bitman.city/)
+- [BaseDao](http://thebasedao.xyz/)
 
 ## Wallets
 
@@ -508,6 +509,10 @@ Several teams are working indepent libraries
 - [BitRGB](https://bitrgb.network/)
 - [Hercle](https://www.hercle.financial/)
 - [Invebit](https://www.invebit.com/)
+
+## DAOs
+
+- [BaseDao](http://thebasedao.xyz/)
 
 ## Services
 
@@ -581,8 +586,8 @@ Several teams are working indepent libraries
 - [Infinite Fleet](https://www.infinitefleet.com/)
 - [Pepe RGB](https://pepe-rgb.wtf/) (project)
 - [Single Use Seals](https://t.me/SingleUseSeal) (project)
-- [Peper Friends](https://t.me/pepperfriends)
- (project)
+- [Peper Friends](https://t.me/pepperfriends)  (project)
+- [BaseDao](http://thebasedao.xyz/)
 - [Doge RGB](https://www.rgbdoge.xyz) (project)
 - [PandaPo](https://pandapo.xyz/) (project)
 - [DaPangDunCrypto](https://twitter.com/DaPangDunCrypto) (chinese influencers)
