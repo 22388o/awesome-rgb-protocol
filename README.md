@@ -461,6 +461,7 @@ Several teams are working indepent libraries
 - [Bitcoin Tribe](https://bitcointribe.app/)
 - [Tiramisu Wallet](https://mainnet.tiramisuwallet.com/walletapp/)
 - [Keeper Wallet](https://bitcoinkeeper.app/)
+- [Aqua Wallet](https://aquawallet.io/)
 - Bitlight Wallet
 - UTXO Wallet
 - Invebit Wallet
@@ -588,6 +589,7 @@ Several teams are working indepent libraries
 - [Single Use Seals](https://t.me/SingleUseSeal) (project)
 - [Peper Friends](https://t.me/pepperfriends)  (project)
 - [BaseDao](http://thebasedao.xyz/)
+- [Jan3](https://jan3.com)
 - [Doge RGB](https://www.rgbdoge.xyz) (project)
 - [PandaPo](https://pandapo.xyz/) (project)
 - [DaPangDunCrypto](https://twitter.com/DaPangDunCrypto) (chinese influencers)
