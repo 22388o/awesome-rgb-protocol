@@ -590,6 +590,7 @@ Several teams are working indepent libraries
 - [Peper Friends](https://t.me/pepperfriends)  (project)
 - [BaseDao](http://thebasedao.xyz/)
 - [Jan3](https://jan3.com)
+- [MagicRGBMoney](https://www.magicrgbmoney.com/)
 - [Doge RGB](https://www.rgbdoge.xyz) (project)
 - [PandaPo](https://pandapo.xyz/) (project)
 - [DaPangDunCrypto](https://twitter.com/DaPangDunCrypto) (chinese influencers)
