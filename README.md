@@ -515,6 +515,10 @@ Several teams are working indepent libraries
 
 - [BaseDao](http://thebasedao.xyz/)
 
+## Games
+
+- [Infinite Fleet](https://www.infinitefleet.com/)
+
 ## Services
 
 - [RGB Minting Service](https://github.com/LukasBahrenberg/rgb-minting-service)
