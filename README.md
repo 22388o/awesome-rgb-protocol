@@ -451,6 +451,7 @@ Several teams are working indepent libraries
 - [PandaPo](https://pandapo.xyz/)
 - [BitMan](https://bitman.city/)
 - [BaseDao](http://thebasedao.xyz/)
+- MRGB
 
 ## Wallets
 
@@ -598,6 +599,7 @@ Several teams are working indepent libraries
 - [MagicRGBMoney](https://www.magicrgbmoney.com/)
 - [Doge RGB](https://www.rgbdoge.xyz) (project)
 - [PandaPo](https://pandapo.xyz/) (project)
+- MRGB (project)
 - [DaPangDunCrypto](https://twitter.com/DaPangDunCrypto) (chinese influencers)
 
 ## Others things
