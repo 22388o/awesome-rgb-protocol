@@ -347,6 +347,7 @@ Several teams are working indepent libraries
 - [A hundred flowers are blooming in Bitcoin Layer 2, a look at the progress of 6 major mainstream protocols](https://blockcast.it/2024/01/17/the-state-of-top-bitcoin-layer2-projects/)
 - [The Rising Synergy Between Liquid Network and RGB](https://www.btctimes.com/news/the-rising-synergy-between-liquid-network-and-rgb)
 - [Detailed introduction to RGB, BitVM, and Nostr](https://www.techflowpost.com/article/detail_16046.html)
+- [Bitlight Labs Seed Round Successfully Concluded](https://medium.com/@bitlightlabs/bitlight-labs-seed-round-successfully-concluded-4086e0064c8c)
   
   ## Videos
 
