@@ -469,6 +469,7 @@ Several teams are working indepent libraries
 - Bitlight Wallet
 - UTXO Wallet
 - Invebit Wallet
+- XRGB Wallet (mobile, extension and web)
   
 ## Exchanges
 
@@ -600,6 +601,7 @@ Several teams are working indepent libraries
 - [Jan3](https://jan3.com)
 - [Infinite Fleet](https://www.infinitefleet.com/)
 - [MagicRGBMoney](https://www.magicrgbmoney.com/)
+- [XRGB](http://xrgb.xyz/)
 - [Doge RGB](https://www.rgbdoge.xyz) (project)
 - [PandaPo](https://pandapo.xyz/) (project)
 - MRGB (project)
