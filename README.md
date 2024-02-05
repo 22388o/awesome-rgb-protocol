@@ -469,7 +469,7 @@ Several teams are working indepent libraries
 - Bitlight Wallet
 - UTXO Wallet
 - Invebit Wallet
-- XRGB Wallet (mobile, extension and web)
+- [XRGB Wallet](https://app.xrgb.xyz/login) (mobile, extension and web)
   
 ## Exchanges
 
