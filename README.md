@@ -488,7 +488,7 @@ Several teams are working indepent libraries
 - [Sax Bridge](http://sax.exchange/) - Exchange and Bridge between RGB20<>EVM
 - [Yellow](https://yellow.money/) - Cross-chain AMM DEX
 - [Bitrans](https://www.bitrans.io/) - DEX with spot and derivatives
-
+- [PalleteRGB](https://palettergb.com) - Marketplace for RGB20 assets 
 ## Explorer
 
 - [RGBex](https://rgbex.io/)
@@ -601,7 +601,7 @@ Several teams are working indepent libraries
 - [Jan3](https://jan3.com)
 - [Infinite Fleet](https://www.infinitefleet.com/)
 - [MagicRGBMoney](https://www.magicrgbmoney.com/)
-- [XRGB](http://xrgb.xyz/)
+- [XRGB](http://xrgb.xyz/)                  
 - [Doge RGB](https://www.rgbdoge.xyz) (project)
 - [PandaPo](https://pandapo.xyz/) (project)
 - MRGB (project)
