@@ -488,7 +488,7 @@ Several teams are working indepent libraries
 - [Sax Bridge](http://sax.exchange/) - Exchange and Bridge between RGB20<>EVM
 - [Yellow](https://yellow.money/) - Cross-chain AMM DEX
 - [Bitrans](https://www.bitrans.io/) - DEX with spot and derivatives
-- [PalleteRGB](https://palettergb.com) - Marketplace for RGB20 assets
+- [PalleteRGB](https://palettergb.com) - Marketplace for RGB20 and RGB21 assets with trading
   
 ## Explorer
 
