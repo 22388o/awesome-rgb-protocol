@@ -540,6 +540,7 @@ Several teams are working indepent libraries
 - [NFT on RGB](https://github.com/palutz/nft_on_rgb)
 - [Faucet RGB](https://github.com/RGB-Tools/faucet-rgb)
 - [RGB CLI Assistant by OpenAI](https://chat.openai.com/g/g-Vo6HpNQSK-rgb-cli-assistant)
+- RGB++ protocol 
   
 ## NFTs
 
@@ -603,7 +604,8 @@ Several teams are working indepent libraries
 - [Infinite Fleet](https://www.infinitefleet.com/)
 - [MagicRGBMoney](https://www.magicrgbmoney.com/)
 - [XRGB](http://xrgb.xyz/)
-- [PalleteRGB](https://palettergb.com)              
+- [PalleteRGB](https://palettergb.com)
+- [Nervos Network](https://www.nervos.org/)      
 - [Doge RGB](https://www.rgbdoge.xyz) (project)
 - [PandaPo](https://pandapo.xyz/) (project)
 - MRGB (project)
