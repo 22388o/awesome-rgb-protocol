@@ -540,7 +540,7 @@ Several teams are working indepent libraries
 - [NFT on RGB](https://github.com/palutz/nft_on_rgb)
 - [Faucet RGB](https://github.com/RGB-Tools/faucet-rgb)
 - [RGB CLI Assistant by OpenAI](https://chat.openai.com/g/g-Vo6HpNQSK-rgb-cli-assistant)
-- RGB++ protocol 
+- [RGB++ protocol](https://talk.nervos.org/t/rgb-protocol-light-paper/7733/3)
   
 ## NFTs
 
