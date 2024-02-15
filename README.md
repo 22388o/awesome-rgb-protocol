@@ -348,7 +348,8 @@ Several teams are working indepent libraries
 - [The Rising Synergy Between Liquid Network and RGB](https://www.btctimes.com/news/the-rising-synergy-between-liquid-network-and-rgb)
 - [Detailed introduction to RGB, BitVM, and Nostr](https://www.techflowpost.com/article/detail_16046.html)
 - [Bitlight Labs Seed Round Successfully Concluded](https://medium.com/@bitlightlabs/bitlight-labs-seed-round-successfully-concluded-4086e0064c8c)
-- [RGB++ Protocol Light Paper](https://talk.nervos.org/t/rgb-protocol-light-paper/7733/3)                                      - [RGB++: Contributing to Orthodox Bitcoin L2](https://www.coinlive.com/news/rgb-contributing-to-orthodox-bitcoin-l2)
+- [RGB++ Protocol Light Paper](https://talk.nervos.org/t/rgb-protocol-light-paper/7733/3)
+- [RGB++: Contributing to Orthodox Bitcoin L2](https://www.coinlive.com/news/rgb-contributing-to-orthodox-bitcoin-l2)
   ## Videos
 
 - [BH2022: Smart Contracts, Bitcoin in El Salvador, Economic Empowerment and Civil Resistance ](https://www.youtube.com/watch?v=43sqrqfrD9Y)
