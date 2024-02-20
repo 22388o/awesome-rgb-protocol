@@ -349,6 +349,9 @@ Several teams are working indepent libraries
 - [Bitlight Labs Seed Round Successfully Concluded](https://medium.com/@bitlightlabs/bitlight-labs-seed-round-successfully-concluded-4086e0064c8c)
 - [RGB++ Protocol Light Paper](https://talk.nervos.org/t/rgb-protocol-light-paper/7733/3)
 - [RGB++: Contributing to Orthodox Bitcoin L2](https://www.coinlive.com/news/rgb-contributing-to-orthodox-bitcoin-l2)
+- [Bitcoin Layer 2 Solutions](https://docs.google.com/spreadsheets/d/1UuNPwG_1P1p2f9mQcaBa6qRcrosiUrGhV0oaQcazENk/edit#gid=0)
+
+
   ## Videos
 
 - [BH2022: Smart Contracts, Bitcoin in El Salvador, Economic Empowerment and Civil Resistance ](https://www.youtube.com/watch?v=43sqrqfrD9Y)
