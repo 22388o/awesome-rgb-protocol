@@ -455,6 +455,7 @@ Several teams are working indepent libraries
 - [BitMan](https://bitman.city/)
 - [BaseDao](http://thebasedao.xyz/)
 - MRGB
+- [RGBCoin](https://twitter.com/RGB_coin)
 
 ## Wallets
 
@@ -608,7 +609,8 @@ Several teams are working indepent libraries
 - [XRGB](http://xrgb.xyz/)
 - [PalleteRGB](https://palettergb.com)
 - [Nervos Network](https://www.nervos.org/)
-- [Flashnet](http://flashnet.xyz)     
+- [Flashnet](http://flashnet.xyz)
+- [RGBCoin](https://twitter.com/RGB_coin)
 - [Doge RGB](https://www.rgbdoge.xyz) (project)
 - [PandaPo](https://pandapo.xyz/) (project)
 - MRGB (project)
