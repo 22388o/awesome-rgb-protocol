@@ -270,6 +270,7 @@ Several teams are working indepent libraries
 - [Peper Friends](https://t.me/pepperfriends)
 - [RGBDoge Community](https://t.me/RGB_Doge)
 - [UTXO Labs](https://t.me/UTXOLabs)
+- [Cation Lang WG](https://t.me/cation_lang)
 - [DaPangDunCrypto](https://twitter.com/DaPangDunCrypto) (chinese influencers)
 
 ## Articles
@@ -350,6 +351,7 @@ Several teams are working indepent libraries
 - [RGB++ Protocol Light Paper](https://talk.nervos.org/t/rgb-protocol-light-paper/7733/3)
 - [RGB++: Contributing to Orthodox Bitcoin L2](https://www.coinlive.com/news/rgb-contributing-to-orthodox-bitcoin-l2)
 - [Bitcoin Layer 2 Solutions](https://docs.google.com/spreadsheets/d/1UuNPwG_1P1p2f9mQcaBa6qRcrosiUrGhV0oaQcazENk/edit#gid=0)
+- [Cation Lang: New Language to RGB](https://x.com/dr_orlovsky/status/1760105129754218738?s=20)
 
 
   ## Videos
