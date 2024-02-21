@@ -446,6 +446,8 @@ Several teams are working indepent libraries
 - [BPro Library](https://github.com/pandora-prime/bpro)
 - [RGB TS](https://github.com/chernyal/rgb)
 - [RGB Lib Sample](https://github.com/diamondhands-rgb/rgb-lib-sample)
+- [Rust AluVM](https://github.com/AluVM/rust-aluvm)
+- [Strict Type](https://github.com/strict-types/strict-types)
 
 ## Token and NFTs Example
 
