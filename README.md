@@ -273,6 +273,7 @@ Several teams are working indepent libraries
 - [RGBDoge Community](https://t.me/RGB_Doge)
 - [UTXO Labs](https://t.me/UTXOLabs)
 - [Cation Lang WG](https://t.me/cation_lang)
+- [Prime - Scaling Layer 1](https://t.me/prime_layer1)
 - [DaPangDunCrypto](https://twitter.com/DaPangDunCrypto) (chinese influencers)
 
 ## Articles
