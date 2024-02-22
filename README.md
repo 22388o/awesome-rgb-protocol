@@ -410,6 +410,7 @@ Several teams are working indepent libraries
 - [RGB Journey](https://github.com/BitcoinOS-Labs/rgb-journey)
 - [LN/BP Education](https://geyser.fund/project/lnpbpeducation)
 - [Mastering Bitcoin, 3rd Edition](https://www.oreilly.com/library/view/mastering-bitcoin-3rd/9781098150082/) - with RGB protocol
+- [Introduction to RGB Programming - with Federico Tenga, Hunter and Maxim](https://planb.network/courses/rgb)
   
 ## Guides
 
