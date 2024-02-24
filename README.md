@@ -85,6 +85,9 @@ Currenctly projects already support RGB v0.11:
 - Bitlight Wallet
 - Bitswap (work in progress)
 - RGBFI (work in progress)
+- RGBex (work in progress)
+- MyCitadel (work in progress)
+- PalleteRGB (work in progress)
 
 
 ## Tech Overview
