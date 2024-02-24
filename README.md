@@ -78,6 +78,14 @@ Developers, companies and users can release products on mainnet (knowing risks i
 
 LNP/BP Association is woking in the next version, RGB v0.11, which v0.10 isn't compatible and [will have Liquid](https://x.com/lnp_bp/status/1747930079252951058?s=20),  a sidechain created by the Blockstream and is more stable than v0.10.
 
+Currenctly projects already support RGB v0.11: 
+
+- Bitmask
+- Bitcoin Tribe
+- Bitlight Wallet
+- Bitswap (work in progress)
+- RGBFI (work in progress)
+
 
 ## Tech Overview
 
