@@ -435,6 +435,8 @@ Several teams are working indepent libraries
 - [RGB in Rust](https://rgb.tech/program/rust/)
 - [Zero-code contracts](https://rgb.tech/power-user/#issue)
 - [Programming with Contractum](https://rgb.tech/program/contractum/)
+- [Integrate RGB](https://rgb.tech/integrate/)
+
 
 
 ## Libraries and CLIs
