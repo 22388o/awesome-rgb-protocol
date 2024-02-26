@@ -89,6 +89,7 @@ Currenctly projects already support RGB v0.11:
 - MyCitadel (work in progress)
 - PalleteRGB (work in progress)
 
+Maxim released Roadmap around [v0.11](https://github.com/orgs/RGB-WG/discussions/135)
 
 ## Tech Overview
 
