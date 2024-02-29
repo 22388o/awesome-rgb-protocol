@@ -85,8 +85,6 @@ Currenctly projects already support RGB v0.11:
 - Bitlight Wallet
 - Bitswap (work in progress)
 - RGBFI (work in progress)
-- RGBex (work in progress)
-- MyCitadel (work in progress)
 - PalleteRGB (work in progress)
 
 Maxim released Roadmap around [v0.11](https://github.com/orgs/RGB-WG/discussions/135)
@@ -104,6 +102,9 @@ Little overview around RGB
 - Encoding schema
 - BP Core Lib
 - Client-Side-Validation
+- Storm
+- Lightning Network Protocol (LNP)
+- Prometheus
 
 ### Design
 
