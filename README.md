@@ -87,7 +87,9 @@ Currenctly projects already support RGB v0.11:
 - RGBFI (work in progress)
 - PalleteRGB (work in progress)
 
-Maxim released Roadmap around [v0.11](https://github.com/orgs/RGB-WG/discussions/135)
+[Maxim released Roadmap around v0.11](https://github.com/orgs/RGB-WG/discussions/135)
+
+[Maxim annnounced will exit from LNP/BP](https://x.com/dr_orlovsky/status/1763020557455376721) and focus in AI, robotic and also RGB isn't in his command anymore as Chief Engineer. Now is the community will decide for when the protocol will
 
 ## Tech Overview
 
