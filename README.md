@@ -440,6 +440,7 @@ Several teams are working indepent libraries
 - [Zero-code contracts](https://rgb.tech/power-user/#issue)
 - [Programming with Contractum](https://rgb.tech/program/contractum/)
 - [Integrate RGB](https://rgb.tech/integrate/)
+- [Bitcoin Layer2 on Internet Computer with RGB](https://github.com/BitcoinOS-Labs/BitcoinOS)
 
 
 
