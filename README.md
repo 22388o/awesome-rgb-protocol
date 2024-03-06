@@ -501,7 +501,6 @@ Several teams are working indepent libraries
 - [Keeper Wallet](https://bitcoinkeeper.app/)
 - [Aqua Wallet](https://aquawallet.io/)
 - Bitlight Wallet
-- UTXO Wallet
 - Invebit Wallet
 - [XRGB Wallet](https://app.xrgb.xyz/login) (mobile, extension and web)
   
@@ -515,7 +514,6 @@ Several teams are working indepent libraries
 - [Bitlight Labs](https://bitlightlabs.com/) - Marketplace for tokens and NFTs
 - [Diba](https://diba.io/) - Marketplace for UDAs
 - [AMM DEX Demo by Melvin Carvalho](https://play-grounds.github.io/nosdav/swapstr.html) - Demo AMM for swap RGB assets
-- [UTXO Exchange](https://beta.utxoexchange.xyz/) - Exchange with Marketplace for RGB20 and RGB21 tokens
 - [Ordi Finance](https://doc.ordifinance.xyz/) - Bridge beteween RGB, LN, ETH and DEX AMM
 - [BitRGB](https://bitrgb.network/) - Achieving Infinite Scalability for web3 Asset Issuance and Trading
 - [Tiramisu Wallet](https://mainnet.tiramisuwallet.com/walletapp/) - Wallet and Exhange integrated
@@ -535,8 +533,7 @@ Several teams are working indepent libraries
 - [Storm](https://github.com/Storm-WG)
 - [Carbonado](https://github.com/diba-io/carbonado)
 - [Mindstr](https://mindstr.org/?map=https%3A%2F%2Fnosdav.net%2Fmelvin%2Fmm%2Frgb%2Findex.json)
--  Fatline Protocol
--  [BitMask Asset Registry](https://beta.bitmask.app/#/registry)
+- [BitMask Asset Registry](https://beta.bitmask.app/#/registry)
 
 ## Nodes
 
@@ -577,6 +574,7 @@ Several teams are working indepent libraries
 - [RGB CLI Assistant by OpenAI](https://chat.openai.com/g/g-Vo6HpNQSK-rgb-cli-assistant)
 - [RGB++ protocol](https://talk.nervos.org/t/rgb-protocol-light-paper/7733/3)
 - [Bitlight Local Development Environment](https://github.com/bitlightlabs/bitlight-local-env-public)
+- [Bihelix RGB CLI](https://github.com/BiHelix-Labs/bihelix-rgb-cli)
   
 ## NFTs
 
@@ -585,7 +583,6 @@ Several teams are working indepent libraries
 - [RGB NFT Minting Service CLI](https://github.com/V0nMis3s/rgb-nft-minting-service)
 - [NFT on RGB](https://github.com/palutz/nft_on_rgb)
 - [Scarce City](https://scarce.city/)
-- [UTXO Exchange](https://beta.utxoexchange.xyz/)
 
 
 ## Companies working of form independent on RGB Protocol
@@ -615,7 +612,6 @@ Several teams are working indepent libraries
 - [Hercle](https://www.hercle.financial/)
 - [Diamond Hands](https://www.diamondhands.community/)
 - [Scarce City](https://scarce.city/)
-- [UTXO Exchange](https://beta.utxoexchange.xyz/)
 - [Waterdrip Capital](https://waterdrip.io/)
 - [Satoshi Lab](https://twitter.com/SatoshiLab_)
 - [Web3Labs.club](https://twitter.com/Web3LabsClub)
