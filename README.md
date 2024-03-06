@@ -488,6 +488,7 @@ Several teams are working indepent libraries
 - [BaseDao](http://thebasedao.xyz/)
 - MRGB
 - [RGBCoin](https://twitter.com/RGB_coin)
+- [DarkForestRGB](https://linktr.ee/darkforestrgb)
 
 ## Wallets
 
@@ -639,6 +640,7 @@ Several teams are working indepent libraries
 - [PalleteRGB](https://palettergb.com)
 - [Nervos Network](https://www.nervos.org/)
 - [Flashnet](http://flashnet.xyz)
+- [DarkForestRGB](https://linktr.ee/darkforestrgb)
 - [RGBCoin](https://twitter.com/RGB_coin)
 - [Doge RGB](https://www.rgbdoge.xyz) (project)
 - [PandaPo](https://pandapo.xyz/) (project)
