@@ -479,7 +479,6 @@ Several teams are working indepent libraries
 - [Pepe RGB](https://pepe-rgb.wtf/)
 - [RGB21 Assets workflow](https://gist.github.com/rkedez/fef785f4c12a2be1253659a7ef28b3b8)
 - [Single Use Seals](https://t.me/SingleUseSeal)
-- [Doge RGB](https://www.rgbdoge.xyz)
 - [Assets: BTN & USDN by Pandora Prime](https://github.com/pandora-prime/assets)
 - [Assets DEX: Amazon, Apple, Real State by Bitswap](https://github.com/BitSwap-BiFi/assets-dex)
 - [PandaPo](https://pandapo.xyz/)
