@@ -500,7 +500,7 @@ Several teams are working indepent libraries
 - [Keeper Wallet](https://bitcoinkeeper.app/)
 - [Aqua Wallet](https://aquawallet.io/)
 - Bitlight Wallet
-- Invebit Wallet
+- [Invebit Wallet](https://chromewebstore.google.com/detail/invebit-wallet/mnnjgmgeflihklepbcoepabjfoilndil)
 - [XRGB Wallet](https://app.xrgb.xyz/login) (mobile, extension and web)
   
 ## Exchanges
