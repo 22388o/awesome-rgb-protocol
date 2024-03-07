@@ -508,6 +508,7 @@ Several teams are working indepent libraries
 - [Bitswap](https://github.com/BitSwap-BiFi) - DEX AMM on RGB Protocol and Lightning Network
 - [RGBFI](https://twitter.com/RGBFIOfficial) - DEX AMM (copy/paste from Bitswap)
 - Colorshift - Swap RGB Assets under Swiss Law
+- Invebit DEX - Swap RWAs selected by team 
 - [Bitifinex](https://www.bitfinex.com/) - Major and Old Exchange in the Bitcoin industry
 - [Hodl Hodl](https://hodlhodl.com/) - P2P Lending and Exhcange
 - [Bitlight Labs](https://bitlightlabs.com/) - Marketplace for tokens and NFTs
@@ -520,7 +521,7 @@ Several teams are working indepent libraries
 - [Yellow](https://yellow.money/) - Cross-chain AMM DEX
 - [Bitrans](https://www.bitrans.io/) - DEX with spot and derivatives
 - [PalleteRGB](https://palettergb.com) - Marketplace for RGB20 and RGB21 assets with trading
-- [Flashnet](http://flashnet.xyz) - CEX with Orderbook and instant settled 
+- [Flashnet](http://flashnet.xyz) - CEX with Orderbook and instant settled
   
 ## Explorer
 
