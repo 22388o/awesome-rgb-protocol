@@ -574,7 +574,7 @@ Several teams are working indepent libraries
 - [RGB CLI Assistant by OpenAI](https://chat.openai.com/g/g-Vo6HpNQSK-rgb-cli-assistant)
 - [RGB++ protocol](https://talk.nervos.org/t/rgb-protocol-light-paper/7733/3)
 - [Bitlight Local Development Environment](https://github.com/bitlightlabs/bitlight-local-env-public)
-- [Bihelix RGB CLI](https://github.com/BiHelix-Labs/bihelix-rgb-cli)
+- [Bihelix RGB CLI](https://github.com/bihelix-io/bihelix-rgb-cli)
   
 ## NFTs
 
