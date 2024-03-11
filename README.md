@@ -373,7 +373,7 @@ Several teams are working indepent libraries
 - [Bitcoin Layer 2 Solutions](https://docs.google.com/spreadsheets/d/1UuNPwG_1P1p2f9mQcaBa6qRcrosiUrGhV0oaQcazENk/edit#gid=0)
 - [Cation Lang: New Language to RGB](https://x.com/dr_orlovsky/status/1760105129754218738?s=20)
 - [Understanding Bitcoin Layer 2 with RGB++ Protocol: CKB](https://wublock.substack.com/p/understanding-bitcoin-layer-2-with)
-- [Bitlight Labs: Unlocking the Potential of the Lightning Network Ecosystem] (https://www.gate.io/learn/articles/bitlight-labs-unlocking-the-potential-of-the-lightning-network-ecosystem/1858)
+- [Bitlight Labs: Unlocking the Potential of the Lightning Network Ecosystem](https://www.gate.io/learn/articles/bitlight-labs-unlocking-the-potential-of-the-lightning-network-ecosystem/1858)
 
 
   ## Videos
