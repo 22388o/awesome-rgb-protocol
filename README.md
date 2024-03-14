@@ -92,7 +92,7 @@ Currenctly projects already support RGB v0.11:
 
 [Maxim announced will exit from LNP/BP](https://x.com/dr_orlovsky/status/1763020557455376721) and focus in AI, robotic and also RGB isn't in his command anymore as Chief Engineer. Now is the community will decide for where the protocol will and help decentralization protocol
 
-[LNP/BP announced](https://t.me/rgbtelegram/46098) in March 13 of 2024, is working v0.11.6 which will allow create RC1 and then fix bugs and issues until release officially v0.11.
+[LNP/BP announced](https://t.me/rgbtelegram/46098) in March 13 of 2024, is working v0.11.-beta.6 which will allow create RC1 and then fix bugs and issues until release officially v0.11.
 
 ## Tech Overview
 
