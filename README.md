@@ -490,6 +490,7 @@ Several teams are working indepent libraries
 - MRGB
 - [RGBCoin](https://twitter.com/RGB_coin)
 - [DarkForestRGB](https://linktr.ee/darkforestrgb)
+- [RGB20 Demo based on RGB v0.11](https://github.com/bitlightlabs/bitlight-rgb20-contract)
 
 ## Wallets
 
