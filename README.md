@@ -579,7 +579,9 @@ Several teams are working indepent libraries
 - [RGB++ protocol](https://talk.nervos.org/t/rgb-protocol-light-paper/7733/3)
 - [Bitlight Local Development Environment](https://github.com/bitlightlabs/bitlight-local-env-public)
 - [Bihelix RGB CLI](https://github.com/bihelix-io/bihelix-rgb-cli)
-  
+- [RGB++ SDK](https://github.com/ckb-cell/rgbpp-sdk)
+- [RGB20 Demo based on RGB v0.11 by Bitlight Labs](https://github.com/bitlightlabs/bitlight-rgb20-contract)
+
 ## NFTs
 
 - [DIBA](https://diba.io/)
