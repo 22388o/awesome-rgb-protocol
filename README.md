@@ -552,6 +552,7 @@ Several teams are working indepent libraries
 - [BitRGB](https://bitrgb.network/)
 - [Hercle](https://www.hercle.financial/)
 - [Invebit](https://www.invebit.com/)
+- [Pandora Prime](https://pandoraprime.ch/)
 
 ## DAOs
 
