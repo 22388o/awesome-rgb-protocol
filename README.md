@@ -69,6 +69,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - Custodial services
 - Derivatives
 - Programming Language (Contractum, Cation)
+- AI compatible tech
  
 ## Status software
 
