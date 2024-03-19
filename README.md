@@ -583,6 +583,7 @@ Several teams are working indepent libraries
 - [Bihelix RGB CLI](https://github.com/bihelix-io/bihelix-rgb-cli)
 - [RGB++ SDK](https://github.com/ckb-cell/rgbpp-sdk)
 - [RGB20 Demo based on RGB v0.11 by Bitlight Labs](https://github.com/bitlightlabs/bitlight-rgb20-contract)
+- [AluVM on WASM - Demo](https://github.com/whfuyn/aluvm-on-wasm/)
 
 ## NFTs
 
