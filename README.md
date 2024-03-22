@@ -582,7 +582,6 @@ Several teams are working indepent libraries
 - [RGB++ protocol](https://talk.nervos.org/t/rgb-protocol-light-paper/7733/3)
 - [Bitlight Local Development Environment](https://github.com/bitlightlabs/bitlight-local-env-public)
 - [Bihelix RGB CLI](https://github.com/bihelix-io/bihelix-rgb-cli)
-- [RGB++ SDK](https://github.com/ckb-cell/rgbpp-sdk)
 - [RGB20 Demo based on RGB v0.11 by Bitlight Labs](https://github.com/bitlightlabs/bitlight-rgb20-contract)
 - [AluVM on WASM - Demo](https://github.com/whfuyn/aluvm-on-wasm/)
 
@@ -647,7 +646,6 @@ Several teams are working indepent libraries
 - [MagicRGBMoney](https://www.magicrgbmoney.com/)
 - [XRGB](http://xrgb.xyz/)
 - [PalleteRGB](https://palettergb.com)
-- [Nervos Network](https://www.nervos.org/)
 - [Flashnet](http://flashnet.xyz)
 - [DarkForestRGB](https://linktr.ee/darkforestrgb)
 - [RGBCoin](https://twitter.com/RGB_coin)
