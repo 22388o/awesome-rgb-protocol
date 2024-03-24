@@ -446,8 +446,6 @@ Several teams are working indepent libraries
 - [Integrate RGB](https://rgb.tech/integrate/)
 - [Bitcoin Layer2 on Internet Computer with RGB](https://github.com/BitcoinOS-Labs/BitcoinOS)
 
-
-
 ## Libraries and CLIs
 
 - [RGB-lib](https://github.com/RGB-Tools/rgb-lib)
@@ -584,6 +582,7 @@ Several teams are working indepent libraries
 - [Bihelix RGB CLI](https://github.com/bihelix-io/bihelix-rgb-cli)
 - [RGB20 Demo based on RGB v0.11 by Bitlight Labs](https://github.com/bitlightlabs/bitlight-rgb20-contract)
 - [AluVM on WASM - Demo](https://github.com/whfuyn/aluvm-on-wasm/)
+- [BiHelix Wallet SDK](https://github.com/bihelix-io/bihelix-wallet-sdk)
 
 ## NFTs
 
