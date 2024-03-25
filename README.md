@@ -64,7 +64,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - RWAs
 - Compatible with DLCs, Taproot...
 - Marketplace for RGB20 assets
-- Centralized Exchanges
+- Centralized Exchanges (custodial)
 - Asset Management
 - Custodial services
 - Derivatives
