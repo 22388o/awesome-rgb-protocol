@@ -408,6 +408,9 @@ Several teams are working indepent libraries
 - [Meet Kilian from Boltz.exchange | 和Boltz创始人聊聊闪电网络，Liquid和RGB ](https://www.youtube.com/watch?v=h0Dm-RtKAL4)
 - [和Taproot Asset协议的提拉米苏钱包的创始人聊一聊，空投怎么发，Adam代币持有人有什么福利？｜未来和RGB融合的可能性](https://www.youtube.com/watch?v=xRPt-Yh6cd0)
 - [Pandora Prime: Pioneering Bitcoin Finance](https://www.youtube.com/watch?v=_tNDcZeFVFo)
+- [BitMask Tutorials: Creating your first BitMask Bitcoin Wallet](https://www.youtube.com/watch?v=r2evq3bKbX8)
+- [BitMask Tutorials: How to Send Bitcoin On Chain or Layer 1](https://www.youtube.com/watch?v=rhVSqiVWGvg)
+- [BitMask Tutorials: How to Send Bitcoin via Lightning Network](https://www.youtube.com/watch?v=ihS5j3Mi0-Q)
 
 ## Podcast
 
