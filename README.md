@@ -540,6 +540,8 @@ Several teams are working indepent libraries
 - [Carbonado](https://github.com/diba-io/carbonado)
 - [Mindstr](https://mindstr.org/?map=https%3A%2F%2Fnosdav.net%2Fmelvin%2Fmm%2Frgb%2Findex.json)
 - [BitMask Asset Registry](https://beta.bitmask.app/#/registry)
+- [Bitlight Labs Asset Registry](https://bitlightlabs.com/asset/testnet)
+- [RGBex](https://rgbex.io/)
 
 ## Nodes
 
