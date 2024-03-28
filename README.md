@@ -567,6 +567,10 @@ Several teams are working indepent libraries
 - [Infinite Fleet](https://www.infinitefleet.com/)
 - [DarkForestRGB](https://fireopensource.github.io/dkdocs/)
 
+## AI, ioT
+
+- [UltraViolet Network](https://twitter.com/UVioletAI)
+
 ## Services
 
 - [RGB Minting Service](https://github.com/LukasBahrenberg/rgb-minting-service)
@@ -588,6 +592,7 @@ Several teams are working indepent libraries
 - [RGB20 Demo based on RGB v0.11 by Bitlight Labs](https://github.com/bitlightlabs/bitlight-rgb20-contract)
 - [AluVM on WASM - Demo](https://github.com/whfuyn/aluvm-on-wasm/)
 - [BiHelix Wallet SDK](https://github.com/bihelix-io/bihelix-wallet-sdk)
+- [UltraViolet Network](https://twitter.com/UVioletAI)
 
 ## NFTs
 
@@ -618,6 +623,7 @@ Several teams are working indepent libraries
 - [Invebit](https://www.invebit.com/)
 - [CivKit](https://github.com/civkit)
 - [Bacademy](https://bcademy.it/en/)
+- [UltraViolet Network](https://twitter.com/UVioletAI)
 - [Mutiny Wallet](https://github.com/MutinyWallet/bitcoin-waila)
 - [Iris Wallet](https://github.com/RGB-Tools/iris-wallet-android)
 - [Tiramisu Wallet](https://mainnet.tiramisuwallet.com/walletapp/)
