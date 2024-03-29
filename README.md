@@ -93,7 +93,7 @@ Currenctly projects already support RGB v0.11:
 
 [Maxim announced will exit from LNP/BP](https://x.com/dr_orlovsky/status/1763020557455376721) and focus in AI, robotic and also RGB isn't in his command anymore as Chief Engineer. Now is the community will decide for where the protocol will and help decentralization protocol
 
-[LNP/BP announced](https://t.me/rgbtelegram/46098) in March 13 of 2024, is working v0.11.-beta.6 which will allow create RC1 and then fix bugs and issues until release officially v0.11.
+[LNP/BP announced](https://t.me/rgbtelegram/46098) in March 13 of 2024, is working v0.11.-beta.6 which will allow create RC1 and then fix bugs and issues until release officially v0.11.        
 
 ## Tech Overview
 
@@ -377,7 +377,7 @@ Several teams are working indepent libraries
 - [Cation Lang: New Language to RGB](https://x.com/dr_orlovsky/status/1760105129754218738?s=20)
 - [Understanding Bitcoin Layer 2 with RGB++ Protocol: CKB](https://wublock.substack.com/p/understanding-bitcoin-layer-2-with)
 - [Bitlight Labs: Unlocking the Potential of the Lightning Network Ecosystem](https://www.gate.io/learn/articles/bitlight-labs-unlocking-the-potential-of-the-lightning-network-ecosystem/1858)
-
+- [RGB v0.11 Beta 5 is out](https://rgb.tech/blog/release-v0-11-beta-5/)
 
   ## Videos
 
