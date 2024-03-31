@@ -638,6 +638,7 @@ Several teams are working indepent libraries
 - [LightningNetwork+](https://lightningnetwork.plus/)
 - [Ordi Finance](https://doc.ordifinance.xyz/)
 - [BitRGB](https://bitrgb.network/)
+- [Nervos Network](https://www.nervos.org/)
 - [Yellow](https://yellow.money/)
 - Cororo
 - [Lorenzo](https://www.lorenzo-protocol.xyz/home)
