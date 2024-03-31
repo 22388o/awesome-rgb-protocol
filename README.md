@@ -592,6 +592,7 @@ Several teams are working indepent libraries
 - [RGB20 Demo based on RGB v0.11 by Bitlight Labs](https://github.com/bitlightlabs/bitlight-rgb20-contract)
 - [AluVM on WASM - Demo](https://github.com/whfuyn/aluvm-on-wasm/)
 - [BiHelix Wallet SDK](https://github.com/bihelix-io/bihelix-wallet-sdk)
+- [RGBPP SDK](https://github.com/ckb-cell/rgbpp-sdk)
 - [UltraViolet Network](https://twitter.com/UVioletAI)
 
 ## NFTs
