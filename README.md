@@ -411,6 +411,7 @@ Several teams are working indepent libraries
 - [BitMask Tutorials: Creating your first BitMask Bitcoin Wallet](https://www.youtube.com/watch?v=r2evq3bKbX8)
 - [BitMask Tutorials: How to Send Bitcoin On Chain or Layer 1](https://www.youtube.com/watch?v=rhVSqiVWGvg)
 - [BitMask Tutorials: How to Send Bitcoin via Lightning Network](https://www.youtube.com/watch?v=ihS5j3Mi0-Q)
+- [Set-up a DEX on Lightning](https://planb.lugano.ch/set-up-a-dex-on-lightning/)
 
 ## Podcast
 
