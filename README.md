@@ -513,6 +513,7 @@ Several teams are working indepent libraries
 
 - [Bitswap](https://github.com/BitSwap-BiFi) - DEX AMM on RGB Protocol and Lightning Network
 - [RGBFI](https://twitter.com/RGBFIOfficial) - DEX AMM (copy/paste from Bitswap)
+- [Kaleidoswap](https://kaleidoswap.com/) - Trustless swaps with RGB20 
 - Colorshift - Swap RGB Assets under Swiss Law
 - Invebit DEX - Swap RWAs selected by team 
 - [Bitifinex](https://www.bitfinex.com/) - Major and Old Exchange in the Bitcoin industry
@@ -636,6 +637,7 @@ Several teams are working indepent libraries
 - [Satoshi Lab](https://twitter.com/SatoshiLab_)
 - [Web3Labs.club](https://twitter.com/Web3LabsClub)
 - [LightningNetwork+](https://lightningnetwork.plus/)
+- [Kaleidoswap](https://kaleidoswap.com/)
 - [Ordi Finance](https://doc.ordifinance.xyz/)
 - [BitRGB](https://bitrgb.network/)
 - [Nervos Network](https://www.nervos.org/)
