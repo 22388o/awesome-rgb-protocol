@@ -508,6 +508,7 @@ Several teams are working indepent libraries
 - [Keeper Wallet](https://bitcoinkeeper.app/)
 - [Aqua Wallet](https://aquawallet.io/)
 - Bitlight Wallet
+- [HueHub Wallet](https://huehub.xyz/)
 - [Invebit Wallet](https://chromewebstore.google.com/detail/invebit-wallet/mnnjgmgeflihklepbcoepabjfoilndil)
 - [XRGB Wallet](https://app.xrgb.xyz/login) (mobile, extension and web)
   
@@ -531,6 +532,7 @@ Several teams are working indepent libraries
 - [Bitrans](https://www.bitrans.io/) - DEX with spot and derivatives
 - [PalleteRGB](https://palettergb.com) - Marketplace for RGB20 and RGB21 assets with trading
 - [Flashnet](http://flashnet.xyz) - CEX with Orderbook and instant settled
+- [HueHub](https://huehub.xyz/) - DEX with RGB++ assets
   
 ## Explorer
 
