@@ -378,6 +378,7 @@ Several teams are working indepent libraries
 - [Understanding Bitcoin Layer 2 with RGB++ Protocol: CKB](https://wublock.substack.com/p/understanding-bitcoin-layer-2-with)
 - [Bitlight Labs: Unlocking the Potential of the Lightning Network Ecosystem](https://www.gate.io/learn/articles/bitlight-labs-unlocking-the-potential-of-the-lightning-network-ecosystem/1858)
 - [RGB v0.11 Beta 5 is out](https://rgb.tech/blog/release-v0-11-beta-5/)
+- [Top 5 Bitcoin Layer-2 projects in 2024](https://medium.com/cryptocurrency-scripts/top-5-bitcoin-layer-2-projects-in-2024-46e78e9bf30c)
 
   ## Videos
 
