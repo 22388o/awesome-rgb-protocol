@@ -532,7 +532,7 @@ Several teams are working indepent libraries
 - [Bitrans](https://www.bitrans.io/) - DEX with spot and derivatives
 - [PalleteRGB](https://palettergb.com) - Marketplace for RGB20 and RGB21 assets with trading
 - [Flashnet](http://flashnet.xyz) - CEX with Orderbook and instant settled
-- [HueHub](https://huehub.xyz/) - DEX with RGB++ assets
+- [HueHub](https://huehub.xyz/) - DEX with RGB++ assets (RGB20)
   
 ## Explorer
 
