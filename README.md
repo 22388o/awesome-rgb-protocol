@@ -531,7 +531,6 @@ Several teams are working indepent libraries
 - [Sax Bridge](http://sax.exchange/) - Exchange and Bridge between RGB20<>EVM
 - [Yellow](https://yellow.money/) - Cross-chain AMM DEX
 - [Bitrans](https://www.bitrans.io/) - DEX with spot and derivatives
-- [PalleteRGB](https://palettergb.com) - Marketplace for RGB20 and RGB21 assets with trading
 - [Flashnet](http://flashnet.xyz) - CEX with Orderbook and instant settled
 - [HueHub](https://huehub.xyz/) - DEX with RGB++ assets (RGB20)
   
@@ -664,7 +663,6 @@ Several teams are working indepent libraries
 - [Infinite Fleet](https://www.infinitefleet.com/)
 - [MagicRGBMoney](https://www.magicrgbmoney.com/)
 - [XRGB](http://xrgb.xyz/)
-- [PalleteRGB](https://palettergb.com)
 - [Flashnet](http://flashnet.xyz)
 - [DarkForestRGB](https://linktr.ee/darkforestrgb)
 - [RGBCoin](https://twitter.com/RGB_coin)
