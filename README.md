@@ -271,8 +271,8 @@ Several teams are working indepent libraries
 - [Writing simple contract](https://rgb.tech/program/rust/#basics)
 - [Prime resources by LNP/BP Association](https://x.com/lnp_bp/status/1721193382838501866?s=20)
 - [RGB Blueprint (technical documentation)](https://github.com/RGB-WG/blueprint)
-- [ Requests for comments RGB change proposals](https://github.com/RGB-WG/RFC)
-
+- [Requests for comments RGB change proposals](https://github.com/RGB-WG/RFC)
+- [RGB Protocol Documentation](https://docs.rgb.info/)
 ## Community
 
 - [RGB Telegram](https://t.me/rgbtelegram)
