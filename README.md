@@ -93,7 +93,9 @@ Currenctly projects already support RGB v0.11:
 
 [LNP/BP announced](https://t.me/rgbtelegram/46098) in March 13 of 2024, is working v0.11.-beta.6 which will allow create RC1 and then fix bugs and issues until release officially v0.11.       
 
-LNP/BP Association released [v0.11-beta.5](https://rgb.tech/blog/release-v0-11-beta-5/) allowing developers build and test protocol without breaking consenus. Beyond have a new Maintainer with Maxim, the Antoine from Bitlight Labs
+LNP/BP Association released [v0.11-beta.5](https://rgb.tech/blog/release-v0-11-beta-5/) allowing developers build and test protocol without breaking consenus. Beyond have a new Maintainer with Maxim, the Antoine from Bitlight Labs.
+
+LNP/BP announcedd [v0.11-beta.6](https://t.me/rgbtelegram/46537) with big upgrades how Liquid, contratum for interfaces (RGB20, RGB21, RGB25) and allow reu-se script libraries beyond make e2e tests.
 
 ## Tech Overview
 
