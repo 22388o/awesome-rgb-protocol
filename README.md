@@ -143,6 +143,8 @@ A smart contract in RGB is a directed acyclic graph (DAG) of state changes, wher
 
 *RGB: Command-line tool and  wallet runtime library for desktop and mobile integration
 
+*RGB Interface: This repository provides rust source code and compiled versions of RGB contract schemata recommended for the use by contract developers.
+
 -  [LNP (Lightning Network Protocol)](https://github.com/LNP-WG):
   
 *LNP Core: Lightning Network Protocol core library
@@ -272,6 +274,7 @@ Several teams are working indepent libraries
 - [RGB Blueprint (technical documentation)](https://github.com/RGB-WG/blueprint)
 - [Requests for comments RGB change proposals](https://github.com/RGB-WG/RFC)
 - [RGB Protocol Documentation](https://docs.rgb.info/)
+  
 ## Community
 
 - [RGB Telegram](https://t.me/rgbtelegram)
@@ -459,6 +462,7 @@ Several teams are working indepent libraries
 - [RGB STD](https://github.com/RGB-WG/rgb-std)
 - [RGB Schemata](https://github.com/RGB-WG/rgb-schemata)
 - [RGB CLI](https://github.com/RGB-WG/rgb)
+- [RGB Interface](https://github.com/RGB-WG/rgb-interfaces)
 - [LNP Core](https://github.com/LNP-WG/lnp-core)
 - [Lightning Encoding](https://github.com/LNP-WG/lightning_encoding)
 - [LN Types](https://github.com/LNP-WG/ln-types)
