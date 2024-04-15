@@ -496,7 +496,6 @@ Several teams are working indepent libraries
 - [PandaPo](https://pandapo.xyz/)
 - [BitMan](https://bitman.city/)
 - [BaseDao](http://thebasedao.xyz/)
-- MRGB
 - [RGBCoin](https://twitter.com/RGB_coin)
 - [DarkForestRGB](https://linktr.ee/darkforestrgb)
 - [RGB20 Demo based on RGB v0.11 by Bitlight Labs](https://github.com/bitlightlabs/bitlight-rgb20-contract)
