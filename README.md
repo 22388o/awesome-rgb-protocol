@@ -372,9 +372,7 @@ Several teams are working indepent libraries
 - [A hundred flowers are blooming in Bitcoin Layer 2, a look at the progress of 6 major mainstream protocols](https://blockcast.it/2024/01/17/the-state-of-top-bitcoin-layer2-projects/)
 - [The Rising Synergy Between Liquid Network and RGB](https://www.btctimes.com/news/the-rising-synergy-between-liquid-network-and-rgb)
 - [Detailed introduction to RGB, BitVM, and Nostr](https://www.techflowpost.com/article/detail_16046.html)
-- [Bitlight Labs Seed Round Successfully Concluded](https://medium.com/@bitlightlabs/bitlight-labs-seed-round-successfully-concluded-4086e0064c8c)
-- [RGB++ Protocol Light Paper](https://talk.nervos.org/t/rgb-protocol-light-paper/7733/3)
-- [RGB++: Contributing to Orthodox Bitcoin L2](https://www.coinlive.com/news/rgb-contributing-to-orthodox-bitcoin-l2)
+- [Bitlight Labs Seed Round Successfully Concluded](https://medium.com/@bitlightlabs/bitlight-labs-seed-round-successf
 - [Bitcoin Layer 2 Solutions](https://docs.google.com/spreadsheets/d/1UuNPwG_1P1p2f9mQcaBa6qRcrosiUrGhV0oaQcazENk/edit#gid=0)
 - [Cation Lang: New Language to RGB](https://x.com/dr_orlovsky/status/1760105129754218738?s=20)
 - [Understanding Bitcoin Layer 2 with RGB++ Protocol: CKB](https://wublock.substack.com/p/understanding-bitcoin-layer-2-with)
@@ -535,7 +533,6 @@ Several teams are working indepent libraries
 - [Yellow](https://yellow.money/) - Cross-chain AMM DEX
 - [Bitrans](https://www.bitrans.io/) - DEX with spot and derivatives
 - [Flashnet](http://flashnet.xyz) - CEX with Orderbook and instant settled
-- [HueHub](https://huehub.xyz/) - DEX with RGB++ assets (RGB20)
   
 ## Explorer
 
@@ -594,13 +591,11 @@ Several teams are working indepent libraries
 - [NFT on RGB](https://github.com/palutz/nft_on_rgb)
 - [Faucet RGB](https://github.com/RGB-Tools/faucet-rgb)
 - [RGB CLI Assistant by OpenAI](https://chat.openai.com/g/g-Vo6HpNQSK-rgb-cli-assistant)
-- [RGB++ protocol](https://talk.nervos.org/t/rgb-protocol-light-paper/7733/3)
 - [Bitlight Local Development Environment](https://github.com/bitlightlabs/bitlight-local-env-public)
 - [Bihelix RGB CLI](https://github.com/bihelix-io/bihelix-rgb-cli)
 - [RGB20 Demo based on RGB v0.11 by Bitlight Labs](https://github.com/bitlightlabs/bitlight-rgb20-contract)
 - [AluVM on WASM - Demo](https://github.com/whfuyn/aluvm-on-wasm/)
 - [BiHelix Wallet SDK](https://github.com/bihelix-io/bihelix-wallet-sdk)
-- [RGBPP SDK](https://github.com/ckb-cell/rgbpp-sdk)
 - [UltraViolet Network](https://twitter.com/UVioletAI)
 
 ## NFTs
@@ -647,7 +642,6 @@ Several teams are working indepent libraries
 - [Kaleidoswap](https://kaleidoswap.com/)
 - [Ordi Finance](https://doc.ordifinance.xyz/)
 - [BitRGB](https://bitrgb.network/)
-- [Nervos Network](https://www.nervos.org/)
 - [Yellow](https://yellow.money/)
 - Cororo
 - [Lorenzo](https://www.lorenzo-protocol.xyz/home)
