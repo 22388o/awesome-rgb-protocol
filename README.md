@@ -488,7 +488,6 @@ Several teams are working indepent libraries
 ## Token and NFTs Example
 
 - [USDT example by OneForaAlone](https://github.com/oneforalone/rgb20-usdt)
-- [UTXO token by UTXO Labs and co-authored by OneForaAlone ](https://github.com/UTXOLabs/UTXO-RGB20)
 - [Pepe RGB](https://pepe-rgb.wtf/)
 - [RGB21 Assets workflow](https://gist.github.com/rkedez/fef785f4c12a2be1253659a7ef28b3b8)
 - [Single Use Seals](https://t.me/SingleUseSeal)
