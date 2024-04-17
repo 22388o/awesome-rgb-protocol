@@ -372,7 +372,7 @@ Several teams are working indepent libraries
 - [A hundred flowers are blooming in Bitcoin Layer 2, a look at the progress of 6 major mainstream protocols](https://blockcast.it/2024/01/17/the-state-of-top-bitcoin-layer2-projects/)
 - [The Rising Synergy Between Liquid Network and RGB](https://www.btctimes.com/news/the-rising-synergy-between-liquid-network-and-rgb)
 - [Detailed introduction to RGB, BitVM, and Nostr](https://www.techflowpost.com/article/detail_16046.html)
-- [Bitlight Labs Seed Round Successfully Concluded](https://medium.com/@bitlightlabs/bitlight-labs-seed-round-successf
+- [Bitlight Labs Seed Round Successfully Concluded](https://medium.com/@bitlightlabs/bitlight-labs-seed-round-successful)
 - [Bitcoin Layer 2 Solutions](https://docs.google.com/spreadsheets/d/1UuNPwG_1P1p2f9mQcaBa6qRcrosiUrGhV0oaQcazENk/edit#gid=0)
 - [Cation Lang: New Language to RGB](https://x.com/dr_orlovsky/status/1760105129754218738?s=20)
 - [Understanding Bitcoin Layer 2 with RGB++ Protocol: CKB](https://wublock.substack.com/p/understanding-bitcoin-layer-2-with)
@@ -510,7 +510,6 @@ Several teams are working indepent libraries
 - [Keeper Wallet](https://bitcoinkeeper.app/)
 - [Aqua Wallet](https://aquawallet.io/)
 - Bitlight Wallet
-- [HueHub Wallet](https://huehub.xyz/)
 - [Invebit Wallet](https://chromewebstore.google.com/detail/invebit-wallet/mnnjgmgeflihklepbcoepabjfoilndil)
 - [XRGB Wallet](https://app.xrgb.xyz/login) (mobile, extension and web)
   
