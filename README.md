@@ -571,6 +571,7 @@ Several teams are working indepent libraries
 
 - [Infinite Fleet](https://www.infinitefleet.com/)
 - [DarkForestRGB](https://fireopensource.github.io/dkdocs/)
+- [Root RGB](https://rootproject.vercel.app/)
 
 ## AI, ioT
 
@@ -663,10 +664,10 @@ Several teams are working indepent libraries
 - [Flashnet](http://flashnet.xyz)
 - [DarkForestRGB](https://linktr.ee/darkforestrgb)
 - [RGBCoin](https://twitter.com/RGB_coin)
-- [Doge RGB](https://www.rgbdoge.xyz) (project)
 - [PandaPo](https://pandapo.xyz/) (project)
 - MRGB (project)
 - [DaPangDunCrypto](https://twitter.com/DaPangDunCrypto) (chinese influencers)
+- [Root RGB](https://rootproject.vercel.app/)
 
 ## Others things
 
