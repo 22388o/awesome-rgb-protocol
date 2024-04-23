@@ -583,7 +583,7 @@ Several teams are working indepent libraries
 - [RGB NFT Minting Service CLI](https://github.com/V0nMis3s/rgb-nft-minting-service)
 - [RGB Lightning Sample](https://github.com/RGB-Tools/rgb-lightning-sample)
 - [Bitcoin Pro](https://github.com/pandora-prime/bitcoin-pro)
-- [RGB Proxy Server](https://github.com/grunch/rgb-proxy-server)
+- [RGB Proxy Server](https://github.com/RGB-Tools/rgb-proxy-server)
 - [RGB Lightning Node](https://github.com/RGB-Tools/rgb-lightning-node)
 - [RGB Lightning Node API](https://rgb-tools.github.io/rgb-lightning-node/)
 - SLR (Security Lightning RGB)
