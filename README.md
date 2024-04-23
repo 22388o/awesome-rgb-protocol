@@ -508,7 +508,6 @@ Several teams are working indepent libraries
 - [Shiro](https://github.com/diamondhands-dev/shiro-backend)
 - [Wallby](https://wallby.app/)
 - [Bitcoin Tribe](https://bitcointribe.app/)
-- [Tiramisu Wallet](https://mainnet.tiramisuwallet.com/walletapp/)
 - [Keeper Wallet](https://bitcoinkeeper.app/)
 - [Aqua Wallet](https://aquawallet.io/)
 - Bitlight Wallet
