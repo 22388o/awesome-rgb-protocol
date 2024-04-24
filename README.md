@@ -484,6 +484,7 @@ Several teams are working indepent libraries
 - [RGB Lib Sample](https://github.com/diamondhands-rgb/rgb-lib-sample)
 - [Rust AluVM](https://github.com/AluVM/rust-aluvm)
 - [Strict Type](https://github.com/strict-types/strict-types)
+- [SSI](https://github.com/LNP-BP/ssi)
 
 ## Token and NFTs Example
 
