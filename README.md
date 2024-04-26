@@ -95,7 +95,7 @@ LNP/BP Association released [v0.11-beta.5](https://rgb.tech/blog/release-v0-11-b
 
 LNP/BP announcedd [v0.11-beta.6](https://t.me/rgbtelegram/46537) with big upgrades how Liquid, contratum for interfaces (RGB20, RGB21, RGB25) and allow reu-se script libraries beyond make e2e tests.
 
-[LNP/BP announcedd SSI, a self-sovereign identities made with Bitcoin single-use seals](https://x.com/lnp_bp/status/1783211622045040930) compatible wit RGB v0.11
+[LNP/BP announcedd SSI, a self-sovereign identities made with Bitcoin single-use seals](https://x.com/lnp_bp/status/1783211622045040930) compatible with RGB v0.11
 
 ## Tech Overview
 
