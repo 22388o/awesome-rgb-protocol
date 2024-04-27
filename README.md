@@ -513,7 +513,7 @@ Several teams are working indepent libraries
 - [Bitcoin Tribe](https://bitcointribe.app/)
 - [Keeper Wallet](https://bitcoinkeeper.app/)
 - [Aqua Wallet](https://aquawallet.io/)
-- Bitlight Wallet
+- [Bitlight Wallet](https://chromewebstore.google.com/detail/bitlight-wallet/fdojfgffiecmmppcjnahfgiignlnehap)
 - [Invebit Wallet](https://chromewebstore.google.com/detail/invebit-wallet/mnnjgmgeflihklepbcoepabjfoilndil)
 - [XRGB Wallet](https://app.xrgb.xyz/login) (mobile, extension and web)
   
