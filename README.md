@@ -540,7 +540,7 @@ Several teams are working indepent libraries
   
 ## Explorer
 
-- [RGBex](https://rgbex.io/)
+- [RGBex](https://test.rgbex.io/)
   
 ## Registries
 
@@ -550,7 +550,7 @@ Several teams are working indepent libraries
 - [Mindstr](https://mindstr.org/?map=https%3A%2F%2Fnosdav.net%2Fmelvin%2Fmm%2Frgb%2Findex.json)
 - [BitMask Asset Registry](https://beta.bitmask.app/#/registry)
 - [Bitlight Labs Asset Registry](https://bitlightlabs.com/asset/testnet)
-- [RGBex](https://rgbex.io/)
+- [RGBex](https://test.rgbex.io/)
 
 ## Nodes
 
@@ -559,6 +559,12 @@ Several teams are working indepent libraries
 - [LNP Node](https://github.com/LNP-WG/lnp-node)
 - [Storm Node](https://github.com/Storm-WG/storm-node)
 
+
+## Issues tokens platform
+
+- [RGBex](https://test.rgbex.io/)
+- Bitmask
+- Bitlight Labs
 
 ## Asset Management and Tokenization
 
