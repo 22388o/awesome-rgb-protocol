@@ -85,7 +85,8 @@ Currenctly projects already support RGB v0.11:
 - Bitmask
 - Bitcoin Tribe
 - Bitlight Wallet
-- Bitswap 
+- Bitswap
+- RGBex
 
 [Maxim released Roadmap around v0.11](https://github.com/orgs/RGB-WG/discussions/135)
 
