@@ -709,6 +709,10 @@ Authors of this list is not responsible for eventual issues with third party pro
 
 Please do your own research
 
+## My others awesome lists
+
+[Awesome Taproot Assets](https://github.com/22388o/Awesome-Taproot-Assets)
+
 ## Contributors
 
 <a align="center" href="https://github.com/22388o/awesome-rgb-protocol/graphs/contributors">
