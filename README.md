@@ -618,6 +618,11 @@ Several teams are working indepent libraries
 - [NFT on RGB](https://github.com/palutz/nft_on_rgb)
 - [Scarce City](https://scarce.city/)
 
+## Marketplaces
+
+- BitAssets
+- Diba
+
 
 ## Companies working of form independent on RGB Protocol
 
