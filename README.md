@@ -1,6 +1,6 @@
 # Awesome RGB Protocol 🟢🔵🔴⚡🪙
 
- A curated list of RGB projects and resources 
+ >A curated list of RGB projects and resources 
  
  [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
