@@ -422,6 +422,7 @@ Several teams are working indepent libraries
 - [BitMask Tutorials: How to Send Bitcoin via Lightning Network](https://www.youtube.com/watch?v=ihS5j3Mi0-Q)
 - [Set-up a DEX on Lightning](https://planb.lugano.ch/set-up-a-dex-on-lightning/)
 - [RGB presentation by Pandora Prime, RGB v0.11 and Kaleidoswap in Tuscany Lightning Summit 2024](https://www.youtube.com/watch?v=ZK2Yf49VRxo&)
+- [Giacomo Zucco Explains RGB Tokens on Bitcoin](https://www.youtube.com/watch?v=z8zJ1ATHulg)
 
 ## Podcast
 
