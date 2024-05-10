@@ -702,6 +702,7 @@ Several teams are working indepent libraries
 - Abraxas
 - Handron
 - Kaleidoscope
+- Radiant
 - [The 9th Proof of Folding - A new proposal for Prime](https://github.com/adambor/The9thProofOfFolding)
 
 ## Extra lists
