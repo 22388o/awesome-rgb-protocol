@@ -515,9 +515,9 @@ Several teams are working indepent libraries
 - [Wallby](https://wallby.app/)
 - [Bitcoin Tribe](https://bitcointribe.app/)
 - [Bitlight Wallet](https://chromewebstore.google.com/detail/bitlight-wallet/fdojfgffiecmmppcjnahfgiignlnehap)
-- [Keeper Wallet](https://bitcoinkeeper.app/)
-- [Aqua Wallet](https://aquawallet.io/)
-- [Invebit Wallet](https://chromewebstore.google.com/detail/invebit-wallet/mnnjgmgeflihklepbcoepabjfoilndil)
+- [Keeper Wallet](https://bitcoinkeeper.app/) (Planned)
+- [Aqua Wallet](https://aquawallet.io/) (Planned)
+- [Invebit Wallet](https://chromewebstore.google.com/detail/invebit-wallet/mnnjgmgeflihklepbcoepabjfoilndil) (Planned)
 - [XRGB Wallet](https://app.xrgb.xyz/login) (mobile, extension and web)
   
 ## Exchanges
