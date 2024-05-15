@@ -387,6 +387,7 @@ Several teams are working indepent libraries
 - [RGB Ecosystem by DPD](https://x.com/DaPangDunCrypto/status/1779161813143478613)
 - [ViaBTC Capital Insight丨A Brief Analysis of RGB: A Scalable, Confidential Smart Contract Protocol Built on Bitcoin](https://medium.com/@ViaBTC_Capital/viabtc-capital-insight%E4%B8%A8a-brief-analysis-of-rgb-a-scalable-confidential-smart-contract-protocol-b449f7dbb323)
 - [Bitmask official docs](https://docs.bitmask.app/docs/)
+- [Bitcoin Layer 2 Solutions: Unlocking the Potential of Digital Gold](https://bitcoinnews.com/adoption/bitcoin-layer-2-solutions-bybit/)
 
   ## Videos
 
