@@ -424,6 +424,7 @@ Several teams are working indepent libraries
 - [Set-up a DEX on Lightning](https://planb.lugano.ch/set-up-a-dex-on-lightning/)
 - [RGB presentation by Pandora Prime, RGB v0.11 and Kaleidoswap in Tuscany Lightning Summit 2024](https://www.youtube.com/watch?v=ZK2Yf49VRxo&)
 - [Giacomo Zucco Explains RGB Tokens on Bitcoin](https://www.youtube.com/watch?v=z8zJ1ATHulg)
+- [Community call: Is RGB Really Good for Bitcoin?](https://www.youtube.com/watch?v=HqdByV-pQc8)
 
 ## Podcast
 
