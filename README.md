@@ -570,6 +570,10 @@ Several teams are working indepent libraries
 - Bitmask
 - Bitlight Labs
 
+## Identity Tools
+
+- SSI Keys
+  
 ## Asset Management and Tokenization
 
 - [BitRGB](https://bitrgb.network/)
