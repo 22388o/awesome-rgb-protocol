@@ -388,6 +388,7 @@ Several teams are working indepent libraries
 - [ViaBTC Capital Insight丨A Brief Analysis of RGB: A Scalable, Confidential Smart Contract Protocol Built on Bitcoin](https://medium.com/@ViaBTC_Capital/viabtc-capital-insight%E4%B8%A8a-brief-analysis-of-rgb-a-scalable-confidential-smart-contract-protocol-b449f7dbb323)
 - [Bitmask official docs](https://docs.bitmask.app/docs/)
 - [Bitcoin Layer 2 Solutions: Unlocking the Potential of Digital Gold](https://bitcoinnews.com/adoption/bitcoin-layer-2-solutions-bybit/)
+- [Alpha Test One Report || RGB21](https://dibaglobal.medium.com/alpha-test-one-report-rgb21-e34c4e9413d7)
 
   ## Videos
 
