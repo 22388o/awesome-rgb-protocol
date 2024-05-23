@@ -573,7 +573,7 @@ Several teams are working indepent libraries
 
 ## Identity Tools
 
-- SSI Keys
+- [SSI Keys](https://github.com/SSI-Keys)
   
 ## Asset Management and Tokenization
 
