@@ -389,6 +389,7 @@ Several teams are working indepent libraries
 - [Bitmask official docs](https://docs.bitmask.app/docs/)
 - [Bitcoin Layer 2 Solutions: Unlocking the Potential of Digital Gold](https://bitcoinnews.com/adoption/bitcoin-layer-2-solutions-bybit/)
 - [Alpha Test One Report || RGB21](https://dibaglobal.medium.com/alpha-test-one-report-rgb21-e34c4e9413d7)
+- [Maxim Orlovsky: ‘RGB as the basis for a new legal system for a decentralized society](https://atlas21.com/maxim-orlovsky-rgb-as-the-basis-for-a-new-legal-system-for-a-decentralized-society/)
 
   ## Videos
 
