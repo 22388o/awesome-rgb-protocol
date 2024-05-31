@@ -393,6 +393,7 @@ Several teams are working indepent libraries
 - [RGB Protocol Launches Testnet, Aims to Become Go-to Hub for Bitcoin DeFi](https://www.cryptopolitan.com/rgb-protocol-go-to-hub-for-bitcoin-defi/)
 - [Bitlight Labs Launches Public Release of Bitlight Wallet, the First Self-Custodial Bitcoin Wallet Supporting RGB Assets](https://news.bitcoin.com/bitlight-labs-launches-public-release-of-bitlight-wallet-the-first-self-custodial-bitcoin-wallet-supporting-rgb-assets/)
 - [The Future of Bitcoin #3: Scaling Bitcoin](https://www.binance.com/en/research/analysis/the-future-of-bitcoin-3-scaling-bitcoin)
+- [The Rising Synergy Between Liquid Network and RGB](https://btctimes.com/the-rising-synergy-between-liquid-network-and-rgb/)
 
   ## Videos
 
