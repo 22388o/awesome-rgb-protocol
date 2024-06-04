@@ -394,6 +394,9 @@ Several teams are working indepent libraries
 - [Bitlight Labs Launches Public Release of Bitlight Wallet, the First Self-Custodial Bitcoin Wallet Supporting RGB Assets](https://news.bitcoin.com/bitlight-labs-launches-public-release-of-bitlight-wallet-the-first-self-custodial-bitcoin-wallet-supporting-rgb-assets/)
 - [The Future of Bitcoin #3: Scaling Bitcoin](https://www.binance.com/en/research/analysis/the-future-of-bitcoin-3-scaling-bitcoin)
 - [The Rising Synergy Between Liquid Network and RGB](https://btctimes.com/the-rising-synergy-between-liquid-network-and-rgb/)
+- [What is the RGB Protocol? - Thread](https://x.com/Bitcoin_Square_/status/1794028134976893353)
+- [What Are Bitcoin Layer 2s and Top Bitcoin Layer 2 Projects](https://www.coingecko.com/learn/bitcoin-layer-2s-top-bitcoin-layer-2s)
+- [On the eve of the Bitcoin Layer2 explosion, what can we learn from Ethereum L2?](https://www.binance.com/en/square/post/8083281393449)
 
   ## Videos
 
