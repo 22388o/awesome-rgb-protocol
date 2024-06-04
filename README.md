@@ -626,6 +626,7 @@ Several teams are working indepent libraries
 - [BiHelix Wallet SDK](https://github.com/bihelix-io/bihelix-wallet-sdk)
 - [UltraViolet Network](https://twitter.com/UVioletAI)
 - [RGB Minting Service](https://github.com/ubbabeck/rgb-mintingservice)
+- [Bitswap Demo](https://github.com/BitSwap-BiFi/Bitswap-demo)
 
 ## NFTs
 
