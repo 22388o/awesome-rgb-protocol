@@ -6,6 +6,7 @@
 
  ![image](https://github.com/22388o/awesome-rgb-protocol/assets/83122757/764c7d5c-835c-4243-97f3-7d449a83ae00)
 
+**Contributions are welcome**
 
 ## What is RGB protocol?
 
