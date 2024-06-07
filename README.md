@@ -628,6 +628,7 @@ Several teams are working indepent libraries
 - [UltraViolet Network](https://twitter.com/UVioletAI)
 - [RGB Minting Service](https://github.com/ubbabeck/rgb-mintingservice)
 - [Bitswap Demo](https://github.com/BitSwap-BiFi/Bitswap-demo)
+- [RGB Integration Tests](https://github.com/RGB-WG/rgb-integration-tests)
 
 ## NFTs
 
