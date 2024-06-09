@@ -399,7 +399,8 @@ Several teams are working indepent libraries
 - [What Are Bitcoin Layer 2s and Top Bitcoin Layer 2 Projects](https://www.coingecko.com/learn/bitcoin-layer-2s-top-bitcoin-layer-2s)
 - [On the eve of the Bitcoin Layer2 explosion, what can we learn from Ethereum L2?](https://www.binance.com/en/square/post/8083281393449)
 - [3 Protocols Bringing Asset Issuance to Bitcoi](https://www.techiexpert.com/3-protocols-bringing-asset-issuance-to-bitcoin/)
-
+- [RGB v0.11 Beta 6 is out](https://rgb.tech/blog/release-v0-11-beta-6/)
+  
   ## Videos
 
 - [BH2022: Smart Contracts, Bitcoin in El Salvador, Economic Empowerment and Civil Resistance ](https://www.youtube.com/watch?v=43sqrqfrD9Y)
