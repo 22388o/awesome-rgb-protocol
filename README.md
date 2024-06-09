@@ -398,6 +398,7 @@ Several teams are working indepent libraries
 - [What is the RGB Protocol? - Thread](https://x.com/Bitcoin_Square_/status/1794028134976893353)
 - [What Are Bitcoin Layer 2s and Top Bitcoin Layer 2 Projects](https://www.coingecko.com/learn/bitcoin-layer-2s-top-bitcoin-layer-2s)
 - [On the eve of the Bitcoin Layer2 explosion, what can we learn from Ethereum L2?](https://www.binance.com/en/square/post/8083281393449)
+- [3 Protocols Bringing Asset Issuance to Bitcoi](https://www.techiexpert.com/3-protocols-bringing-asset-issuance-to-bitcoin/)
 
   ## Videos
 
