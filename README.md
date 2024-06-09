@@ -100,6 +100,10 @@ LNP/BP announcedd [v0.11-beta.6](https://t.me/rgbtelegram/46537) with big upgrad
 
 [LNP/BP announcedd SSI, a self-sovereign identities made with Bitcoin single-use seals](https://x.com/lnp_bp/status/1783211622045040930) compatible with RGB v0.11
 
+[LNP/BP Association announced RGB v0.11 Beta 6 with features around RGB20 , Liquid and many more and beyond open doors for Prime, a Bitcoin Scaling solution.](https://rgb.tech/blog/release-v0-11-beta-6/)
+
+
+
 ## Tech Overview
 
 Little overview around RGB 
