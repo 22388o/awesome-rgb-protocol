@@ -102,7 +102,7 @@ LNP/BP announcedd [v0.11-beta.6](https://t.me/rgbtelegram/46537) with big upgrad
 
 [LNP/BP Association announced RGB v0.11 Beta 6 with features around RGB20 , Liquid and many more and beyond open doors for Prime, a Bitcoin Scaling solution.](https://rgb.tech/blog/release-v0-11-beta-6/)
 
-
+[Cyphernet announced SSI is compatible with RGB v0.11 beta 6](https://x.com/cyphernet_io/status/1799842780673708054?s=46&t=XVvcZTrIQmLufMEQ9S0F6g)
 
 ## Tech Overview
 
