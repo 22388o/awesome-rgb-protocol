@@ -100,6 +100,10 @@ LNP/BP announcedd [v0.11-beta.6](https://t.me/rgbtelegram/46537) with big upgrad
 
 [LNP/BP announcedd SSI, a self-sovereign identities made with Bitcoin single-use seals](https://x.com/lnp_bp/status/1783211622045040930) compatible with RGB v0.11
 
+[LNP/BP Association announced RGB v0.11 Beta 6 with features around RGB20 , Liquid and many more and beyond open doors for Prime, a Bitcoin Scaling solution.](https://rgb.tech/blog/release-v0-11-beta-6/)
+
+[Cyphernet announced SSI is compatible with RGB v0.11 beta 6](https://x.com/cyphernet_io/status/1799842780673708054?s=46&t=XVvcZTrIQmLufMEQ9S0F6g)
+
 ## Tech Overview
 
 Little overview around RGB 
@@ -399,7 +403,8 @@ Several teams are working indepent libraries
 - [What Are Bitcoin Layer 2s and Top Bitcoin Layer 2 Projects](https://www.coingecko.com/learn/bitcoin-layer-2s-top-bitcoin-layer-2s)
 - [On the eve of the Bitcoin Layer2 explosion, what can we learn from Ethereum L2?](https://www.binance.com/en/square/post/8083281393449)
 - [3 Protocols Bringing Asset Issuance to Bitcoi](https://www.techiexpert.com/3-protocols-bringing-asset-issuance-to-bitcoin/)
-
+- [RGB v0.11 Beta 6 is out](https://rgb.tech/blog/release-v0-11-beta-6/)
+  
   ## Videos
 
 - [BH2022: Smart Contracts, Bitcoin in El Salvador, Economic Empowerment and Civil Resistance ](https://www.youtube.com/watch?v=43sqrqfrD9Y)
