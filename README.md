@@ -404,6 +404,7 @@ Several teams are working indepent libraries
 - [On the eve of the Bitcoin Layer2 explosion, what can we learn from Ethereum L2?](https://www.binance.com/en/square/post/8083281393449)
 - [3 Protocols Bringing Asset Issuance to Bitcoin](https://www.techiexpert.com/3-protocols-bringing-asset-issuance-to-bitcoin/)
 - [RGB v0.11 Beta 6 is out](https://rgb.tech/blog/release-v0-11-beta-6/)
+- [What Is Bitcoin’s Lightning Network, And How Does It Work?](https://medium.com/@lorenzoprotocol/what-is-bitcoins-lightning-network-and-how-does-it-work-4f68d747d300)
   
   ## Videos
 
@@ -635,6 +636,7 @@ Several teams are working indepent libraries
 - [RGB Minting Service](https://github.com/ubbabeck/rgb-mintingservice)
 - [Bitswap Demo via CLI](https://github.com/BitSwap-BiFi/Bitswap-demo)
 - [RGB Integration Tests](https://github.com/RGB-WG/rgb-integration-tests)
+- [BTC Ecosystem Tools](https://3p-labs.com/)
 
 ## NFTs
 
