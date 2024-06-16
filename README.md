@@ -405,6 +405,7 @@ Several teams are working indepent libraries
 - [3 Protocols Bringing Asset Issuance to Bitcoin](https://www.techiexpert.com/3-protocols-bringing-asset-issuance-to-bitcoin/)
 - [RGB v0.11 Beta 6 is out](https://rgb.tech/blog/release-v0-11-beta-6/)
 - [What Is Bitcoin’s Lightning Network, And How Does It Work?](https://medium.com/@lorenzoprotocol/what-is-bitcoins-lightning-network-and-how-does-it-work-4f68d747d300)
+- [Ultraviolet Network at BTC Prague 2024](https://x.com/UVioletAI/status/1802275625752756639)
   
   ## Videos
 
