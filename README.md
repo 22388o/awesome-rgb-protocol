@@ -407,6 +407,7 @@ Several teams are working indepent libraries
 - [What Is Bitcoin’s Lightning Network, And How Does It Work?](https://medium.com/@lorenzoprotocol/what-is-bitcoins-lightning-network-and-how-does-it-work-4f68d747d300)
 - [Ultraviolet Network at BTC Prague 2024](https://x.com/UVioletAI/status/1802275625752756639)
 - [Client-Side Validation Protocol](https://rooch.network/learn/in-depth-tech/client-side-validation)
+- [Bitmask with internal tests with interoperability between wallets with USDN, atomic swaps](https://x.com/bitgidie/status/1803205686203191732?s=46)
   
   ## Videos
 
