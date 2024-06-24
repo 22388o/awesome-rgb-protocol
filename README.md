@@ -534,7 +534,7 @@ Several teams are working indepent libraries
 - [BitMask](https://bitmask.app/) 
 - [Iris Wallet](https://github.com/RGB-Tools/iris-wallet-android) 
 - [Shiro](https://github.com/diamondhands-dev/shiro-backend)
-- [Wallby](https://wallby.app/)
+- [Wallby](https://wallby.app/) (Planned)
 - [Bitcoin Tribe](https://bitcointribe.app/)
 - [Bitlight Wallet](https://chromewebstore.google.com/detail/bitlight-wallet/fdojfgffiecmmppcjnahfgiignlnehap)
 - [Keeper Wallet](https://bitcoinkeeper.app/) (Planned)
