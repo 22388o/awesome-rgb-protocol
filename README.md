@@ -409,6 +409,7 @@ Several teams are working indepent libraries
 - [Client-Side Validation Protocol](https://rooch.network/learn/in-depth-tech/client-side-validation)
 - [Bitmask with internal tests with interoperability between wallets with USDN, atomic swaps](https://x.com/bitgidie/status/1803205686203191732?s=46)
 - [Exploring Bitcoin L2s: Possibilities Beyond Lightning](https://bitcoinmagazine.com/technical/exploring-bitcoin-l2s-possibilities-beyond-lightning)
+- [BitMask Error Hot Fix. SAFU $$$$$$](https://dibaglobal.medium.com/bitmask-error-hot-fix-safu-960e2a02cd40)
   
   ## Videos
 
