@@ -73,6 +73,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - AI , IoT compatible tech
 - MiniDEX with swaps
 - SSI (identity)
+- Vounchers
  
 ## Status software
 
