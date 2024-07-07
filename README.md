@@ -449,6 +449,7 @@ Several teams are working indepent libraries
 - [Giacomo Zucco Explains RGB Tokens on Bitcoin](https://www.youtube.com/watch?v=z8zJ1ATHulg)
 - [Community call: Is RGB Really Good for Bitcoin?](https://www.youtube.com/watch?v=HqdByV-pQc8)
 - [Layer 2 Venture Capital - Bitcoin Asia](https://www.youtube.com/watch?v=TegHBcj_2Yc)
+- [EP-16 Transforming Bitcoin with RGB: Insights from BiHelix](https://www.youtube.com/watch?v=WwLPnCpugAM)
 
 ## Podcast
 
