@@ -618,7 +618,7 @@ Several teams are working indepent libraries
 
 ## AI, ioT
 
-- [UltraViolet Network](https://twitter.com/UVioletAI)
+- [UltraViolet Network](https://github.com/ultraviolet-network)
 
 ## Services
 
@@ -724,7 +724,6 @@ Several teams are working indepent libraries
 ## Others things
 
 - [Bitcoin Protocol](https://github.com/BP-WG)
-- [Pandora Network](https://github.com/pandora-network)
 - [Pandora Core](https://github.com/pandoracore/)
 - [Prometheus: trustless & scalable machine learning](https://github.com/Prometheus-WG)
 - [reNostr](https://github.com/renostr)
