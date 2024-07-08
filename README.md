@@ -449,6 +449,7 @@ Several teams are working indepent libraries
 - [Giacomo Zucco Explains RGB Tokens on Bitcoin](https://www.youtube.com/watch?v=z8zJ1ATHulg)
 - [Community call: Is RGB Really Good for Bitcoin?](https://www.youtube.com/watch?v=HqdByV-pQc8)
 - [Layer 2 Venture Capital - Bitcoin Asia](https://www.youtube.com/watch?v=TegHBcj_2Yc)
+- [EP-16 Transforming Bitcoin with RGB: Insights from BiHelix](https://www.youtube.com/watch?v=WwLPnCpugAM)
 
 ## Podcast
 
@@ -617,7 +618,7 @@ Several teams are working indepent libraries
 
 ## AI, ioT
 
-- [UltraViolet Network](https://twitter.com/UVioletAI)
+- [UltraViolet Network](https://github.com/ultraviolet-network)
 
 ## Services
 
@@ -723,7 +724,6 @@ Several teams are working indepent libraries
 ## Others things
 
 - [Bitcoin Protocol](https://github.com/BP-WG)
-- [Pandora Network](https://github.com/pandora-network)
 - [Pandora Core](https://github.com/pandoracore/)
 - [Prometheus: trustless & scalable machine learning](https://github.com/Prometheus-WG)
 - [reNostr](https://github.com/renostr)
