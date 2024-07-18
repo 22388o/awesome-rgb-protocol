@@ -451,6 +451,7 @@ Several teams are working indepent libraries
 - [Community call: Is RGB Really Good for Bitcoin?](https://www.youtube.com/watch?v=HqdByV-pQc8)
 - [Layer 2 Venture Capital - Bitcoin Asia](https://www.youtube.com/watch?v=TegHBcj_2Yc)
 - [EP-16 Transforming Bitcoin with RGB: Insights from BiHelix](https://www.youtube.com/watch?v=WwLPnCpugAM)
+- [Scaling Bitcoin with Client Side Validation L2: RGB & Ultraviolet - Bitcoin Asia 2024](https://www.youtube.com/watch?v=VExh0xOoGTI)
 
 ## Podcast
 
