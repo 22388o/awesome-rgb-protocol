@@ -644,6 +644,7 @@ Several teams are working indepent libraries
 - [Bitswap Demo via CLI](https://github.com/BitSwap-BiFi/Bitswap-demo)
 - [RGB Integration Tests](https://github.com/RGB-WG/rgb-integration-tests)
 - [BTC Ecosystem Tools](https://3p-labs.com/)
+- [Bitlight RGB20 Contract Testnet4](https://github.com/bitlightlabs/bitlight-rgb20-contract-testnet4)
 
 ## NFTs
 
