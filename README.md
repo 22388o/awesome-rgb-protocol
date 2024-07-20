@@ -562,9 +562,6 @@ Several teams are working indepent libraries
 - [Diba](https://diba.io/) - Marketplace for UDAs
 - [AMM DEX Demo by Melvin Carvalho](https://play-grounds.github.io/nosdav/swapstr.html) - Demo AMM for swap RGB assets
 - [Ordi Finance](https://doc.ordifinance.xyz/) - Bridge beteween RGB, LN, ETH and DEX AMM
-- [BitRGB](https://bitrgb.network/) - Achieving Infinite Scalability for web3 Asset Issuance and Trading
-- [Tiramisu Wallet](https://mainnet.tiramisuwallet.com/walletapp/) - Wallet and Exhange integrated
-- [Sax Bridge](http://sax.exchange/) - Exchange and Bridge between RGB20<>EVM
 - [Yellow](https://yellow.money/) - Cross-chain AMM DEX
 - [Bitrans](https://www.bitrans.io/) - DEX with spot and derivatives
 - [Flashnet](http://flashnet.xyz) - CEX with Orderbook and instant settled
@@ -696,7 +693,6 @@ Several teams are working indepent libraries
 - [LightningNetwork+](https://lightningnetwork.plus/)
 - [Kaleidoswap](https://kaleidoswap.com/)
 - [Ordi Finance](https://doc.ordifinance.xyz/)
-- [BitRGB](https://bitrgb.network/)
 - [Yellow](https://yellow.money/)
 - Cororo
 - [Lorenzo](https://www.lorenzo-protocol.xyz/home)
@@ -717,9 +713,7 @@ Several teams are working indepent libraries
 - [XRGB](http://xrgb.xyz/)
 - [Flashnet](http://flashnet.xyz)
 - [DarkForestRGB](https://linktr.ee/darkforestrgb)
-- [RGBCoin](https://twitter.com/RGB_coin)
 - [PandaPo](https://pandapo.xyz/) (project)
-- MRGB (project)
 - [DaPangDunCrypto](https://twitter.com/DaPangDunCrypto) (chinese influencers)
 - [Root RGB](https://rootproject.vercel.app/)
 
