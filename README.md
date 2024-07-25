@@ -23,8 +23,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 
 ### Potential Use Case
 
-- Tokenized Securities
-- Tokenized Real State
+- RWAs
 - Bitcoin as Collateral
 - Decentralized Exchanges (AMM, liquidity pool)
 - NFTs
