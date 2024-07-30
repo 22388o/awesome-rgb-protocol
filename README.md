@@ -410,6 +410,8 @@ Several teams are working indepent libraries
 - [Exploring Bitcoin L2s: Possibilities Beyond Lightning](https://bitcoinmagazine.com/technical/exploring-bitcoin-l2s-possibilities-beyond-lightning)
 - [BitMask Error Hot Fix. SAFU $$$$$$](https://dibaglobal.medium.com/bitmask-error-hot-fix-safu-960e2a02cd40)
 - [Guía de RGB Protocol: el futuro de los smart contracts sobre Bitcoin](https://observatorioblockchain.com/bitcoin/guia-de-rgb-protocol-smart-contracts-sobre-bitcoin/)
+- [Second layers and other projects on top of bitcoin](https://braiins.com/blog/second-layers-and-other-projects-on-top-of-bitcoin)
+
   
   ## Videos
 
