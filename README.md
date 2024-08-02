@@ -26,9 +26,9 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - RWAs
 - Bitcoin as Collateral
 - Decentralized Exchanges (AMM, liquidity pool)
-- NFTs with RGB21
+- NFTs w/ RGB21
 - NFT Marketplace
-- NFT auction
+- NFT auction platforms
 - Crowdfunding
 - Stablecoins (aka. Centralized like USDC and USDT)
 - Stablecoins algorithm
