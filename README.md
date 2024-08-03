@@ -548,6 +548,7 @@ Several teams are working indepent libraries
 - [Aqua Wallet](https://aquawallet.io/) (Planned)
 - [Invebit Wallet](https://chromewebstore.google.com/detail/invebit-wallet/mnnjgmgeflihklepbcoepabjfoilndil) (Planned)
 - [XRGB Wallet](https://app.xrgb.xyz/login) (mobile, extension and web)
+- [Swiss Knife](https://github.com/bitcoin-numeraire/swissknife)
   
 ## Exchanges
 
@@ -717,6 +718,8 @@ Several teams are working indepent libraries
 - [PandaPo](https://pandapo.xyz/) (project)
 - [DaPangDunCrypto](https://twitter.com/DaPangDunCrypto) (chinese influencers)
 - [Root RGB](https://rootproject.vercel.app/)
+- [Bitcoin Numeraire](https://github.com/bitcoin-numeraire)
+
 
 ## Others things
 
