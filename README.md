@@ -552,7 +552,6 @@ Several teams are working indepent libraries
   
 ## Exchanges
 
-- [Bitswap](https://github.com/BitSwap-BiFi) - DEX AMM on RGB Protocol and Lightning Network
 - [RGBFI](https://twitter.com/RGBFIOfficial) - DEX AMM (copy/paste from Bitswap)
 - [Kaleidoswap](https://kaleidoswap.com/) - Trustless swaps with RGB20 
 - Colorshift - Swap RGB Assets under Swiss Law
@@ -642,7 +641,6 @@ Several teams are working indepent libraries
 - [BiHelix Wallet SDK](https://github.com/bihelix-io/bihelix-wallet-sdk)
 - [UltraViolet Network](https://twitter.com/UVioletAI)
 - [RGB Minting Service](https://github.com/ubbabeck/rgb-mintingservice)
-- [Bitswap Demo via CLI](https://github.com/BitSwap-BiFi/Bitswap-demo)
 - [RGB Integration Tests](https://github.com/RGB-WG/rgb-integration-tests)
 - [BTC Ecosystem Tools](https://3p-labs.com/)
 - [Bitlight RGB20 Contract Testnet4](https://github.com/bitlightlabs/bitlight-rgb20-contract-testnet4)
@@ -674,7 +672,6 @@ Several teams are working indepent libraries
 - [Fulgur Ventures](https://fulgur.ventures/)
 - [Hojo Foundation](https://twitter.com/hojofoundation)
 - [Bitlight Labs](https://bitlightlabs.com/)
-- [Bitswap](https://github.com/BitSwap-BiFi)
 - [Bihelix](https://www.bihelix.net/)
 - [BitcoinOS Labs](https://github.com/BitcoinOS-Labs)
 - [Bithyve](https://github.com/bithyve)
