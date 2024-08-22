@@ -102,6 +102,8 @@ LNP/BP announcedd [v0.11-beta.6](https://t.me/rgbtelegram/46537) with big upgrad
 
 [Cyphernet announced SSI is compatible with RGB v0.11 beta 6](https://x.com/cyphernet_io/status/1799842780673708054?s=46&t=XVvcZTrIQmLufMEQ9S0F6g)
 
+[LNP/BP Association released RGB v0.11-beta.7](https://rgb.tech/blog/release-v0-11-beta-7/)
+
 ## Tech Overview
 
 Little overview around RGB 
@@ -410,6 +412,7 @@ Several teams are working indepent libraries
 - [BitMask Error Hot Fix. SAFU $$$$$$](https://dibaglobal.medium.com/bitmask-error-hot-fix-safu-960e2a02cd40)
 - [Guía de RGB Protocol: el futuro de los smart contracts sobre Bitcoin](https://observatorioblockchain.com/bitcoin/guia-de-rgb-protocol-smart-contracts-sobre-bitcoin/)
 - [Second layers and other projects on top of bitcoin](https://braiins.com/blog/second-layers-and-other-projects-on-top-of-bitcoin)
+- [RGB v0.11 Beta 7 is out](https://rgb.tech/blog/release-v0-11-beta-7/)
 
   
   ## Videos
