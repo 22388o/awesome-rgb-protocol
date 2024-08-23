@@ -413,6 +413,7 @@ Several teams are working indepent libraries
 - [Guía de RGB Protocol: el futuro de los smart contracts sobre Bitcoin](https://observatorioblockchain.com/bitcoin/guia-de-rgb-protocol-smart-contracts-sobre-bitcoin/)
 - [Second layers and other projects on top of bitcoin](https://braiins.com/blog/second-layers-and-other-projects-on-top-of-bitcoin)
 - [RGB v0.11 Beta 7 is out](https://rgb.tech/blog/release-v0-11-beta-7/)
+- [Hidden Dangers That Cannot Be Ignored: The Security Challenges and Threats of BTC Layer 2 Technology](https://www.gate.io/learn/articles/hidden-dangers-that-cannot-be-ignored-the-security-challenges-and-threats-of-btc-layer-2-technology/3874)
 
   
   ## Videos
