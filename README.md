@@ -88,20 +88,6 @@ Currenctly projects already support RGB v0.11:
 - Bitlight Wallet
 - RGBex
 
-[Maxim released Roadmap around v0.11](https://github.com/orgs/RGB-WG/discussions/135)
-
-[LNP/BP announced](https://t.me/rgbtelegram/46098) in March 13 of 2024, is working v0.11.-beta.6 which will allow create RC1 and then fix bugs and issues until release officially v0.11.       
-
-LNP/BP Association released [v0.11-beta.5](https://rgb.tech/blog/release-v0-11-beta-5/) allowing developers build and test protocol without breaking consenus. Beyond have a new Maintainer with Maxim, the Antoine from Bitlight Labs.
-
-LNP/BP announcedd [v0.11-beta.6](https://t.me/rgbtelegram/46537) with big upgrades how Liquid, contratum for interfaces (RGB20, RGB21, RGB25) and allow reu-se script libraries beyond make e2e tests.
-
-[LNP/BP announcedd SSI, a self-sovereign identities made with Bitcoin single-use seals](https://x.com/lnp_bp/status/1783211622045040930) compatible with RGB v0.11
-
-[LNP/BP Association announced RGB v0.11 Beta 6 with features around RGB20 , Liquid and many more and beyond open doors for Prime, a Bitcoin Scaling solution.](https://rgb.tech/blog/release-v0-11-beta-6/)
-
-[Cyphernet announced SSI is compatible with RGB v0.11 beta 6](https://x.com/cyphernet_io/status/1799842780673708054?s=46&t=XVvcZTrIQmLufMEQ9S0F6g)
-
 [LNP/BP Association released RGB v0.11-beta.7](https://rgb.tech/blog/release-v0-11-beta-7/)
 
 ## Tech Overview
@@ -414,6 +400,7 @@ Several teams are working indepent libraries
 - [Second layers and other projects on top of bitcoin](https://braiins.com/blog/second-layers-and-other-projects-on-top-of-bitcoin)
 - [RGB v0.11 Beta 7 is out](https://rgb.tech/blog/release-v0-11-beta-7/)
 - [Hidden Dangers That Cannot Be Ignored: The Security Challenges and Threats of BTC Layer 2 Technology](https://www.gate.io/learn/articles/hidden-dangers-that-cannot-be-ignored-the-security-challenges-and-threats-of-btc-layer-2-technology/3874)
+- [O que é o protocolo RGB no Bitcoin?](https://blog.areabitcoin.com.br/protocolo-rgb/)
 
   
   ## Videos
