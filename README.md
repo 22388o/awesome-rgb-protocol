@@ -221,6 +221,8 @@ Several teams are working indepent libraries
   
 - Faucet RGB: Faucets for wallets using RG20 tokens
 
+- RGB Lib Node.js bindings: Node.js library for RGB
+
 ### Main RGB Standards
 
 - [RGB20: Fungible Assets](https://standards.lnp-bp.org/rgb/lnpbp-0020)
@@ -511,6 +513,7 @@ Several teams are working indepent libraries
 - [Rust AluVM](https://github.com/AluVM/rust-aluvm)
 - [Strict Type](https://github.com/strict-types/strict-types)
 - [SSI](https://github.com/LNP-BP/ssi)
+- [RGB Lib Node.js bindings](https://github.com/RGB-Tools/rgb-lib-nodejs)
 
 ## Token and NFTs Example
 
