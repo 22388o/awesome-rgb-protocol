@@ -401,6 +401,7 @@ Several teams are working indepent libraries
 - [RGB v0.11 Beta 7 is out](https://rgb.tech/blog/release-v0-11-beta-7/)
 - [Hidden Dangers That Cannot Be Ignored: The Security Challenges and Threats of BTC Layer 2 Technology](https://www.gate.io/learn/articles/hidden-dangers-that-cannot-be-ignored-the-security-challenges-and-threats-of-btc-layer-2-technology/3874)
 - [O que é o protocolo RGB no Bitcoin?](https://blog.areabitcoin.com.br/protocolo-rgb/)
+- [Bitcoin Layer-2 Solutions: An Overview](https://blockzeit.com/bitcoin-layer-2-solutions-an-overview/)
 
   
   ## Videos
