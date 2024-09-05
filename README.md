@@ -248,6 +248,7 @@ Several teams are working indepent libraries
 - [LNP/BP Association (YouTube)](https://www.youtube.com/channel/UCK_Q3xcQ-H3ERwArGaMKsxg)
 - [LNP/BP Association (Twitter)](https://twitter.com/lnp_bp)
 - [LN/BP Association (Telegram channel)](https://t.me/lnp_bp)
+- [RGB Explained](https://wtf.rgb.tech/)
 
 ## Resources
 
