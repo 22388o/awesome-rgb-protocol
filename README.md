@@ -89,7 +89,9 @@ Currenctly projects already support RGB v0.11:
 - RGBex
 
 [LNP/BP Association released RGB v0.11-beta.7](https://rgb.tech/blog/release-v0-11-beta-7/)
+
 [LNP/BP Association releassed RGB v0.11-beta.8 and soon a preview for to be released](https://rgb.tech/blog/release-v0-11-beta-8/)
+
 ## Tech Overview
 
 Little overview around RGB 
