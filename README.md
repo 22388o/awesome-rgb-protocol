@@ -87,6 +87,7 @@ Currenctly projects already support RGB v0.11:
 - Bitcoin Tribe
 - Bitlight Wallet
 - RGBex
+- Pandora Prime
 
 [LNP/BP Association released RGB v0.11-beta.7](https://rgb.tech/blog/release-v0-11-beta-7/)
 
