@@ -715,6 +715,7 @@ Several teams are working indepent libraries
 - [DaPangDunCrypto](https://twitter.com/DaPangDunCrypto) (chinese influencers)
 - [Root RGB](https://rootproject.vercel.app/)
 - [Bitcoin Numeraire](https://github.com/bitcoin-numeraire)
+- [Wizz Wallet](https://wizzwallet.io/)
 
 
 ## Others things
