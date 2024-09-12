@@ -547,6 +547,7 @@ Several teams are working indepent libraries
 - [Invebit Wallet](https://chromewebstore.google.com/detail/invebit-wallet/mnnjgmgeflihklepbcoepabjfoilndil) (Planned)
 - [XRGB Wallet](https://app.xrgb.xyz/login) (mobile, extension and web)
 - [Swiss Knife](https://github.com/bitcoin-numeraire/swissknife)
+- [Wizz Wallet](https://wizzwallet.io/)
   
 ## Exchanges
 
