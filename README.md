@@ -590,8 +590,8 @@ Several teams are working indepent libraries
 ## Issues tokens platform
 
 - [RGBex](https://test.rgbex.io/)
-- Bitmask
-- Bitlight Labs
+- [Bitmask](https://bitmask.app/#/registry)
+- [Bitlight Labs](https://bitlightlabs.com/asset/testnet)
 
 ## Identity Tools
 
@@ -654,8 +654,7 @@ Several teams are working indepent libraries
 
 ## Marketplaces
 
-- BitAssets
-- Diba
+- [Diba](https://diba.io)
 
 
 ## Companies working of form independent on RGB Protocol
