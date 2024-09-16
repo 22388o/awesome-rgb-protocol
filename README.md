@@ -262,7 +262,7 @@ Several teams are working indepent libraries
 - [AluVM](https://www.aluvm.org/)
 - [Contractum](https://www.contractum.org/)
 - [Strict types](https://www.strict-types.org/)
-- [Cation Language](https://beta.cation-lang.org/)
+- [Cation Language](http://cation-lang.org/)
 - [List of specifications](https://standards.lnp-bp.org/)
 - [UBIDECO Institute](https://github.com/UBIDECO)
 - [Archive of legacy RGB development](https://github.com/rgb-archive)
