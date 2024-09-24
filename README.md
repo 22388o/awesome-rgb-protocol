@@ -408,6 +408,7 @@ Several teams are working indepent libraries
 - [O que é o protocolo RGB no Bitcoin?](https://blog.areabitcoin.com.br/protocolo-rgb/)
 - [Bitcoin Layer-2 Solutions: An Overview](https://blockzeit.com/bitcoin-layer-2-solutions-an-overview/)
 - [RGB v0.11 Beta 8 is out](https://rgb.tech/blog/release-v0-11-beta-8/)
+- [What is a RGB Wallet?](https://thebitcoinmanual.com/security/wallets/rgb-wallet/)
   
   ## Videos
 
