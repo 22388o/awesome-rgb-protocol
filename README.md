@@ -656,6 +656,10 @@ Several teams are working indepent libraries
 - [Diba](https://diba.io)
 
 
+## Reference protocols
+
+[Shielded CSV 🛡️: Private and Efficient Client-Side Validation](https://github.com/ShieldedCSV/ShieldedCSV)
+
 ## Companies working of form independent on RGB Protocol
 
 - [RGB Tools](https://github.com/RGB-Tools)
