@@ -72,6 +72,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - MiniDEX with swaps
 - SSI (identity)
 - Vounchers
+- Cross-assets(Taproot Assets<>RGB)
  
 ## Status software
 
@@ -409,6 +410,7 @@ Several teams are working indepent libraries
 - [Bitcoin Layer-2 Solutions: An Overview](https://blockzeit.com/bitcoin-layer-2-solutions-an-overview/)
 - [RGB v0.11 Beta 8 is out](https://rgb.tech/blog/release-v0-11-beta-8/)
 - [What is a RGB Wallet?](https://thebitcoinmanual.com/security/wallets/rgb-wallet/)
+- [Lnfi and Bihelix Collaborate to Bridge Taproot and RGB Assets on the Lightning Network](https://medium.com/@lnfinetwork/lnfi-and-bihelix-collaborate-to-bridge-taproot-and-rgb-assets-on-the-lightning-network-798a664ea788)
   
   ## Videos
 
@@ -720,6 +722,7 @@ Several teams are working indepent libraries
 - [Root RGB](https://rootproject.vercel.app/)
 - [Bitcoin Numeraire](https://github.com/bitcoin-numeraire)
 - [Wizz Wallet](https://wizzwallet.io/)
+- [LnFi](https://lnfi.network/)
 
 
 ## Others things
