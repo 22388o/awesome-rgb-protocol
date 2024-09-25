@@ -528,11 +528,7 @@ Several teams are working indepent libraries
 - [RGB21 Assets workflow](https://gist.github.com/rkedez/fef785f4c12a2be1253659a7ef28b3b8)
 - [Single Use Seals](https://t.me/SingleUseSeal)
 - [Assets: BTN & USDN by Pandora Prime](https://github.com/pandora-prime/assets)
-- [PandaPo](https://pandapo.xyz/)
 - [BitMan](https://bitman.city/)
-- [BaseDao](http://thebasedao.xyz/)
-- [RGBCoin](https://twitter.com/RGB_coin)
-- [DarkForestRGB](https://linktr.ee/darkforestrgb)
 - [RGB20 Demo based on RGB v0.11 by Bitlight Labs](https://github.com/bitlightlabs/bitlight-rgb20-contract)
 
 ## Wallets
@@ -566,7 +562,8 @@ Several teams are working indepent libraries
 - [Yellow](https://yellow.money/) - Cross-chain AMM DEX
 - [Bitrans](https://www.bitrans.io/) - DEX with spot and derivatives
 - [Flashnet](http://flashnet.xyz) - CEX with Orderbook and instant settled
-  
+-  [LnFi](https://lnfi.network/)
+
 ## Explorer
 
 - [RGBex](https://test.rgbex.io/)
