@@ -551,7 +551,7 @@ Several teams are working indepent libraries
 
 - [RGBFI](https://twitter.com/RGBFIOfficial) - DEX AMM (copy/paste from Bitswap)
 - [Kaleidoswap](https://kaleidoswap.com/) - Trustless swaps with RGB20 
-- Colorshift - Swap RGB Assets under Swiss Law
+- Colorshift - Swap RGB Assets(NFTs/Tokens/RWAs) under Swiss Law
 - Invebit DEX - Swap RWAs selected by team 
 - [Bitifinex](https://www.bitfinex.com/) - Major and Old Exchange in the Bitcoin industry
 - [Hodl Hodl](https://hodlhodl.com/) - P2P Lending and Exhcange
