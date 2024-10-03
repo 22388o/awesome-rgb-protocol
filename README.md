@@ -452,6 +452,7 @@ Several teams are working indepent libraries
 - [EP-16 Transforming Bitcoin with RGB: Insights from BiHelix](https://www.youtube.com/watch?v=WwLPnCpugAM)
 - [Scaling Bitcoin with Client Side Validation L2: RGB & Ultraviolet - Bitcoin Asia 2024](https://www.youtube.com/watch?v=VExh0xOoGTI)
 - [RGB : comment ce L2 Bitcoin peut-il rendre Ethereum obsolète ? Avec Pantamis](https://www.youtube.com/watch?v=9HYHfaNWlDw&list=PLRzr-wVRrJRv0OlY20YWNyHkJh9gIiLlZ&index=11)
+- [RGB Protocol: A New Token Economy on Bitcoin and the Lightning Network——Federico Tenga, Bitfinex](https://www.youtube.com/watch?v=hVk4xzh9AjM)
 
 ## Podcast
 
