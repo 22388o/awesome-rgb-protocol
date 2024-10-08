@@ -73,6 +73,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - SSI (identity)
 - Vounchers
 - Cross-assets(Taproot Assets<>RGB)
+- BOLT12 compatible
  
 ## Status software
 
