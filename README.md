@@ -412,6 +412,7 @@ Several teams are working indepent libraries
 - [RGB v0.11 Beta 8 is out](https://rgb.tech/blog/release-v0-11-beta-8/)
 - [What is a RGB Wallet?](https://thebitcoinmanual.com/security/wallets/rgb-wallet/)
 - [Lnfi and Bihelix Collaborate to Bridge Taproot and RGB Assets on the Lightning Network](https://medium.com/@lnfinetwork/lnfi-and-bihelix-collaborate-to-bridge-taproot-and-rgb-assets-on-the-lightning-network-798a664ea788)
+- [Four Mainstream Bitcoin Scaling Solutions: Which Will Unlock BTCFi's Trillion-Dollar Potential?](https://www.gate.io/learn/articles/four-mainstream-bitcoin-scaling-solutions-which-will-unlock-btcfis-trillion-dollar-potential/4472) 
   
   ## Videos
 
