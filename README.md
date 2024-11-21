@@ -646,6 +646,9 @@ Several teams are working indepent libraries
 - [RGB Integration Tests](https://github.com/RGB-WG/rgb-integration-tests)
 - [BTC Ecosystem Tools](https://3p-labs.com/)
 - [Bitlight RGB20 Contract Testnet4](https://github.com/bitlightlabs/bitlight-rgb20-contract-testnet4)
+- [Bitcoin Node Public](https://github.com/bitlightlabs/bitcoin-node-public)
+- [Bitlight Core Derive](https://github.com/bitlightlabs/bitlight-core-derive)
+- [Bitlight SSI Man](https://github.com/bitlightlabs/bitlight-ssi-man)
 
 ## NFTs
 
