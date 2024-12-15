@@ -74,26 +74,7 @@ RGB uses blockchain as a state commitment layer and Bitcoin script as an ownersh
 - Vounchers
 - Cross-assets(Taproot Assets<>RGB)
 - BOLT12 compatible
- 
-## Status software
-
-Since was released [RGB v0.10](https://rgb.tech/blog/release-v0-10/) anyone can build applications on protocol without breaking consensus or other problems
-
-Developers, companies and users can release products on mainnet (knowing risks involved)
-
-LNP/BP Association is woking in the next version, RGB v0.11, which v0.10 isn't compatible and [will have Liquid](https://x.com/lnp_bp/status/1747930079252951058?s=20),  a sidechain created by the Blockstream and is more stable than v0.10.
-
-Currenctly projects already support RGB v0.11: 
-
-- Bitmask
-- Bitcoin Tribe
-- Bitlight Labs
-- Pandora Prime
-
-[LNP/BP Association released RGB v0.11-beta.7](https://rgb.tech/blog/release-v0-11-beta-7/)
-
-[LNP/BP Association releassed RGB v0.11-beta.8 and soon a preview for to be released](https://rgb.tech/blog/release-v0-11-beta-8/)
-
+- 
 ## Tech Overview
 
 Little overview around RGB 
@@ -112,7 +93,6 @@ Little overview around RGB
 - Prometheus
 
 ### Design
-
 In simple terms, RGB is a system that allows the user to audit a smart contract, execute it and verify it individually at any time without having an additional cost since for this it does not use a blockchain as "traditional" systems do, complex smart contracts systems were pioneered by Ethereum but due to it requires the user to spend significant amounts of gas for each operation, they never achieved the scalability they promised by consequence it never was an option to bank the users excluded from the current financial system.
 
 Currently, the blockchain industry promotes that both the code of smart contracts and the data must be stored in the blockchain and executed by each node of the network, regardless of the excessive increase in size or the misuse of computational resources. The scheme proposed by RGB is much more intelligent and efficient since it cuts with the blockchain paradigm by having smart contracts and data separated from the blockchain and thus avoids the saturation of the network seen in other platforms, in turn it does not force each node to execute each contract but rather the parties involved which adds confidentiality to a level never seen before.
@@ -412,7 +392,9 @@ Several teams are working indepent libraries
 - [RGB v0.11 Beta 8 is out](https://rgb.tech/blog/release-v0-11-beta-8/)
 - [What is a RGB Wallet?](https://thebitcoinmanual.com/security/wallets/rgb-wallet/)
 - [Lnfi and Bihelix Collaborate to Bridge Taproot and RGB Assets on the Lightning Network](https://medium.com/@lnfinetwork/lnfi-and-bihelix-collaborate-to-bridge-taproot-and-rgb-assets-on-the-lightning-network-798a664ea788)
-- [Four Mainstream Bitcoin Scaling Solutions: Which Will Unlock BTCFi's Trillion-Dollar Potential?](https://www.gate.io/learn/articles/four-mainstream-bitcoin-scaling-solutions-which-will-unlock-btcfis-trillion-dollar-potential/4472) 
+- [Four Mainstream Bitcoin Scaling Solutions: Which Will Unlock BTCFi's Trillion-Dollar Potential?](https://www.gate.io/learn/articles/four-mainstream-bitcoin-scaling-solutions-which-will-unlock-btcfis-trillion-dollar-potential/4472)
+- [A panoramic analysis of the BTC ecosystem: Rebuilding its glory and returning to its peak?](https://www.panewslab.com/en/articledetails/5a3l55slrkqm.html)
+- [How to objectively approach the technological innovation and challenges of the Bitcoin ecosystem?](https://www.aicoin.com/en/article/372610)
   
   ## Videos
 
