@@ -531,7 +531,6 @@ Several teams are working indepent libraries
 - [XRGB Wallet](https://app.xrgb.xyz/login) (mobile, extension and web)
 - [Swiss Knife](https://github.com/bitcoin-numeraire/swissknife)
 - [Wizz Wallet](https://wizzwallet.io/)
-- [Ray Wallet](https://raywallet.app/)
   
 ## Exchanges
 
