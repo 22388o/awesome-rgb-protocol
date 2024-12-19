@@ -709,7 +709,7 @@ Several teams are working indepent libraries
 - [Bitcoin Numeraire](https://github.com/bitcoin-numeraire)
 - [Wizz Wallet](https://wizzwallet.io/)
 - [LnFi](https://lnfi.network/)
-- [RGB OS](https://github.com/RGB-OS/)
+- [Thunderstack](https://www.thunderstack.org/)
 
 
 ## Others things
