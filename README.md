@@ -630,6 +630,7 @@ Several teams are working indepent libraries
 - [Bitcoin Node Public](https://github.com/bitlightlabs/bitcoin-node-public)
 - [Bitlight Core Derive](https://github.com/bitlightlabs/bitlight-core-derive)
 - [Bitlight SSI Man](https://github.com/bitlightlabs/bitlight-ssi-man)
+- [Thunderstack RGB Lightning Node](https://github.com/RGB-OS/thunderstack-rgb-lightning-node-deploy)
 
 ## NFTs
 
@@ -708,6 +709,7 @@ Several teams are working indepent libraries
 - [Bitcoin Numeraire](https://github.com/bitcoin-numeraire)
 - [Wizz Wallet](https://wizzwallet.io/)
 - [LnFi](https://lnfi.network/)
+- [RGB OS](https://github.com/RGB-OS/)
 
 
 ## Others things
