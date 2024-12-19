@@ -729,6 +729,10 @@ Several teams are working indepent libraries
 - Radiant
 - [The 9th Proof of Folding - A new proposal for Prime](https://github.com/adambor/The9thProofOfFolding)
 
+## Reference protocols
+
+[Shielded CSV 🛡️: Private and Efficient Client-Side Validation](https://github.com/ShieldedCSV/ShieldedCSV)
+
 ## Extra lists
 
 - [Awesome RGB by Lounès Ksouri](https://github.com/louneskmt/awesome-rgb) 
