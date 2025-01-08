@@ -513,7 +513,8 @@ Several teams are working indepent libraries
 - [Single Use Seals](https://t.me/SingleUseSeal)
 - [Assets: BTN & USDN by Pandora Prime](https://github.com/pandora-prime/assets)
 - [BitMan](https://bitman.city/)
-- [RGB20 Demo based on RGB v0.11 by Bitlight Labs](https://github.com/bitlightlabs/bitlight-rgb20-contract)
+- [RGB20 Demo based on RGB v0.12 by Bitlight Labs](https://github.com/bitlightlabs/bitlight-rgb20-contract)
+- [RGB contracts by Pandora Prime](https://github.com/pandora-prime/rgb-issuers)
 
 ## Wallets
 
