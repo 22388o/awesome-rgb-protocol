@@ -267,7 +267,6 @@ Several teams are working indepent libraries
 - [RGB Community (Twitter)](https://twitter.com/i/communities/1585365616743022595)
 - [RGB Reddit](https://www.reddit.com/r/RGB_protocol/)
 - [RGB OGs](https://t.me/RGB_TA_OGs)
-- [RGB Chinese group](https://t.me/+sawAp0ZBjWQzOWJl)
 - [Single Use Seals](https://t.me/SingleUseSeal)
 - [Pepe RGB](https://t.me/pepe_rgb)
 - [Bitlight Labs](https://t.me/Bitlightlabs)
