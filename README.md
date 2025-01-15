@@ -547,7 +547,7 @@ Several teams are working indepent libraries
 - [Yellow](https://yellow.money/) - Cross-chain AMM DEX
 - [Bitrans](https://www.bitrans.io/) - DEX with spot and derivatives
 - [Flashnet](http://flashnet.xyz) - CEX with Orderbook and instant settled
--  [LnFi](https://lnfi.network/)
+- [LnFi](https://lnfi.network/) - DEX over Lightning Network
 
 ## Explorer
 
