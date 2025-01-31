@@ -393,6 +393,9 @@ Several teams are working indepent libraries
 - [Four Mainstream Bitcoin Scaling Solutions: Which Will Unlock BTCFi's Trillion-Dollar Potential?](https://www.gate.io/learn/articles/four-mainstream-bitcoin-scaling-solutions-which-will-unlock-btcfis-trillion-dollar-potential/4472)
 - [A panoramic analysis of the BTC ecosystem: Rebuilding its glory and returning to its peak?](https://www.panewslab.com/en/articledetails/5a3l55slrkqm.html)
 - [How to objectively approach the technological innovation and challenges of the Bitcoin ecosystem?](https://www.aicoin.com/en/article/372610)
+- [Fake Channels Are Real: Why Client-Side-Validated Lightning Is Easier Than You Think](https://petertodd.org/2025/fake-channels-and-rgb-lightning)
+- [Iris Wallet Desktop launches: first interface for RGB protocol on Lightning Network](https://atlas21.com/iris-wallet-desktop-launches-first-interface-for-rgb-protocol-on-lightning-network/)
+- [First release of Iris Wallet Desktop, RGB on lightning from a simple interface ⚡️⚡️](https://xcancel.com/iris_wallet/status/1884283400078647678)
   
   ## Videos
 
@@ -520,7 +523,8 @@ Several teams are working indepent libraries
 
 - [MyCitadel](https://mycitadel.io/) 
 - [BitMask](https://bitmask.app/) 
-- [Iris Wallet](https://github.com/RGB-Tools/iris-wallet-android) 
+- [Iris Wallet - Mobile](https://github.com/RGB-Tools/iris-wallet-android)
+- [Iris Wallet - Desktop](https://github.com/RGB-Tools/iris-wallet-desktop)
 - [Shiro](https://github.com/diamondhands-dev/shiro-backend)
 - [Wallby](https://wallby.app/) (Planned)
 - [Tribe RGB](https://bitcointribe.app/)
