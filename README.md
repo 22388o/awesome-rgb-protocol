@@ -710,6 +710,7 @@ Several teams are working indepent libraries
 - [Wizz Wallet](https://wizzwallet.io/)
 - [LnFi](https://lnfi.network/)
 - [Thunderstack](https://www.thunderstack.org/)
+- [Tether](https://tether.to/en/)
 
 
 ## Others things
