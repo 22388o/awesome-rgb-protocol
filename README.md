@@ -518,6 +518,7 @@ Several teams are working indepent libraries
 - [BitMan](https://bitman.city/)
 - [RGB20 Demo based on RGB v0.12 by Bitlight Labs](https://github.com/bitlightlabs/bitlight-rgb20-contract)
 - [RGB contracts by Pandora Prime](https://github.com/pandora-prime/rgb-issuers)
+- [Flash RGB](https://t.me/RGBSpectrumBot)
 
 ## Wallets
 
@@ -535,6 +536,7 @@ Several teams are working indepent libraries
 - [XRGB Wallet](https://app.xrgb.xyz/login) (mobile, extension and web)
 - [Swiss Knife](https://github.com/bitcoin-numeraire/swissknife)
 - [Wizz Wallet](https://wizzwallet.io/)
+- [Light Spectrum Wallet](https://t.me/RGBSpectrumBot)
   
 ## Exchanges
 
@@ -552,10 +554,12 @@ Several teams are working indepent libraries
 - [Bitrans](https://www.bitrans.io/) - DEX with spot and derivatives
 - [Flashnet](http://flashnet.xyz) - CEX with Orderbook and instant settled
 - [LnFi](https://lnfi.network/) - DEX over Lightning Network
+- [Flash Spectrum](https://t.me/RGBSpectrumBot)
 
 ## Explorer
 
 - [RGBex](https://test.rgbex.io/)
+- [Light Spectrum Wallet](https://t.me/RGBSpectrumBot)
   
 ## Registries
 
@@ -580,6 +584,7 @@ Several teams are working indepent libraries
 - [RGBex](https://test.rgbex.io/)
 - [Bitmask](https://bitmask.app/#/registry)
 - [Bitlight Labs](https://bitlightlabs.com/asset/testnet)
+- [RGB Spectrum Wallet](https://t.me/RGBSpectrumBot)
 
 ## Identity Tools
 
@@ -643,10 +648,12 @@ Several teams are working indepent libraries
 - [RGB NFT Minting Service CLI](https://github.com/V0nMis3s/rgb-nft-minting-service)
 - [NFT on RGB](https://github.com/palutz/nft_on_rgb)
 - [Scarce City](https://scarce.city/)
+- [Light Spectrum Wallet](https://t.me/RGBSpectrumBot)
 
 ## Marketplaces
 
 - [Diba](https://diba.io)
+- [Light Spectrum Wallet](https://t.me/RGBSpectrumBot)
 
 
 ## Reference protocols
